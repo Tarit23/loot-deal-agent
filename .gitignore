@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+products.json
+database.db
+aws_magic_script.sh
+*.pem
+venv/
+.vscode/
+.idea/
