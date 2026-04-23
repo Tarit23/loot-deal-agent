@@ -149,6 +149,24 @@ if __name__ == '__main__':
     h = threading.Thread(target=run_health_server, daemon=True)
     h.start()
     
+    # Self-Ping to help stay awake (Render Free Tier)
+    def self_ping():
+        import requests
+        # Wait for server to start
+        time.sleep(10)
+        port = os.environ.get("PORT", "10000")
+        url = f"http://localhost:{port}"
+        print(f"Self-pinging {url} started...")
+        while True:
+            try:
+                requests.get(url, timeout=5)
+            except:
+                pass
+            time.sleep(600) # Ping every 10 mins
+
+    p = threading.Thread(target=self_ping, daemon=True)
+    p.start()
+
     # Start bot polling (blocking)
     print("Bot is polling. Send commands in Telegram!")
     app.run_polling()
