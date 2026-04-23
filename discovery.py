@@ -20,11 +20,19 @@ def discover_amazon():
         # Search URL with 50% or more discount filter (rh=p_8_50-)
         search_url = f"https://www.amazon.in/s?k={category}&rh=p_8_50-"
         
-        try:
-            response = requests.get(search_url, headers=get_headers(), timeout=15)
-            if response.status_code != 200:
-                print(f"Amazon search failed for {category}: {response.status_code}")
-                continue
+        for attempt in range(2):
+            try:
+                response = requests.get(search_url, headers=get_headers(), timeout=15)
+                if response.status_code == 200:
+                    break
+                print(f"Amazon search attempt {attempt+1} failed: {response.status_code}")
+                time.sleep(5)
+            except Exception as e:
+                print(f"Error in Amazon attempt {attempt+1}: {e}")
+                time.sleep(5)
+        else:
+            print(f"Amazon search failed for {category} after retries.")
+            continue
                 
             soup = BeautifulSoup(response.content, "html.parser")
             # Find product cards
@@ -57,11 +65,19 @@ def discover_flipkart():
         # Search URL with 50% or more discount filter
         search_url = f"https://www.flipkart.com/search?q={category}&p[]=facets.discount_range%3D50%25%2Bor%2Bmore"
         
-        try:
-            response = requests.get(search_url, headers=HEADERS, timeout=15)
-            if response.status_code != 200:
-                print(f"Flipkart search failed for {category}: {response.status_code}")
-                continue
+        for attempt in range(2):
+            try:
+                response = requests.get(search_url, headers=get_headers(), timeout=15)
+                if response.status_code == 200:
+                    break
+                print(f"Flipkart search attempt {attempt+1} failed: {response.status_code}")
+                time.sleep(5)
+            except Exception as e:
+                print(f"Error in Flipkart attempt {attempt+1}: {e}")
+                time.sleep(5)
+        else:
+            print(f"Flipkart search failed for {category} after retries.")
+            continue
                 
             soup = BeautifulSoup(response.content, "html.parser")
             
