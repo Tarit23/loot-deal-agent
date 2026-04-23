@@ -6,7 +6,7 @@ import re
 from urllib.parse import urljoin
 import database
 import utils
-from scraper import HEADERS
+from scraper import get_headers
 
 # Categories to search for discoveries
 CATEGORIES = ["mobiles", "electronics", "laptops", "shoes", "watches", "kitchen", "home decor", "headphones"]
@@ -21,7 +21,7 @@ def discover_amazon():
         search_url = f"https://www.amazon.in/s?k={category}&rh=p_8_50-"
         
         try:
-            response = requests.get(search_url, headers=HEADERS, timeout=15)
+            response = requests.get(search_url, headers=get_headers(), timeout=15)
             if response.status_code != 200:
                 print(f"Amazon search failed for {category}: {response.status_code}")
                 continue

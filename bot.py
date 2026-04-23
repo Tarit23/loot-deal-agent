@@ -87,6 +87,21 @@ async def remove(update: Update, context: ContextTypes.DEFAULT_TYPE):
     else:
          await update.message.reply_text(f"❌ Could not find product with ID {pid}.")
 
+async def test_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Answers the /testpost command."""
+    from config import TELEGRAM_CHANNEL_ID
+    await update.message.reply_text(f"Attempting to post a test message to {TELEGRAM_CHANNEL_ID}...")
+    
+    try:
+        await context.bot.send_message(
+            chat_id=TELEGRAM_CHANNEL_ID,
+            text="🚀 **Bot Connection Test**\nIf you see this, the bot can post to this channel!",
+            parse_mode='Markdown'
+        )
+        await update.message.reply_text("✅ Test post sent successfully! Check your channel.")
+    except Exception as e:
+        await update.message.reply_text(f"❌ Failed to post: {e}\n\nMake sure the bot is an ADMIN in the channel and the Channel ID is correct.")
+
 def setup_bot_application():
     """Sets up the bot handlers and returns the bot application."""
     if not TELEGRAM_BOT_TOKEN or TELEGRAM_BOT_TOKEN == "your_telegram_bot_token_here":
@@ -98,5 +113,6 @@ def setup_bot_application():
     app.add_handler(CommandHandler("add", add))
     app.add_handler(CommandHandler("list", list_products))
     app.add_handler(CommandHandler("remove", remove))
+    app.add_handler(CommandHandler("testpost", test_post))
     
     return app

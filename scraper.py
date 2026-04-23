@@ -1,14 +1,28 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import random
 
-# Generic headers to mask simple scraping
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive"
-}
+# List of many user agents to rotate
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1"
+]
+
+def get_headers():
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Connection": "keep-alive"
+    }
+
+# Keep HEADERS for backward compatibility but encourage get_headers()
+HEADERS = get_headers()
 
 def expand_url(url):
     """Expands shortened URLs like amzn.to, fktr.in, bit.ly, etc."""
@@ -65,7 +79,7 @@ def clean_price(price_str):
 def scrape_amazon(url):
     """Scrapes title and price from Amazon India."""
     try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
+        response = requests.get(url, headers=get_headers(), timeout=10)
         # Amazon might return 503 if blocked, just log it or retry in production
         if response.status_code != 200:
             print(f"Failed to fetch Amazon page: {response.status_code}")
@@ -120,7 +134,7 @@ def scrape_amazon(url):
 def scrape_flipkart(url):
     """Scrapes title and price from Flipkart."""
     try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
+        response = requests.get(url, headers=get_headers(), timeout=10)
         if response.status_code != 200:
             print(f"Failed to fetch Flipkart page: {response.status_code}")
             return None, None, None
