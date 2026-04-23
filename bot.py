@@ -42,7 +42,7 @@ async def add(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     # Scrape current price
     await update.message.reply_text("Scraping product info... please wait ⏳")
-    title, price = scraper.scrape_product(url)
+    title, price, list_price = scraper.scrape_product(url)
     
     if not price:
          await update.message.reply_text("⚠️ Could not fetch price. Adding anyway, maybe it resolves later.")
