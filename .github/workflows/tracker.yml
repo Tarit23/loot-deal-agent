@@ -1,0 +1,43 @@
+name: 24/7 Loot Deal Tracker
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  track_and_post:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit products.json back
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Tracker
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AMAZON_AFFILIATE_TAG: ${{ secrets.AMAZON_AFFILIATE_TAG }}
+          EARNKARO_USER_ID: ${{ secrets.EARNKARO_USER_ID }}
+          FLIPKART_AFFILIATE_ID: ${{ secrets.FLIPKART_AFFILIATE_ID }}
+        run: python main_gh.py
+
+      - name: Commit Updated Database
+        run: |
+          git config --global user.name "LootBot Deployer"
+          git config --global user.email "bot@github.actions"
+          git add products.json
+          git commit -m "chore: update product database [skip ci]" || echo "No changes to commit"
+          git push origin main
