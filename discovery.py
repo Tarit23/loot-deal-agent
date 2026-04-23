@@ -24,35 +24,23 @@ def discover_amazon():
             try:
                 response = requests.get(search_url, headers=get_headers(), timeout=15)
                 if response.status_code == 200:
+                    soup = BeautifulSoup(response.content, "html.parser")
+                    # Find product cards
+                    items = soup.find_all("div", {"data-component-type": "s-search-result"})
+                    
+                    for item in items[:10]:
+                        link_tag = item.find("a", {"class": "a-link-normal s-no-outline"})
+                        if link_tag and 'href' in link_tag.attrs:
+                            full_url = urljoin("https://www.amazon.in", link_tag['href'])
+                            if '/dp/' in full_url:
+                                clean_url = full_url.split('?')[0]
+                                discovered_urls.append(clean_url)
                     break
                 print(f"Amazon search attempt {attempt+1} failed: {response.status_code}")
                 time.sleep(5)
             except Exception as e:
                 print(f"Error in Amazon attempt {attempt+1}: {e}")
                 time.sleep(5)
-        else:
-            print(f"Amazon search failed for {category} after retries.")
-            continue
-                
-            soup = BeautifulSoup(response.content, "html.parser")
-            # Find product cards
-            # Amazon search results usually have class 's-result-item'
-            items = soup.find_all("div", {"data-component-type": "s-search-result"})
-            
-            for item in items[:10]: # Limit to top 10 products per category
-                link_tag = item.find("a", {"class": "a-link-normal s-no-outline"})
-                if link_tag and 'href' in link_tag.attrs:
-                    full_url = urljoin("https://www.amazon.in", link_tag['href'])
-                    # Clean the URL to be a standard product URL
-                    if '/dp/' in full_url:
-                        clean_url = full_url.split('?')[0]
-                        discovered_urls.append(clean_url)
-            
-            # Rate limiting delay
-            time.sleep(random.uniform(2, 5))
-            
-        except Exception as e:
-            print(f"Error in Amazon discovery for {category}: {e}")
             
     return list(set(discovered_urls))
 
@@ -69,37 +57,19 @@ def discover_flipkart():
             try:
                 response = requests.get(search_url, headers=get_headers(), timeout=15)
                 if response.status_code == 200:
+                    soup = BeautifulSoup(response.content, "html.parser")
+                    links = soup.find_all("a", href=re.compile(r'/p/'))
+                    for link in links[:10]:
+                        if 'href' in link.attrs:
+                            full_url = urljoin("https://www.flipkart.com", link['href'])
+                            clean_url = full_url.split('?')[0]
+                            discovered_urls.append(clean_url)
                     break
                 print(f"Flipkart search attempt {attempt+1} failed: {response.status_code}")
                 time.sleep(5)
             except Exception as e:
                 print(f"Error in Flipkart attempt {attempt+1}: {e}")
                 time.sleep(5)
-        else:
-            print(f"Flipkart search failed for {category} after retries.")
-            continue
-                
-            soup = BeautifulSoup(response.content, "html.parser")
-            
-            # Find product links
-            # Flipkart uses different structures for different categories
-            # One common one is <a> tags with 'VpYofL' or similar, but checking for 'p/' in href is safer
-            links = soup.find_all("a", href=re.compile(r'/p/'))
-            
-            for link in links[:10]: # Limit to top 10
-                if 'href' in link.attrs:
-                    full_url = urljoin("https://www.flipkart.com", link['href'])
-                    # Clean to base product URL
-                    clean_url = full_url.split('?')[0]
-                    # We might need the 'pid' which is in params, so keep the ID relevant parts if needed
-                    # For simplicity in MVP, we track the base product
-                    discovered_urls.append(clean_url)
-            
-            # Rate limiting delay
-            time.sleep(random.uniform(2, 5))
-            
-        except Exception as e:
-            print(f"Error in Flipkart discovery for {category}: {e}")
             
     return list(set(discovered_urls))
 
