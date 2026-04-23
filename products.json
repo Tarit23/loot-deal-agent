@@ -499,9 +499,9 @@
         "amz_B0F3XB7T5Q": {
             "url": "https://www.amazon.in/POCO-C71-Cool-Blue-64GB/dp/B0F3XB7T5Q/ref=sr_1_3",
             "title": "Pending Title...",
-            "last_price": 8985.0,
+            "last_price": 8990.0,
             "target_price": null,
-            "highest_price": 8985.0,
+            "highest_price": 8990.0,
             "list_price": null
         },
         "amz_B0BS1PRC4L": {
@@ -651,7 +651,7 @@
         "amz_B000GAYQJ0": {
             "url": "https://www.amazon.in/Casio-Vintage-Digital-Grey-Watch-A158WA-1Q/dp/B000GAYQJ0/ref=sr_1_10",
             "title": "Pending Title...",
-            "last_price": 1894.0,
+            "last_price": 1743.0,
             "target_price": null,
             "highest_price": 1894.0,
             "list_price": 13495.0
@@ -1083,9 +1083,9 @@
         "amz_B0G2MT8YVV": {
             "url": "https://www.amazon.in/Neopticon-Student-Celeron-Expandable-Graphics/dp/B0G2MT8YVV/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 11990.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 11990.0,
             "list_price": null
         },
         "amz_B0CWVX1GNX": {
@@ -1107,9 +1107,9 @@
         "amz_B0DKHTZHGL": {
             "url": "https://www.amazon.in/FEBLICH-Landscape-Showpieces-Decoration-Decorative/dp/B0DKHTZHGL/ref=sr_1_7",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 299.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 299.0,
             "list_price": null
         },
         "amz_B0C3D5TV4W": {
@@ -1163,9 +1163,57 @@
         "amz_B0FM3XYNZD": {
             "url": "https://www.amazon.in/Rover-Outdoor-Hiking-Trekking-Shoes-Olive/dp/B0FM3XYNZD/ref=sr_1_3",
             "title": "Pending Title...",
+            "last_price": 2483.0,
+            "target_price": null,
+            "highest_price": 2483.0,
+            "list_price": null
+        },
+        "amz_B0FM3C4L2F": {
+            "url": "https://www.amazon.in/ASUS-Upgradeable-Keyboard-Graphite-FA506NCG-HN199W/dp/B0FM3C4L2F/ref=sr_1_9",
+            "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
             "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FRM3G9JF": {
+            "url": "https://www.amazon.in/HP-Previously-Snapdragon-Processor-fb0001QU/dp/B0FRM3G9JF/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": 78850.0,
+            "target_price": null,
+            "highest_price": 78850.0,
+            "list_price": null
+        },
+        "amz_B0GR1RQ144": {
+            "url": "https://www.amazon.in/Apple-2026-MacBook-Laptop-chip/dp/B0GR1RQ144/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0G4S8WMF8": {
+            "url": "https://www.amazon.in/Peacock-Candle-Holders-Set-Centerpiece/dp/B0G4S8WMF8/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GNMG31LQ": {
+            "url": "https://www.amazon.in/ASUS-3050-4GB-Upgradeable-Graphite-FA506NCQ-HN009WS/dp/B0GNMG31LQ/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FRM2Z69N": {
+            "url": "https://www.amazon.in/inultimate-Decorative-Family-Keychain-Drilling/dp/B0FRM2Z69N/ref=sr_1_5",
+            "title": "Pending Title...",
+            "last_price": 210.32,
+            "target_price": null,
+            "highest_price": 210.32,
             "list_price": null
         }
     }
