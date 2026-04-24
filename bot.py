@@ -11,6 +11,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Answers the /start command."""
+    print(f"RECEIVED COMMAND FROM CHAT ID: {update.message.chat_id} ({update.message.chat.title or 'Private'})")
     await update.message.reply_text(
         "👋 Welcome to Deal Tracker Bot!\n\n"
         "I can track Amazon and Flipkart prices and post deals automatically.\n"
@@ -109,8 +110,49 @@ async def status(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
     await update.message.reply_text(msg, parse_mode='Markdown')
 
+async def checkchannel(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Checks if the bot has access to the configured channel."""
+    from config import TELEGRAM_CHANNEL_ID
+    if not TELEGRAM_CHANNEL_ID:
+        await update.message.reply_text("❌ TELEGRAM_CHANNEL_ID is not set in your .env file.")
+        return
+
+    await update.message.reply_text(f"🔍 Testing connection to channel ID: `{TELEGRAM_CHANNEL_ID}`...", parse_mode='Markdown')
+    
+    try:
+        # Try to get chat info
+        chat = await context.bot.get_chat(TELEGRAM_CHANNEL_ID)
+        await update.message.reply_text(
+            f"✅ **Channel Found!**\n"
+            f"Title: {chat.title}\n"
+            f"Type: {chat.type}\n"
+            "Now attempting to send a test message..."
+        , parse_mode='Markdown')
+        
+        # Try to send a message
+        test_msg = await context.bot.send_message(
+            chat_id=TELEGRAM_CHANNEL_ID,
+            text="🔔 **Bot Connection Test**\nIf you see this, the bot is correctly configured as an administrator! 🚀",
+            parse_mode='Markdown'
+        )
+        await update.message.reply_text(f"🎉 **Success!** Test message sent to the channel (Message ID: {test_msg.message_id}).")
+        
+    except Exception as e:
+        error_msg = str(e)
+        if "Chat not found" in error_msg:
+             await update.message.reply_text(
+                 "❌ **Error: Chat Not Found**\n\n"
+                 "This usually means:\n"
+                 "1. The bot is NOT an administrator in the channel.\n"
+                 "2. The channel ID is incorrect.\n\n"
+                 "**Fix**: Go to your channel > Administrators > Add Bot. Then forward a message from the channel to @JsonDumpBot to confirm the ID."
+             , parse_mode='Markdown')
+        else:
+             await update.message.reply_text(f"❌ **Failed to connect**: {error_msg}")
+
 async def forcediscovery(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Answers the /forcediscovery command."""
+    print(f"RECEIVED COMMAND FROM CHAT ID: {update.message.chat_id} ({update.message.chat.title or 'Private'})")
     await update.message.reply_text("🔍 Running forced discovery... this may take a minute.")
     import discovery
     import main
@@ -151,8 +193,8 @@ def setup_bot_application():
     app.add_handler(CommandHandler("add", add))
     app.add_handler(CommandHandler("list", list_products))
     app.add_handler(CommandHandler("remove", remove))
-    app.add_handler(CommandHandler("testpost", test_post))
     app.add_handler(CommandHandler("status", status))
+    app.add_handler(CommandHandler("checkchannel", checkchannel))
     app.add_handler(CommandHandler("forcediscovery", forcediscovery))
     
     return app

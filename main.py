@@ -70,8 +70,8 @@ async def check_prices_async(bot_instance):
         list_price = product_data.get('list_price')
         title = product_data.get('title', "Product")
         
-        # Add slight delay
-        time.sleep(2)
+        # Add slight delay to avoid bot detection
+        await asyncio.sleep(2)
         
         print(f"Scraping {pid}...")
         new_title, new_price, new_list_price = scraper.scrape_product(url)
@@ -80,93 +80,121 @@ async def check_prices_async(bot_instance):
             print(f"Skipping {pid} (Failed to scrape price)")
             continue
             
-        # Update price and list price in DB
-        database.update_product_price(pid, new_price)
-        if new_list_price:
-             database.add_product(pid, url, list_price=new_list_price)
+        # Update everything in DB: price, title, and list price
+        database.update_product_metadata(pid, title=new_title, new_price=new_price, new_list_price=new_list_price)
+        
+        # Determine current title for post (prefer new title if found)
+        post_title = new_title or title
+        current_list_price = new_list_price or list_price
         
         # Check Deal
-        if utils.is_deal(old_price, new_price, target_price, highest_price, new_list_price or list_price):
-            print(f"Deal found for {pid}! New: {new_price}")
-            # Ensure we use the bot instance correctly
+        if utils.is_deal(old_price, new_price, target_price, highest_price, current_list_price):
+            print(f"✅ Deal found for {pid}! New: ₹{new_price}")
+            
+            # Generate Affiliate link
             affiliate_link = utils.generate_affiliate_link(url)
-            message = ai_content.generate_deal_post(title, old_price or (new_list_price or list_price), new_price, affiliate_link)
+            
+            # Generate AI content (Fallback to old price if old_price is None, use list_price as baseline)
+            baseline = old_price or current_list_price or new_price
+            message = ai_content.generate_deal_post(post_title, baseline, new_price, affiliate_link)
+            
             try:
-                await bot_instance.send_message(chat_id=TELEGRAM_CHANNEL_ID, text=message, parse_mode=ParseMode.MARKDOWN)
+                print(f"Attempting to post to {TELEGRAM_CHANNEL_ID}...")
+                await bot_instance.send_message(
+                    chat_id=TELEGRAM_CHANNEL_ID,
+                    text=message,
+                    parse_mode=ParseMode.MARKDOWN
+                )
+                print("Post successful!")
             except Exception as e:
-                print(f"Post error: {e}")
+                print(f"❌ Post error for {pid}: {e}")
+                # Try one more time without Markdown in case AI generated bad markdown
+                try:
+                    await bot_instance.send_message(
+                        chat_id=TELEGRAM_CHANNEL_ID,
+                        text=message
+                    )
+                    print("Post successful (without Markdown fallback)!")
+                except Exception as e2:
+                    print(f"❌ Critical Post failure: {e2}")
         else:
             print(f"No deal for {pid}. Target: {target_price}, Current: {new_price}")
 
-def job_check(bot_instance):
-    """Synchronous job wrapper."""
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
-    loop.run_until_complete(check_prices_async(bot_instance))
+async def run_discovery_job(context):
+    try:
+        print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] Running automated product discovery...")
+        count = discovery.run_all_discovery()
+        print(f"Discovery finished. Added {count} new products.")
+    except Exception as e:
+        print(f"Error in automated discovery: {e}")
 
-def job_discovery():
-    """Scheduled job to find new loot deals."""
-    print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] Running automated product discovery...")
-    discovery.run_all_discovery()
+async def run_price_check_job(context):
+    """Job wrapper for price checks."""
+    try:
+        await check_prices_async(context.bot)
+    except Exception as e:
+        print(f"Error in scheduled price check: {e}")
 
 if __name__ == '__main__':
-    print("Starting Telegram Deal Tracker bot & Scheduler MVP...")
+    print("Starting Resilient Loot Deal Tracker with JobQueue...")
     
     # Initialize DB
     database.init_db()
     
-    try:
-        app = setup_bot_application()
-    except ValueError as e:
-        print(f"Error: {e}. Please check your .env file.")
-        exit(1)
-        
-    # Schedule the price checks (Every 2 hours)
-    schedule.every(2).hours.do(job_check, app.bot)
-    
-    # Schedule the discovery (Every 6 hours)
-    schedule.every(6).hours.do(job_discovery)
-    print("Price checking (2H) and Discovery (6H) scheduled.")
-    
-    # Initial manual run trigger
-    print("Running initial discovery and price check...")
-    threading.Thread(target=job_discovery).start()
-    threading.Thread(target=lambda: job_check(app.bot)).start()
-    
-    # In a real production setup, bot polling and scheduler would run in separate threads
-    # or use Asyncio schedule tools to be non-blocking. 
-    # For MVP, we run the scheduler in background thread or we can run schedule via a loop.
-    import threading
-    def run_scheduler():
-        while True:
-            schedule.run_pending()
-            time.sleep(60)
+    while True:
+        try:
+            # We import here to allow reloads if needed, though with JobQueue it's less necessary
+            from bot import setup_bot_application
+            app = setup_bot_application()
+            
+            # Get the JobQueue
+            job_queue = app.job_queue
+            
+            # Schedule the price checks (Every 2 hours)
+            job_queue.run_repeating(run_price_check_job, interval=7200, first=10)
+            
+            # Schedule the discovery (Every 6 hours)
+            job_queue.run_repeating(run_discovery_job, interval=21600, first=30)
+            
+            print("Price checking (2H) and Discovery (6H) scheduled via JobQueue.")
+            
+            # Start Render Health Check Server
+            threading.Thread(target=run_health_server, daemon=True).start()
+            
+            # Self-Ping for Render/Cloud persistence
+            def self_ping():
+                import requests
+                time.sleep(15)
+                port = os.environ.get("PORT", "10000")
+                url = f"http://localhost:{port}"
+                while True:
+                    try:
+                        requests.get(url, timeout=5)
+                    except:
+                        pass
+                    time.sleep(600)
 
-    t = threading.Thread(target=run_scheduler, daemon=True)
-    t.start()
-    
-    # Start Render Health Check Server
-    h = threading.Thread(target=run_health_server, daemon=True)
-    h.start()
-    
-    # Self-Ping to help stay awake (Render Free Tier)
-    def self_ping():
-        import requests
-        # Wait for server to start
-        time.sleep(10)
-        port = os.environ.get("PORT", "10000")
-        url = f"http://localhost:{port}"
-        print(f"Self-pinging {url} started...")
-        while True:
-            try:
-                requests.get(url, timeout=5)
-            except:
-                pass
-            time.sleep(600) # Ping every 10 mins
+            threading.Thread(target=self_ping, daemon=True).start()
 
-    p = threading.Thread(target=self_ping, daemon=True)
-    p.start()
+            # Startup Notification
+            async def send_startup_msg(application):
+                 try:
+                     await application.bot.send_message(
+                         chat_id=TELEGRAM_CHANNEL_ID, 
+                         text="🚀 **Loot Agent is now Online!**\nMonitoring deals 24/7...",
+                         parse_mode=ParseMode.MARKDOWN
+                     )
+                 except Exception as e:
+                     print(f"Startup notification failed: {e}. Check if bot is admin in the channel.")
 
-    # Start bot polling (blocking)
-    print("Bot is polling. Send commands in Telegram!")
-    app.run_polling()
+            # Add the startup message to the loop
+            # app.post_init = send_startup_msg # PTB way to do things after initialization
+            
+            # Start bot polling
+            print("Bot is polling. Running 24/7 Watchdog...")
+            app.run_polling()
+            
+        except Exception as e:
+            print(f"CRITICAL: Bot crashed with error: {e}")
+            print("Restarting in 10 seconds...")
+            time.sleep(10)

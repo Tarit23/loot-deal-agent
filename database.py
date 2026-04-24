@@ -10,18 +10,30 @@ def init_db():
             json.dump({"products": {}}, f, indent=4)
 
 def load_data():
-    """Loads product data from the database."""
+    """Loads product data from the database with basic validation."""
     init_db()
-    with open(DB_FILE, 'r') as f:
-        try:
-            return json.load(f)
-        except json.JSONDecodeError:
-            return {"products": {}}
+    try:
+        with open(DB_FILE, 'r') as f:
+            data = json.load(f)
+            if "products" not in data:
+                return {"products": {}}
+            return data
+    except (json.JSONDecodeError, FileNotFoundError):
+        print(f"Warning: {DB_FILE} is corrupt or missing. Resetting...")
+        return {"products": {}}
 
 def save_data(data):
-    """Saves product data to the database."""
-    with open(DB_FILE, 'w') as f:
-        json.dump(data, f, indent=4)
+    """Saves product data to the database atomically."""
+    temp_file = DB_FILE + ".tmp"
+    try:
+        with open(temp_file, 'w') as f:
+            json.dump(data, f, indent=4)
+        # Atomic swap
+        os.replace(temp_file, DB_FILE)
+    except Exception as e:
+        print(f"❌ Error saving database: {e}")
+        if os.path.exists(temp_file):
+            os.remove(temp_file)
 
 def add_product(product_id, url, title=None, current_price=None, target_price=None, list_price=None):
     """Adds or updates a product in the database."""
@@ -67,19 +79,25 @@ def remove_product(product_id):
         return True
     return False
 
-def update_product_price(product_id, new_price):
-    """Updates the price of a product and tracks the highest price seen."""
+def update_product_metadata(product_id, title=None, new_price=None, new_list_price=None):
+    """Updates multiple fields of a product and tracks the highest price seen."""
     data = load_data()
     if product_id in data["products"]:
         product = data["products"][product_id]
-        old_price = product.get("last_price")
         
-        # update highest price if needed
-        highest = product.get("highest_price")
-        if highest is None or (new_price is not None and new_price > highest):
-            product["highest_price"] = new_price
+        if title:
+            product["title"] = title
             
-        product["last_price"] = new_price
+        if new_price is not None:
+            # update highest price if needed
+            highest = product.get("highest_price")
+            if highest is None or new_price > highest:
+                product["highest_price"] = new_price
+            product["last_price"] = new_price
+            
+        if new_list_price is not None:
+            product["list_price"] = new_list_price
+            
         save_data(data)
         return True
     return False
