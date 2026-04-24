@@ -954,7 +954,7 @@
         },
         "amz_B0B1PXM75C": {
             "url": "https://www.amazon.in/Launched-Noise-Headphones-Playtime-Latency/dp/B0B1PXM75C/ref=sr_1_7",
-            "title": "Pending Title...",
+            "title": "Noise Two Wireless On Ear Headphones with 50 Hours Playtime, Low Latency(up to 45ms), 4 Play Modes, Dual Pairing, BT v5.3 (Serene Blue)",
             "last_price": 1699.0,
             "target_price": null,
             "highest_price": 1699.0,
@@ -974,6 +974,38 @@
             "last_price": 799.0,
             "target_price": null,
             "highest_price": 799.0,
+            "list_price": null
+        },
+        "amz_B0GTYL5T8C": {
+            "url": "https://www.amazon.in/ZEBRONICS-Jupiter-Headphone-Multicolor-Suspension/dp/B0GTYL5T8C/ref=sr_1_3",
+            "title": "ZEBRONICS Jupiter Gaming Over Ear Headphone, 50mm Neodymium Drivers, RGB Multicolor Lights, Suspension Headband, Braided Cable, with Mic",
+            "last_price": 1499.0,
+            "target_price": null,
+            "highest_price": 1499.0,
+            "list_price": null
+        },
+        "amz_B0DM6N2ZFK": {
+            "url": "https://www.amazon.in/ZIGNITION-Men-White-Running-Shoes/dp/B0DM6N2ZFK/ref=sr_1_3",
+            "title": "Reebok Mens 100228759 Sneaker",
+            "last_price": 10999.0,
+            "target_price": null,
+            "highest_price": 10999.0,
+            "list_price": null
+        },
+        "amz_B0CWVX1GNX": {
+            "url": "https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX/ref=sr_1_6",
+            "title": "Sony ULT Wear WH-ULT900N Noise Cancellation Wireless Bluetooth Over Ear Headphones with Massive Bass, Up to 50Hrs Battery-Black",
+            "last_price": 14930.0,
+            "target_price": null,
+            "highest_price": 14930.0,
+            "list_price": null
+        },
+        "amz_B09RGBXYSN": {
+            "url": "https://www.amazon.in/Puma-Dazzler-Black-Puma-Silver-Sneaker/dp/B09RGBXYSN/ref=sr_1_10",
+            "title": "Puma Mens Dazzler Sneaker",
+            "last_price": 1549.0,
+            "target_price": null,
+            "highest_price": 1549.0,
             "list_price": null
         }
     }
