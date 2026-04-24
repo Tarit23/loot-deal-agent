@@ -739,7 +739,7 @@
         "amz_B09TWZ9MCP": {
             "url": "https://www.amazon.in/Dell-Pro-Professional-Warranty-Antivirus/dp/B09TWZ9MCP/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": 65115.22,
+            "last_price": 65115.0,
             "target_price": null,
             "highest_price": 65115.22,
             "list_price": null
@@ -867,9 +867,9 @@
         "amz_B0FTT21DNT": {
             "url": "https://www.amazon.in/Sounce-Headphone-Shockproof-Waterproof-Protective/dp/B0FTT21DNT/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 249.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 249.0,
             "list_price": null
         },
         "amz_B0F9FM266J": {
@@ -1214,6 +1214,30 @@
             "last_price": 210.0,
             "target_price": null,
             "highest_price": 210.32,
+            "list_price": null
+        },
+        "amz_B0BRXZ3FYF": {
+            "url": "https://www.amazon.in/Sounce-Electronic-Keyboard-Cleaning-Multifunctional/dp/B0BRXZ3FYF/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0DRSRVQ4C": {
+            "url": "https://www.amazon.in/Toytonic-Handheld-520-Portable-Rechargeable/dp/B0DRSRVQ4C/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0DBGP48NW": {
+            "url": "https://www.amazon.in/realme-Wireless-Earbuds-Spatial-Charging/dp/B0DBGP48NW/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
             "list_price": null
         }
     }
