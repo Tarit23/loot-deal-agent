@@ -291,7 +291,7 @@
         "amz_B0F53SH9LJ": {
             "url": "https://www.amazon.in/POCO-C71-Cool-Blue-128GB/dp/B0F53SH9LJ/ref=sr_1_3",
             "title": "Pending Title...",
-            "last_price": 9999.0,
+            "last_price": 148.0,
             "target_price": null,
             "highest_price": 9999.0,
             "list_price": null
@@ -323,7 +323,7 @@
         "amz_B0FC2Y8XYF": {
             "url": "https://www.amazon.in/boAt-Bluetooth-Headphones-Wireless-Headphone/dp/B0FC2Y8XYF/ref=sr_1_3",
             "title": "Pending Title...",
-            "last_price": 1299.0,
+            "last_price": 1055.0,
             "target_price": null,
             "highest_price": 1299.0,
             "list_price": null
@@ -523,9 +523,9 @@
         "amz_B083C6XMKQ": {
             "url": "https://www.amazon.in/Kitchen-Manufacturer-Warranty-capacity-SF400/dp/B083C6XMKQ/ref=sr_1_10",
             "title": "Pending Title...",
-            "last_price": 215.0,
+            "last_price": 230.0,
             "target_price": null,
-            "highest_price": 215.0,
+            "highest_price": 230.0,
             "list_price": null
         },
         "amz_B0FY3B7CGD": {
@@ -795,7 +795,7 @@
         "amz_B0DLW4QD72": {
             "url": "https://www.amazon.in/Redmi-A4-5G-Storage-Charging/dp/B0DLW4QD72/ref=sr_1_7",
             "title": "Pending Title...",
-            "last_price": 10999.0,
+            "last_price": 11999.0,
             "target_price": null,
             "highest_price": 11999.0,
             "list_price": null
@@ -899,7 +899,7 @@
         "amz_B0F5Q5FWT4": {
             "url": "https://www.amazon.in/POCO-Processor-Display-Camera-Battery/dp/B0F5Q5FWT4/ref=sr_1_10",
             "title": "Pending Title...",
-            "last_price": 13999.0,
+            "last_price": 13499.0,
             "target_price": null,
             "highest_price": 13999.0,
             "list_price": null
@@ -1211,7 +1211,7 @@
         "amz_B0FRM2Z69N": {
             "url": "https://www.amazon.in/inultimate-Decorative-Family-Keychain-Drilling/dp/B0FRM2Z69N/ref=sr_1_5",
             "title": "Pending Title...",
-            "last_price": 210.0,
+            "last_price": 210.32,
             "target_price": null,
             "highest_price": 210.32,
             "list_price": null
@@ -1234,6 +1234,38 @@
         },
         "amz_B0DBGP48NW": {
             "url": "https://www.amazon.in/realme-Wireless-Earbuds-Spatial-Charging/dp/B0DBGP48NW/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GTTXP6WF": {
+            "url": "https://www.amazon.in/vivo-Dimensity-7400-Turbo-Processor-Smartphone/dp/B0GTTXP6WF/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GK8334CK": {
+            "url": "https://www.amazon.in/realme-7000mAh-Biggest-Battery-Charging/dp/B0GK8334CK/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": 15999.0,
+            "target_price": null,
+            "highest_price": 15999.0,
+            "list_price": null
+        },
+        "amz_B0GS5SM6JR": {
+            "url": "https://www.amazon.in/Storage-Segments-Fastest-Processor-Smoothest/dp/B0GS5SM6JR/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0F1D9LCK3": {
+            "url": "https://www.amazon.in/realme-Segments-Dimensity-HyperGlow-Waterproof/dp/B0F1D9LCK3/ref=sr_1_6",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
