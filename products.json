@@ -451,9 +451,9 @@
         "amz_B0BS1QCFHX": {
             "url": "https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS1QCFHX/ref=sr_1_8",
             "title": "Pending Title...",
-            "last_price": 7991.0,
+            "last_price": 8199.0,
             "target_price": null,
-            "highest_price": 7991.0,
+            "highest_price": 8199.0,
             "list_price": null
         },
         "amz_B0G3PMNXLJ": {
@@ -563,9 +563,9 @@
         "amz_B08FZSY61B": {
             "url": "https://www.amazon.in/Adidas-Mens-Clinch-X-Running-Black/dp/B08FZSY61B/ref=sr_1_6",
             "title": "Pending Title...",
-            "last_price": 979.0,
+            "last_price": 1729.0,
             "target_price": null,
-            "highest_price": 979.0,
+            "highest_price": 1729.0,
             "list_price": 5499.0
         },
         "amz_B0G64J91TG": {
@@ -1171,9 +1171,9 @@
         "amz_B0FM3C4L2F": {
             "url": "https://www.amazon.in/ASUS-Upgradeable-Keyboard-Graphite-FA506NCG-HN199W/dp/B0FM3C4L2F/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 71990.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 71990.0,
             "list_price": null
         },
         "amz_B0FRM3G9JF": {
@@ -1219,9 +1219,9 @@
         "amz_B0BRXZ3FYF": {
             "url": "https://www.amazon.in/Sounce-Electronic-Keyboard-Cleaning-Multifunctional/dp/B0BRXZ3FYF/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 239.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 239.0,
             "list_price": null
         },
         "amz_B0DRSRVQ4C": {
@@ -1270,6 +1270,30 @@
             "last_price": 20999.0,
             "target_price": null,
             "highest_price": 20999.0,
+            "list_price": null
+        },
+        "amz_B0FN9FV4ZZ": {
+            "url": "https://www.amazon.in/ASUS-Vivobook-Windows-Backlit-E1404FA-NK5542WS/dp/B0FN9FV4ZZ/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0F4R5W1NC": {
+            "url": "https://www.amazon.in/HP-i3-1315U-Anti-Glare-Micro-Edge-fd0569TU/dp/B0F4R5W1NC/ref=sr_1_5",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GWTY5RC7": {
+            "url": "https://www.amazon.in/%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9Laptop-Display-Graphics-Warranty-Condition/dp/B0GWTY5RC7/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
             "list_price": null
         }
     }
