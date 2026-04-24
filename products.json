@@ -291,7 +291,7 @@
         "amz_B0F53SH9LJ": {
             "url": "https://www.amazon.in/POCO-C71-Cool-Blue-128GB/dp/B0F53SH9LJ/ref=sr_1_3",
             "title": "Pending Title...",
-            "last_price": 148.0,
+            "last_price": 9999.0,
             "target_price": null,
             "highest_price": 9999.0,
             "list_price": null
@@ -1195,9 +1195,9 @@
         "amz_B0G4S8WMF8": {
             "url": "https://www.amazon.in/Peacock-Candle-Holders-Set-Centerpiece/dp/B0G4S8WMF8/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 499.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 499.0,
             "list_price": null
         },
         "amz_B0GNMG31LQ": {
@@ -1259,17 +1259,17 @@
         "amz_B0GS5SM6JR": {
             "url": "https://www.amazon.in/Storage-Segments-Fastest-Processor-Smoothest/dp/B0GS5SM6JR/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 12499.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 12499.0,
             "list_price": null
         },
         "amz_B0F1D9LCK3": {
             "url": "https://www.amazon.in/realme-Segments-Dimensity-HyperGlow-Waterproof/dp/B0F1D9LCK3/ref=sr_1_6",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 20999.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 20999.0,
             "list_price": null
         }
     }
