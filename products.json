@@ -1207,6 +1207,46 @@
             "target_price": null,
             "highest_price": 799.0,
             "list_price": null
+        },
+        "amz_B0F8QFMXJ7": {
+            "url": "https://www.amazon.in/Lenovo-IdeaPad-39-6cm-Windows-82X700G5IN/dp/B0F8QFMXJ7/ref=sr_1_6",
+            "title": "Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6\"(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",
+            "last_price": 44990.0,
+            "target_price": null,
+            "highest_price": 44990.0,
+            "list_price": null
+        },
+        "amz_B0G4QP6FXJ": {
+            "url": "https://www.amazon.in/ASUS-Vivobook-i3-1315U-Anti-Glare-X1504VA-BQ342WS/dp/B0G4QP6FXJ/ref=sr_1_10",
+            "title": "ASUS Vivobook 15, 13th Gen, Intel Core i3-1315U, 16GB RAM, 512GB SSD, FHD, Anti-Glare, 15.6\", 39.6 cm, Windows 11 Home, M365 Basic(1yr)* Office24, Quiet Blue, 1.70 kg, X1504VA-BQ342WS, Laptop",
+            "last_price": 46800.0,
+            "target_price": null,
+            "highest_price": 46800.0,
+            "list_price": null
+        },
+        "amz_B092VZ9576": {
+            "url": "https://www.amazon.in/HP-Anti-Glare-Display-Graphics-Keyboard/dp/B092VZ9576/ref=sr_1_7",
+            "title": "HP New 2026 Edition Intel Core 5 120U (Beats Intel Core i7 1165G7) 16GB RAM, 512GB SSD, 14\" FHD IPS Anti-Glare Display, Intel Graphics, Windows 11 Pro, Backlit Keyboard, Silver, 1.4kg",
+            "last_price": 62999.0,
+            "target_price": null,
+            "highest_price": 62999.0,
+            "list_price": null
+        },
+        "amz_B0FN9FV4ZZ": {
+            "url": "https://www.amazon.in/ASUS-Vivobook-Windows-Backlit-E1404FA-NK5542WS/dp/B0FN9FV4ZZ/ref=sr_1_9",
+            "title": "ASUS Vivobook Go 14, AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD, FHD, 14\", 60Hz,42WHrs, Windows 11, M365 Basic (1Year)*,Office Home 2024, Mixed Black, 1.38 kg, E1404FA-EB774WS, Thin & Light Laptop",
+            "last_price": 48990.0,
+            "target_price": null,
+            "highest_price": 48990.0,
+            "list_price": null
+        },
+        "amz_B0CWTYGPH8": {
+            "url": "https://www.amazon.in/Acer-Premium-Windows-AL15-41-Display/dp/B0CWTYGPH8/ref=sr_1_5",
+            "title": "acer Aspire Lite, AMD Ryzen 3 5300U Processor, 16 GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
+            "last_price": 44990.0,
+            "target_price": null,
+            "highest_price": 44990.0,
+            "list_price": null
         }
     }
 }
