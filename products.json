@@ -43,9 +43,9 @@
         "amz_B0BS1PRC4L": {
             "url": "https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1PRC4L/ref=sr_1_7",
             "title": "Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery, Quick Charge, DSEE Upscale, Multipoint Connectivity, Voice Assistant, Customized EQ-Black",
-            "last_price": 3989.0,
+            "last_price": 3990.0,
             "target_price": null,
-            "highest_price": 3989.0,
+            "highest_price": 3990.0,
             "list_price": null
         },
         "amz_B0FT7T3GZF": {
@@ -139,7 +139,7 @@
         "amz_B0G4BLW168": {
             "url": "https://www.amazon.in/realme-7000mAh-Biggest-Battery-Charging/dp/B0G4BLW168/ref=sr_1_10",
             "title": "realme NARZO 90x 5G (Nitro Blue,6GB+128GB) | 7000mAh + 60W Biggest Battery & Fastest Charging in the Segment* | 144Hz Bright Display | Sony 50MP AI Rear Camera | AI Assist | 400% Ultra Boom Speaker",
-            "last_price": 16999.0,
+            "last_price": 15999.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -403,7 +403,7 @@
         "amz_B099WR4WHC": {
             "url": "https://www.amazon.in/Fastrack-Tees-Analog-Unisex-Adult-Watch-68011PP08/dp/B099WR4WHC/ref=sr_1_10",
             "title": "Fastrack Tees Analog Grey Dial Unisex-Adult Watch-68011PP08",
-            "last_price": 885.0,
+            "last_price": 895.0,
             "target_price": null,
             "highest_price": 999.0,
             "list_price": null
@@ -467,7 +467,7 @@
         "amz_B0FH71SN5N": {
             "url": "https://www.amazon.in/Lenovo-IdeaPad-i5-12450H-Anti-glare-83ER00MDIN/dp/B0FH71SN5N/ref=sr_1_6",
             "title": "Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6\"(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",
-            "last_price": 54990.0,
+            "last_price": 52990.0,
             "target_price": null,
             "highest_price": 54990.0,
             "list_price": null
@@ -1150,6 +1150,30 @@
             "last_price": 25900.0,
             "target_price": null,
             "highest_price": 25900.0,
+            "list_price": null
+        },
+        "amz_B01BVDS1BE": {
+            "url": "https://www.amazon.in/Ganesh-Vegetable-Dicer-Cutting-Blades/dp/B01BVDS1BE/ref=sr_1_4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FHWCZQBV": {
+            "url": "https://www.amazon.in/Misamo-Enterprise-Extender-Flexible-Extension/dp/B0FHWCZQBV/ref=sr_1_1",
+            "title": "Misamo Enterprise Kitchen Faucet Extender, Chrome Plated, 3-Mode Spray Head, Flexible Extension",
+            "last_price": 229.0,
+            "target_price": null,
+            "highest_price": 229.0,
+            "list_price": null
+        },
+        "amz_B0CXM5DT52": {
+            "url": "https://www.amazon.in/SOFTSPUN-Microfiber-Multi-Colour-Absorbent-Silverware/dp/B0CXM5DT52/ref=sr_1_3",
+            "title": "SOFTSPUN Microfiber Cleaning Cloths, 12pcs 30x30cms 220 GSM Multi-Colour! Highly Absorbent Lint and Streak Free Multi -Purpose Wash Cloth for Kitchen Window Stainless Steel Silverware.",
+            "last_price": 262.0,
+            "target_price": null,
+            "highest_price": 262.0,
             "list_price": null
         }
     }
