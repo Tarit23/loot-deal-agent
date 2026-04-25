@@ -27,7 +27,7 @@
         "amz_B0FR991DHJ": {
             "url": "https://www.amazon.in/Campus-C-BLU-Denim-Running-Shoes/dp/B0FR991DHJ/ref=sr_1_6",
             "title": "Campus Men's MASK Running Shoes",
-            "last_price": 862.0,
+            "last_price": 799.0,
             "target_price": null,
             "highest_price": 889.0,
             "list_price": 4499.0
@@ -91,7 +91,7 @@
         "amz_B08FZSY61B": {
             "url": "https://www.amazon.in/Adidas-Mens-Clinch-X-Running-Black/dp/B08FZSY61B/ref=sr_1_9",
             "title": "adidas Men's Clinch-X M Running Shoe",
-            "last_price": 1729.0,
+            "last_price": 979.0,
             "target_price": null,
             "highest_price": 1729.0,
             "list_price": null
@@ -179,7 +179,7 @@
         "amz_B0G3WWMTZT": {
             "url": "https://www.amazon.in/HP-i5-1335U-Lifetime-Microsoft-Ethernet/dp/B0G3WWMTZT/ref=sr_1_9",
             "title": "HP i5 Laptop, Intel 10-Core i5-1335U with Lifetime Microsoft Office, 16GB RAM 512GB SSD, Windows 11, Fast WiFi 6E, Numeric Keypad, Long Battery Life, Ethernet Port, Laptop for Business&Student",
-            "last_price": 63900.0,
+            "last_price": 61900.0,
             "target_price": null,
             "highest_price": 63900.0,
             "list_price": null
@@ -403,7 +403,7 @@
         "amz_B099WR4WHC": {
             "url": "https://www.amazon.in/Fastrack-Tees-Analog-Unisex-Adult-Watch-68011PP08/dp/B099WR4WHC/ref=sr_1_10",
             "title": "Fastrack Tees Analog Grey Dial Unisex-Adult Watch-68011PP08",
-            "last_price": 895.0,
+            "last_price": 885.0,
             "target_price": null,
             "highest_price": 999.0,
             "list_price": null
@@ -1074,10 +1074,10 @@
         },
         "amz_B0CK4BZZKG": {
             "url": "https://www.amazon.in/Crosscut-Furniture-Metal-Shelves-Multicolor/dp/B0CK4BZZKG/ref=sr_1_7",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Crosscut Furniture Metal Floor Lamp with 3 Shelves (Fresh Flower) LED Bulb Included, Yellow",
+            "last_price": 1795.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 1795.0,
             "list_price": null
         },
         "amz_B0FGJ3VWY2": {
@@ -1094,6 +1094,14 @@
             "last_price": null,
             "target_price": null,
             "highest_price": null,
+            "list_price": null
+        },
+        "amz_B07NJPQXVS": {
+            "url": "https://www.amazon.in/SWISSTYLE-Analogue-Watch-Silver-Colored/dp/B07NJPQXVS/ref=sr_1_10",
+            "title": "SWISSTYLE Two Tone Chrono Look Analog Stainless Steel Watch-SS-GR6612 For Men",
+            "last_price": 360.0,
+            "target_price": null,
+            "highest_price": 360.0,
             "list_price": null
         }
     }
