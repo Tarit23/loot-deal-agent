@@ -114,7 +114,7 @@
         },
         "amz_B0GTYSL8KK": {
             "url": "https://www.amazon.in/HP-15-Athlon-Dual-7120U/dp/B0GTYSL8KK/ref=sr_1_4",
-            "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg/MS Office",
+            "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
             "last_price": 39750.0,
             "target_price": null,
             "highest_price": 39750.0,
@@ -938,8 +938,8 @@
         },
         "amz_B0FC5XDV5R": {
             "url": "https://www.amazon.in/iQOO-Dimensity-Processor-Military-Shock-Resistance/dp/B0FC5XDV5R/ref=sr_1_1",
-            "title": "iQOO Z10 Lite 5G (Cyber Green, 4GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-            "last_price": 13999.0,
+            "title": "iQOO Z10 Lite 5G (Cyber Green, 4GB RAM, 64GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "last_price": 12999.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -1050,10 +1050,10 @@
         },
         "amz_B0GCD9R8VC": {
             "url": "https://www.amazon.in/MELVIS-Accuracy-Portable-Electronic-Suitcases/dp/B0GCD9R8VC/ref=sr_1_10",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "MELVIS Digital Luggage Scale, High Accuracy 50kg/110lb Portable Handheld Electronic Weight Scale with Backlit LCD for Suitcases, Travel, Fishing & Home Use",
+            "last_price": 249.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 249.0,
             "list_price": null
         },
         "amz_B0BS6SS4K3": {
@@ -1091,9 +1091,9 @@
         "amz_B074PNXCS7": {
             "url": "https://www.amazon.in/Kitchen-Dishcloths-Inches-Cotton-Scrubbing/dp/B074PNXCS7/ref=sr_1_9",
             "title": "Pending Title...",
-            "last_price": null,
+            "last_price": 298.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 298.0,
             "list_price": null
         },
         "amz_B07NJPQXVS": {
@@ -1102,6 +1102,14 @@
             "last_price": 360.0,
             "target_price": null,
             "highest_price": 360.0,
+            "list_price": null
+        },
+        "amz_B0F4R5W1NC": {
+            "url": "https://www.amazon.in/HP-i3-1315U-Anti-Glare-Micro-Edge-fd0569TU/dp/B0F4R5W1NC/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
             "list_price": null
         }
     }
