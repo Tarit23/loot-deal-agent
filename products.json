@@ -1007,6 +1007,38 @@
             "target_price": null,
             "highest_price": 1549.0,
             "list_price": null
+        },
+        "amz_B0G5NLZD53": {
+            "url": "https://www.amazon.in/ASUS-3050-6GB-Windows-Office24-V3607VJ-RP134WS/dp/B0G5NLZD53/ref=sr_1_9",
+            "title": "ASUS Gaming V16 (2025), Intel Core 5 210H, RTX 3050-6GB, 16GB RAM, 512GB SSD, FHD+, 16\", 40 cm, Windows 11 Home, M365 Basic(1yr)* Office24, Matte Black, 1.95 Kg, V3607VJ-RP134WS, Gaming Laptop",
+            "last_price": 72755.0,
+            "target_price": null,
+            "highest_price": 72755.0,
+            "list_price": null
+        },
+        "amz_B0GVDBBM62": {
+            "url": "https://www.amazon.in/Lenovo-35-5cm-Copilot-Windows-83CV00G2IN/dp/B0GVDBBM62/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FM3C4L2F": {
+            "url": "https://www.amazon.in/ASUS-Upgradeable-Keyboard-Graphite-FA506NCG-HN199W/dp/B0FM3C4L2F/ref=sr_1_7",
+            "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
+            "last_price": 71990.0,
+            "target_price": null,
+            "highest_price": 71990.0,
+            "list_price": null
+        },
+        "amz_B0FGJCV37Y": {
+            "url": "https://www.amazon.in/ASUS-Vivobook-Smartchoice-i7-13620H-K3605VC-RP492WS/dp/B0FGJCV37Y/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": 73990.0,
+            "target_price": null,
+            "highest_price": 73990.0,
+            "list_price": null
         }
     }
 }
