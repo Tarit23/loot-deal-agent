@@ -115,7 +115,7 @@
         "amz_B0GTYSL8KK": {
             "url": "https://www.amazon.in/HP-15-Athlon-Dual-7120U/dp/B0GTYSL8KK/ref=sr_1_4",
             "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
-            "last_price": 39750.0,
+            "last_price": 39550.0,
             "target_price": null,
             "highest_price": 39750.0,
             "list_price": 125841.3
@@ -147,9 +147,9 @@
         "amz_B0CQH5N1DY": {
             "url": "https://www.amazon.in/AERYS-Digital-Corporate-Temperature-Black-Centimeters/dp/B0CQH5N1DY/ref=sr_1_4",
             "title": "AERYS Digital Alarm Clock with Automatic Sensor, Date and Temperature Display, Compact Desk Table Clock for Students, Home, Office, Bedroom, Living Room,Home Decor, Corporate Use (Black Digital)",
-            "last_price": 265.0,
+            "last_price": 299.0,
             "target_price": null,
-            "highest_price": 265.0,
+            "highest_price": 299.0,
             "list_price": null
         },
         "amz_B0BCKLM33P": {
@@ -1106,10 +1106,42 @@
         },
         "amz_B0F4R5W1NC": {
             "url": "https://www.amazon.in/HP-i3-1315U-Anti-Glare-Micro-Edge-fd0569TU/dp/B0F4R5W1NC/ref=sr_1_9",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera w/Privacy Shutter, fd0569TU",
+            "last_price": 47990.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 47990.0,
+            "list_price": null
+        },
+        "amz_B0CVGX81T9": {
+            "url": "https://www.amazon.in/VRB-Artificial-Greenery-Decoration-Festival/dp/B0CVGX81T9/ref=sr_1_9",
+            "title": "VRB Dec Plastic Tm Artificial Greenery Ferns Vines Flowers Needle Wall Hanging For Home Decor Door Wall Balcony Decoration Party Festival Craft, Artificial Plants Hanging (Design 1)",
+            "last_price": 298.0,
+            "target_price": null,
+            "highest_price": 298.0,
+            "list_price": null
+        },
+        "amz_B0F43YCMSD": {
+            "url": "https://www.amazon.in/Samsung-Slimmest-Enhanced-Nightography-Processor/dp/B0F43YCMSD/ref=sr_1_8",
+            "title": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 256GB Storage)| Segment's Slimmest | Gorilla Glass Victus+| 10 Bit HDR Video| 50MP Camera| AI | Vapour Cooling Chamber| Lag-Free Gaming| Without Charger",
+            "last_price": 26499.0,
+            "target_price": null,
+            "highest_price": 26499.0,
+            "list_price": null
+        },
+        "amz_B08MD5J7Z5": {
+            "url": "https://www.amazon.in/Xtore%C2%AE-Family-Finish-Ceramic-Figures/dp/B08MD5J7Z5/ref=sr_1_10",
+            "title": "Xtore\u00ae Home Decor Lucky Deer Family Matte Finish Ceramic Figures - (Set of 3, Matte Brown)",
+            "last_price": 829.0,
+            "target_price": null,
+            "highest_price": 829.0,
+            "list_price": null
+        },
+        "amz_B0F1XQX7M4": {
+            "url": "https://www.amazon.in/Storio-Rechargeable-Game-Retro-Handheld/dp/B0F1XQX7M4/ref=sr_1_10",
+            "title": "Storio Rechargeable Pocket Video Game for Kids 400 in 1 Retro Game Box Console Handheld Game Box with TV Output - Multicolor",
+            "last_price": 599.0,
+            "target_price": null,
+            "highest_price": 599.0,
             "list_price": null
         }
     }
