@@ -51,7 +51,7 @@
         "amz_B0FT7T3GZF": {
             "url": "https://www.amazon.in/SAMSUNG-Galaxy-F07-Green-RAM/dp/B0FT7T3GZF/ref=sr_1_7",
             "title": "SAMSUNG Galaxy F07 (Green, 64 GB) (4 GB RAM)",
-            "last_price": 9889.0,
+            "last_price": 9880.0,
             "target_price": null,
             "highest_price": 9890.0,
             "list_price": 29999.0
@@ -115,9 +115,9 @@
         "amz_B0GTYSL8KK": {
             "url": "https://www.amazon.in/HP-15-Athlon-Dual-7120U/dp/B0GTYSL8KK/ref=sr_1_4",
             "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
-            "last_price": 39450.0,
+            "last_price": 39800.0,
             "target_price": null,
-            "highest_price": 39750.0,
+            "highest_price": 39800.0,
             "list_price": 125841.3
         },
         "amz_B0F4KTYFF7": {
@@ -683,7 +683,7 @@
         "amz_B00ISNVQMW": {
             "url": "https://www.amazon.in/Titan-Karishma-Stainless-Watch-NL1639SM02-NN1639SM02/dp/B00ISNVQMW/ref=sr_1_10",
             "title": "Titan Karishma Analog Black Dial Men's Watch -NM1639SM02 / NL1639SM02",
-            "last_price": 1994.0,
+            "last_price": 1895.0,
             "target_price": null,
             "highest_price": 1994.0,
             "list_price": null
@@ -1142,6 +1142,14 @@
             "last_price": 599.0,
             "target_price": null,
             "highest_price": 599.0,
+            "list_price": null
+        },
+        "amz_B0FQFYMKMF": {
+            "url": "https://www.amazon.in/Apple-Watch-Starlight-Aluminium-Sport/dp/B0FQFYMKMF/ref=sr_1_10",
+            "title": "Apple Watch SE 3 GPS 40mm Starlight Aluminium Case with Starlight Sport Band - M/L",
+            "last_price": 25900.0,
+            "target_price": null,
+            "highest_price": 25900.0,
             "list_price": null
         }
     }
