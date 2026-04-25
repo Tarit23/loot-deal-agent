@@ -43,7 +43,7 @@
         "amz_B0BS1PRC4L": {
             "url": "https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1PRC4L/ref=sr_1_7",
             "title": "Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery, Quick Charge, DSEE Upscale, Multipoint Connectivity, Voice Assistant, Customized EQ-Black",
-            "last_price": 3990.0,
+            "last_price": 3989.0,
             "target_price": null,
             "highest_price": 3990.0,
             "list_price": null
@@ -579,7 +579,7 @@
         "amz_B0F3XB7T5Q": {
             "url": "https://www.amazon.in/POCO-C71-Cool-Blue-64GB/dp/B0F3XB7T5Q/ref=sr_1_1",
             "title": "POCO C71, Cool Blue (4GB, 64GB)",
-            "last_price": 8999.0,
+            "last_price": 8985.0,
             "target_price": null,
             "highest_price": 8999.0,
             "list_price": null
@@ -683,7 +683,7 @@
         "amz_B00ISNVQMW": {
             "url": "https://www.amazon.in/Titan-Karishma-Stainless-Watch-NL1639SM02-NN1639SM02/dp/B00ISNVQMW/ref=sr_1_10",
             "title": "Titan Karishma Analog Black Dial Men's Watch -NM1639SM02 / NL1639SM02",
-            "last_price": 1895.0,
+            "last_price": 1915.0,
             "target_price": null,
             "highest_price": 1994.0,
             "list_price": null
@@ -1174,6 +1174,14 @@
             "last_price": 262.0,
             "target_price": null,
             "highest_price": 262.0,
+            "list_price": null
+        },
+        "amz_B0CWNB2F3G": {
+            "url": "https://www.amazon.in/Webelkart-Premium-Leaf-Decoration-Table/dp/B0CWNB2F3G/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
             "list_price": null
         }
     }
