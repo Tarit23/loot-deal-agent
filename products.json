@@ -747,9 +747,9 @@
         "amz_B0DGTTKCJX": {
             "url": "https://www.amazon.in/boAt-Rockerz-480-Bluetooth-Headphones/dp/B0DGTTKCJX/ref=sr_1_5",
             "title": "boAt Rockerz 480, RGB LEDs,6 Light Modes, 40mm Drivers,Beast Mode, 60H Battery, ENx Tech, Stream Ad Free Music via App Support, Bluetooth Headphones, Wireless Over Ear Headphone with Mic (White Sabre)",
-            "last_price": 1599.0,
+            "last_price": 1799.0,
             "target_price": null,
-            "highest_price": 1599.0,
+            "highest_price": 1799.0,
             "list_price": null
         },
         "amz_B0FC2Y8XYF": {
@@ -1182,6 +1182,30 @@
             "last_price": 185.0,
             "target_price": null,
             "highest_price": 185.0,
+            "list_price": null
+        },
+        "amz_B0FWKMPSG4": {
+            "url": "https://www.amazon.in/Campus-DRIVO-L-Sky-Running-Shoes/dp/B0FWKMPSG4/ref=sr_1_10",
+            "title": "Campus Men's DRIVO Running Shoes",
+            "last_price": 1399.0,
+            "target_price": null,
+            "highest_price": 1399.0,
+            "list_price": null
+        },
+        "amz_B0DQPKH93F": {
+            "url": "https://www.amazon.in/Ambrane-Boostedbass-Multi-Functional-Stringz-Lite/dp/B0DQPKH93F/ref=sr_1_10",
+            "title": "Ambrane Wired Headphones in Earphones with in-Line Mic for Clear Calling, 14Mm Dynamic Drivers for Boostedbass, 3.5Mm Jack, Multi-Functional Controller (Stringz 38 Lite, Blue)",
+            "last_price": 149.01,
+            "target_price": null,
+            "highest_price": 149.01,
+            "list_price": null
+        },
+        "amz_B09B5CPV71": {
+            "url": "https://www.amazon.in/ZEBRONICS-Zeb-Thunder-Connectivity-Sea-Green/dp/B09B5CPV71/ref=sr_1_9",
+            "title": "ZEBRONICS Thunder (2026 Upgrade) Wireless Headphones, BT v6.0, True 60 hrs Playback, 40mm Drivers, ENC, Gaming Mode, Dual Pairing, AUX & microSD, Rapid Charging, Call Function (Sea Green)",
+            "last_price": 799.0,
+            "target_price": null,
+            "highest_price": 799.0,
             "list_price": null
         }
     }
