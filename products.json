@@ -1335,6 +1335,22 @@
             "target_price": null,
             "highest_price": 369.0,
             "list_price": null
+        },
+        "amz_B0G1LN4T61": {
+            "url": "https://www.amazon.in/Wobble-Storage-Display-Dimensity-Processor/dp/B0G1LN4T61/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": 27999.0,
+            "target_price": null,
+            "highest_price": 27999.0,
+            "list_price": null
+        },
+        "amz_B0BW3RBC3K": {
+            "url": "https://www.amazon.in/Shocknshop-Digital-Stylish-Multifunctional-Electronic/dp/B0BW3RBC3K/ref=sr_1_8",
+            "title": "Shocknshop Digital Sports Stylish Multifunctional Electronic LED Black Dial Wrist Watch for Men Boys -WCH78",
+            "last_price": 499.0,
+            "target_price": null,
+            "highest_price": 499.0,
+            "list_price": null
         }
     }
 }
