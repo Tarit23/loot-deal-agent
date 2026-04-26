@@ -938,8 +938,8 @@
         },
         "amz_B0FC5XDV5R": {
             "url": "https://www.amazon.in/iQOO-Dimensity-Processor-Military-Shock-Resistance/dp/B0FC5XDV5R/ref=sr_1_1",
-            "title": "iQOO Z10 Lite 5G (Cyber Green, 8GB RAM, 256GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-            "last_price": 16999.0,
+            "title": "iQOO Z10 Lite 5G (Cyber Green, 4GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "last_price": 13999.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -1246,6 +1246,14 @@
             "last_price": 44990.0,
             "target_price": null,
             "highest_price": 44990.0,
+            "list_price": null
+        },
+        "amz_B0BRXZ3FYF": {
+            "url": "https://www.amazon.in/Sounce-Electronic-Keyboard-Cleaning-Multifunctional/dp/B0BRXZ3FYF/ref=sr_1_10",
+            "title": "Sounce 7 in 1 Electronic Cleaner Kit, Keyboard Cleaner Kit with Brush, 3 in 1 Cleaning Pen for AirPods Pro, Multifunctional Cleaning Kit for Earphone, Keyboard, Laptop, Phone, PC Monitor (Grey)",
+            "last_price": 239.0,
+            "target_price": null,
+            "highest_price": 239.0,
             "list_price": null
         }
     }
