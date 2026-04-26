@@ -115,7 +115,7 @@
         "amz_B0GTYSL8KK": {
             "url": "https://www.amazon.in/HP-15-Athlon-Dual-7120U/dp/B0GTYSL8KK/ref=sr_1_4",
             "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
-            "last_price": 39800.0,
+            "last_price": 39400.0,
             "target_price": null,
             "highest_price": 39800.0,
             "list_price": 125841.3
@@ -1195,9 +1195,9 @@
         "amz_B0DQPKH93F": {
             "url": "https://www.amazon.in/Ambrane-Boostedbass-Multi-Functional-Stringz-Lite/dp/B0DQPKH93F/ref=sr_1_10",
             "title": "Ambrane Wired Headphones in Earphones with in-Line Mic for Clear Calling, 14Mm Dynamic Drivers for Boostedbass, 3.5Mm Jack, Multi-Functional Controller (Stringz 38 Lite, Blue)",
-            "last_price": 151.22,
+            "last_price": 151.54,
             "target_price": null,
-            "highest_price": 151.22,
+            "highest_price": 151.54,
             "list_price": null
         },
         "amz_B09B5CPV71": {
@@ -1326,6 +1326,14 @@
             "last_price": 26499.0,
             "target_price": null,
             "highest_price": 26499.0,
+            "list_price": null
+        },
+        "amz_B0FG36B1DF": {
+            "url": "https://www.amazon.in/LOUIS-DEVIN-Stainless-Analog-LD-G081-GRN-CH/dp/B0FG36B1DF/ref=sr_1_5",
+            "title": "LOUIS DEVIN Stainless Steel Chain Analog Wrist Watch for Men (Black/Blue/Brown/Green/White Dial) | LD-G081-CH",
+            "last_price": 369.0,
+            "target_price": null,
+            "highest_price": 369.0,
             "list_price": null
         }
     }
