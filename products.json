@@ -115,7 +115,7 @@
         "amz_B0GTYSL8KK": {
             "url": "https://www.amazon.in/HP-15-Athlon-Dual-7120U/dp/B0GTYSL8KK/ref=sr_1_4",
             "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
-            "last_price": 39800.0,
+            "last_price": 39400.0,
             "target_price": null,
             "highest_price": 39800.0,
             "list_price": 125841.3
@@ -1254,6 +1254,30 @@
             "last_price": 239.0,
             "target_price": null,
             "highest_price": 239.0,
+            "list_price": null
+        },
+        "amz_B0B7JNFWW1": {
+            "url": "https://www.amazon.in/Bata-Men-Casuals-Slipon-Shoes/dp/B0B7JNFWW1/ref=sr_1_7",
+            "title": "Bata Men's Slip-on Walking Shoe",
+            "last_price": 619.0,
+            "target_price": null,
+            "highest_price": 619.0,
+            "list_price": null
+        },
+        "amz_B09RPCVBKY": {
+            "url": "https://www.amazon.in/Campus-OXYFIT-Walking-Shoes-India/dp/B09RPCVBKY/ref=sr_1_6",
+            "title": "Campus Men Oxyfit (N) Walking Shoes",
+            "last_price": 699.0,
+            "target_price": null,
+            "highest_price": 699.0,
+            "list_price": null
+        },
+        "amz_B096BFVSFG": {
+            "url": "https://www.amazon.in/Bata-Mens-Lace-up-Formal-Shoes/dp/B096BFVSFG/ref=sr_1_9",
+            "title": "Bata Men's Lace-up Formal Shoes",
+            "last_price": 730.0,
+            "target_price": null,
+            "highest_price": 730.0,
             "list_price": null
         }
     }
