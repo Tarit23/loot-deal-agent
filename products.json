@@ -43,9 +43,9 @@
         "amz_B0BS1PRC4L": {
             "url": "https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1PRC4L/ref=sr_1_7",
             "title": "Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery, Quick Charge, DSEE Upscale, Multipoint Connectivity, Voice Assistant, Customized EQ-Black",
-            "last_price": 3989.0,
+            "last_price": 4390.0,
             "target_price": null,
-            "highest_price": 3990.0,
+            "highest_price": 4390.0,
             "list_price": null
         },
         "amz_B0FT7T3GZF": {
@@ -331,7 +331,7 @@
         "amz_B0D7PTFFZH": {
             "url": "https://www.amazon.in/Acer-Celeron-Processor-LPDDR4X-A325-45/dp/B0D7PTFFZH/ref=sr_1_7",
             "title": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6\") HD Display, Pure Silver, 1.5 KG",
-            "last_price": 39900.0,
+            "last_price": 37999.0,
             "target_price": null,
             "highest_price": 39900.0,
             "list_price": null
@@ -995,7 +995,7 @@
         "amz_B0CWVX1GNX": {
             "url": "https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX/ref=sr_1_6",
             "title": "Sony ULT Wear WH-ULT900N Noise Cancellation Wireless Bluetooth Over Ear Headphones with Massive Bass, Up to 50Hrs Battery-Black",
-            "last_price": 14839.0,
+            "last_price": 14878.0,
             "target_price": null,
             "highest_price": 14930.0,
             "list_price": null
@@ -1275,7 +1275,7 @@
         "amz_B096BFVSFG": {
             "url": "https://www.amazon.in/Bata-Mens-Lace-up-Formal-Shoes/dp/B096BFVSFG/ref=sr_1_9",
             "title": "Bata Men's Lace-up Formal Shoes",
-            "last_price": 730.0,
+            "last_price": 717.0,
             "target_price": null,
             "highest_price": 730.0,
             "list_price": null
@@ -1362,18 +1362,26 @@
         },
         "amz_B0FN7RN9TH": {
             "url": "https://www.amazon.in/Samsung-Sapphire-Storage-Upgrades-Lag-Free/dp/B0FN7RN9TH/ref=sr_1_8",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Samsung Galaxy M17 5G Mobile (Sapphire Black, 4GB RAM, 128GB Storage) | 50MP OIS Triple Camera | Gorilla Glass Victus | IP54 | 6 Gen OS Upgrades | AI | Gemini Live | Lag-Free Gaming | Without Charger",
+            "last_price": 13999.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 13999.0,
             "list_price": null
         },
         "amz_B0FDB9H9Z7": {
             "url": "https://www.amazon.in/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9H9Z7/ref=sr_1_9",
             "title": "Samsung Galaxy M36 5G Mobile (Serene Green, 8GB RAM, 128GB Storage) | Google Gemini| Gorilla Glass Victus+ | 7.7mm | AI Enhanced 50MP OIS Triple Camera| Nightography| Lag-free Gaming | Without Charger",
-            "last_price": 18399.0,
+            "last_price": 20499.0,
             "target_price": null,
-            "highest_price": 18399.0,
+            "highest_price": 20499.0,
+            "list_price": null
+        },
+        "amz_B0FBX1M594": {
+            "url": "https://www.amazon.in/GOLDENIZE-FASHION-Multicolour-Rotating-Stainless/dp/B0FBX1M594/ref=sr_1_6",
+            "title": "GOLDENIZE FASHION Branded Men's Sport Quartz Watch Car Wheel Multicolour Dial Wheel Dial 360 Rotating Casual Fashion Stainless Steel Alloy Mens &Boy's Luxury Metal Gift Creative Watch",
+            "last_price": 498.0,
+            "target_price": null,
+            "highest_price": 498.0,
             "list_price": null
         }
     }
