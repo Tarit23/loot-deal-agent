@@ -570,10 +570,10 @@
         },
         "amz_B0FC5TDB9P": {
             "url": "https://www.amazon.in/iQOO-Titanium-Dimensity-Processor-Shock-Resistance/dp/B0FC5TDB9P/ref=sr_1_3",
-            "title": "iQOO Z10 Lite 5G (Titanium Blue, 6GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-            "last_price": 14999.0,
+            "title": "iQOO Z10 Lite 5G (Titanium Blue, 8GB RAM, 256GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "last_price": 16999.0,
             "target_price": null,
-            "highest_price": 14999.0,
+            "highest_price": 16999.0,
             "list_price": null
         },
         "amz_B0F3XB7T5Q": {
@@ -683,7 +683,7 @@
         "amz_B00ISNVQMW": {
             "url": "https://www.amazon.in/Titan-Karishma-Stainless-Watch-NL1639SM02-NN1639SM02/dp/B00ISNVQMW/ref=sr_1_10",
             "title": "Titan Karishma Analog Black Dial Men's Watch -NM1639SM02 / NL1639SM02",
-            "last_price": 1895.0,
+            "last_price": 1915.0,
             "target_price": null,
             "highest_price": 1994.0,
             "list_price": null
@@ -1299,15 +1299,15 @@
         "amz_B0F1D9PQZZ": {
             "url": "https://www.amazon.in/realme-Segments-Dimensity-HyperGlow-Waterproof/dp/B0F1D9PQZZ/ref=sr_1_5",
             "title": "realme NARZO 80 Pro 5G (Speed Silver,12GB+256GB) | Segment's 1st MediaTek Dimensity 7400 Chipset | 6000mAh Titan Battery + 80W Ultra Charge | 4500nits HyperGlow Esports Display | IP69 Waterproof",
-            "last_price": 22999.0,
+            "last_price": 23999.0,
             "target_price": null,
-            "highest_price": 22999.0,
+            "highest_price": 23999.0,
             "list_price": null
         },
         "amz_B0D96GWQX1": {
             "url": "https://www.amazon.in/Lifelong-ZenCharge-Compact-Lithium-Charging/dp/B0D96GWQX1/ref=sr_1_8",
             "title": "Lifelong Electronics 20000mAh 22.5W Fast Charging Power Bank | 3 Inputs (1 Built-in USB A Cable + 1 C + 1 Lightning Port) & 6 Outputs (3 Built-in Cables + 1 C + 2 A Port) | Small Pocket Size Powerbank",
-            "last_price": 1899.0,
+            "last_price": 1799.0,
             "target_price": null,
             "highest_price": 1899.0,
             "list_price": null
@@ -1422,6 +1422,14 @@
             "last_price": 9499.0,
             "target_price": null,
             "highest_price": 9499.0,
+            "list_price": null
+        },
+        "amz_B0D25C6QP2": {
+            "url": "https://www.amazon.in/amazon-basics-Artificial-Maintenance-Dimensions/dp/B0D25C6QP2/ref=sr_1_7",
+            "title": "amazon basics Artificial Plants with Pot|Realistic Looking| Multi Variety |Durable Plastic | No Maintenance | Home Decor | Dimensions: 5 cm X 13 cm (Pack of 8)",
+            "last_price": 299.0,
+            "target_price": null,
+            "highest_price": 299.0,
             "list_price": null
         }
     }
