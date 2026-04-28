@@ -570,8 +570,8 @@
         },
         "amz_B0FC5TDB9P": {
             "url": "https://www.amazon.in/iQOO-Titanium-Dimensity-Processor-Shock-Resistance/dp/B0FC5TDB9P/ref=sr_1_3",
-            "title": "iQOO Z10 Lite 5G (Titanium Blue, 4GB RAM, 64GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-            "last_price": 12999.0,
+            "title": "iQOO Z10 Lite 5G (Titanium Blue, 6GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "last_price": 14999.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -683,7 +683,7 @@
         "amz_B00ISNVQMW": {
             "url": "https://www.amazon.in/Titan-Karishma-Stainless-Watch-NL1639SM02-NN1639SM02/dp/B00ISNVQMW/ref=sr_1_10",
             "title": "Titan Karishma Analog Black Dial Men's Watch -NM1639SM02 / NL1639SM02",
-            "last_price": 1895.0,
+            "last_price": 1695.0,
             "target_price": null,
             "highest_price": 1994.0,
             "list_price": null
@@ -779,7 +779,7 @@
         "amz_B099WNYHY2": {
             "url": "https://www.amazon.in/Fastrack-Analog-Black-Unisex-Adult-Watch-38024PP25/dp/B099WNYHY2/ref=sr_1_10",
             "title": "Fastrack Analog Unisex-Adult Watch",
-            "last_price": 995.0,
+            "last_price": 895.0,
             "target_price": null,
             "highest_price": 995.0,
             "list_price": null
@@ -1510,6 +1510,54 @@
             "last_price": 65990.0,
             "target_price": null,
             "highest_price": 65990.0,
+            "list_price": null
+        },
+        "amz_B0CY2PLQ8N": {
+            "url": "https://www.amazon.in/HP-Anti-Glare-Micro-Edge-fc0690au-Graphics/dp/B0CY2PLQ8N/ref=sr_1_6",
+            "title": "HP 15, AMD Ryzen 5 7520U,(16GB LPDDR5, 512GB SSD), Anti-Glare, Micro-Edge, FHD, 15.6''/39.6cm, Win 11, Office 24,M365 Basic(1yr)*,Silver, 1.59kg, fc0690au, FHD Camera, Backlit KB Laptop",
+            "last_price": 53990.0,
+            "target_price": null,
+            "highest_price": 53990.0,
+            "list_price": null
+        },
+        "amz_B0DHGM4YTL": {
+            "url": "https://www.amazon.in/BRUTON-Lite-Sport-Shoes-Running/dp/B0DHGM4YTL/ref=sr_1_7",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B09MM58Y7Q": {
+            "url": "https://www.amazon.in/Lenovo-MSOffice-82R400BRIN-Integrated-Graphics/dp/B09MM58Y7Q/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FQFZQMG5": {
+            "url": "https://www.amazon.in/Apple-Cellular-Natural-Titanium-Alpine/dp/B0FQFZQMG5/ref=sr_1_9",
+            "title": "Apple Watch Ultra 3 GPS + Cellular 49mm Natural Titanium Case with Light Blue Alpine Loop - Medium",
+            "last_price": 89900.0,
+            "target_price": null,
+            "highest_price": 89900.0,
+            "list_price": null
+        },
+        "amz_B0DV5FQDSF": {
+            "url": "https://www.amazon.in/Radiant-Drainer-Kitchen-Utensil-Stainless/dp/B0DV5FQDSF/ref=sr_1_6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B083C6XMKQ": {
+            "url": "https://www.amazon.in/Kitchen-Manufacturer-Warranty-capacity-SF400/dp/B083C6XMKQ/ref=sr_1_3",
+            "title": "ATOM ALISTON K1 Series Digital Kitchen Weighing Scale 10 kg, Electronic Weight Machine with LCD Display for Baking, Cooking, Food & Diet, SF-400/A121. 6Months Warranty (Colour May Vary)",
+            "last_price": 230.0,
+            "target_price": null,
+            "highest_price": 230.0,
             "list_price": null
         }
     }
