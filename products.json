@@ -331,7 +331,7 @@
         "amz_B0D7PTFFZH": {
             "url": "https://www.amazon.in/Acer-Celeron-Processor-LPDDR4X-A325-45/dp/B0D7PTFFZH/ref=sr_1_7",
             "title": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6\") HD Display, Pure Silver, 1.5 KG",
-            "last_price": 21990.0,
+            "last_price": 37999.0,
             "target_price": null,
             "highest_price": 39900.0,
             "list_price": null
@@ -571,7 +571,7 @@
         "amz_B0FC5TDB9P": {
             "url": "https://www.amazon.in/iQOO-Titanium-Dimensity-Processor-Shock-Resistance/dp/B0FC5TDB9P/ref=sr_1_3",
             "title": "iQOO Z10 Lite 5G (Titanium Blue, 8GB RAM, 256GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-            "last_price": 16999.0,
+            "last_price": 14999.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -1115,7 +1115,7 @@
         "amz_B0CVGX81T9": {
             "url": "https://www.amazon.in/VRB-Artificial-Greenery-Decoration-Festival/dp/B0CVGX81T9/ref=sr_1_9",
             "title": "VRB Dec Plastic Tm Artificial Greenery Ferns Vines Flowers Needle Wall Hanging For Home Decor Door Wall Balcony Decoration Party Festival Craft, Artificial Plants Hanging (Design 1)",
-            "last_price": 349.0,
+            "last_price": 298.0,
             "target_price": null,
             "highest_price": 349.0,
             "list_price": null
@@ -1454,6 +1454,22 @@
             "last_price": 798.0,
             "target_price": null,
             "highest_price": 798.0,
+            "list_price": null
+        },
+        "amz_B0B7JPSBVB": {
+            "url": "https://www.amazon.in/Bata-Men-Casual-Slip-Shoes/dp/B0B7JPSBVB/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0DBD6L65N": {
+            "url": "https://www.amazon.in/ASIAN-MEXICO-11-Synthetic-Lightweight-Comfortable/dp/B0DBD6L65N/ref=sr_1_1",
+            "title": "ASIAN Men's MEXICO-11 Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+            "last_price": 799.0,
+            "target_price": null,
+            "highest_price": 799.0,
             "list_price": null
         }
     }
