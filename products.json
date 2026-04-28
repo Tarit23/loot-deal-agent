@@ -51,7 +51,7 @@
         "amz_B0FT7T3GZF": {
             "url": "https://www.amazon.in/SAMSUNG-Galaxy-F07-Green-RAM/dp/B0FT7T3GZF/ref=sr_1_7",
             "title": "SAMSUNG Galaxy F07 (Green, 64 GB) (4 GB RAM)",
-            "last_price": 9780.0,
+            "last_price": 9749.0,
             "target_price": null,
             "highest_price": 9890.0,
             "list_price": 29999.0
@@ -467,7 +467,7 @@
         "amz_B0FH71SN5N": {
             "url": "https://www.amazon.in/Lenovo-IdeaPad-i5-12450H-Anti-glare-83ER00MDIN/dp/B0FH71SN5N/ref=sr_1_6",
             "title": "Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6\"(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",
-            "last_price": 60990.0,
+            "last_price": 54990.0,
             "target_price": null,
             "highest_price": 60990.0,
             "list_price": null
@@ -547,7 +547,7 @@
         "amz_B0FLZT7WMJ": {
             "url": "https://www.amazon.in/HomeWiz-Dispenser-Air-Fryer-Marinating-Easy-Pour/dp/B0FLZT7WMJ/ref=sr_1_10",
             "title": "HomeWiz BPA-Free Plastic Oil Dispenser Bottle with Silicone Brush | Perfect for Air-Fryer Low-Oil Cooking, Baking, BBQ & Marinating | Easy-Pour Drip-Free Kitchen Oil Container \u2013 350ml",
-            "last_price": 109.0,
+            "last_price": 99.0,
             "target_price": null,
             "highest_price": 109.0,
             "list_price": 8995.0
@@ -603,7 +603,7 @@
         "amz_B0GTTXP6WF": {
             "url": "https://www.amazon.in/vivo-Dimensity-7400-Turbo-Processor-Smartphone/dp/B0GTTXP6WF/ref=sr_1_9",
             "title": "vivo T5x 5G (Cyber Green, 6GB RAM, 128GB Storage) | 50MP AI Dual Camera | 32MP Selfie | 6.76\" FHD+ Display | 7200mAh Battery | Dimensity 7400-Turbo Processor | Fast Charging | Dual SIM Smartphone",
-            "last_price": 22599.0,
+            "last_price": 22749.0,
             "target_price": null,
             "highest_price": 22749.0,
             "list_price": null
@@ -659,9 +659,9 @@
         "amz_B09RK6MYCP": {
             "url": "https://www.amazon.in/ARIAT-Workhog-Waterproof-Carbon-Chocolate/dp/B09RK6MYCP/ref=sr_1_7",
             "title": "ARIAT Men's Workhog Xt 8\" Boa Waterproof Carbon Toe Work Boot Western",
-            "last_price": 59872.0,
+            "last_price": 59938.0,
             "target_price": null,
-            "highest_price": 59907.0,
+            "highest_price": 59938.0,
             "list_price": null
         },
         "amz_B07H3K85H5": {
@@ -683,7 +683,7 @@
         "amz_B00ISNVQMW": {
             "url": "https://www.amazon.in/Titan-Karishma-Stainless-Watch-NL1639SM02-NN1639SM02/dp/B00ISNVQMW/ref=sr_1_10",
             "title": "Titan Karishma Analog Black Dial Men's Watch -NM1639SM02 / NL1639SM02",
-            "last_price": 1915.0,
+            "last_price": 1895.0,
             "target_price": null,
             "highest_price": 1994.0,
             "list_price": null
@@ -1107,7 +1107,7 @@
         "amz_B0F4R5W1NC": {
             "url": "https://www.amazon.in/HP-i3-1315U-Anti-Glare-Micro-Edge-fd0569TU/dp/B0F4R5W1NC/ref=sr_1_9",
             "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera w/Privacy Shutter, fd0569TU",
-            "last_price": 47700.0,
+            "last_price": 47890.0,
             "target_price": null,
             "highest_price": 47990.0,
             "list_price": null
@@ -1307,7 +1307,7 @@
         "amz_B0D96GWQX1": {
             "url": "https://www.amazon.in/Lifelong-ZenCharge-Compact-Lithium-Charging/dp/B0D96GWQX1/ref=sr_1_8",
             "title": "Lifelong Electronics 20000mAh 22.5W Fast Charging Power Bank | 3 Inputs (1 Built-in USB A Cable + 1 C + 1 Lightning Port) & 6 Outputs (3 Built-in Cables + 1 C + 2 A Port) | Small Pocket Size Powerbank",
-            "last_price": 1799.0,
+            "last_price": 1899.0,
             "target_price": null,
             "highest_price": 1899.0,
             "list_price": null
@@ -1458,10 +1458,10 @@
         },
         "amz_B0B7JPSBVB": {
             "url": "https://www.amazon.in/Bata-Men-Casual-Slip-Shoes/dp/B0B7JPSBVB/ref=sr_1_8",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Bata Men's Slip-on Walking Shoe",
+            "last_price": 629.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 629.0,
             "list_price": null
         },
         "amz_B0DBD6L65N": {
@@ -1486,6 +1486,22 @@
             "last_price": 749.0,
             "target_price": null,
             "highest_price": 749.0,
+            "list_price": null
+        },
+        "amz_B0CK6N9VDC": {
+            "url": "https://www.amazon.in/Matrix-Antique-Softest-Silicone-Analog/dp/B0CK6N9VDC/ref=sr_1_5",
+            "title": "Matrix Antique 2.0 Day & Date Softest Silicone Strap Analog Watch for Men & Boys",
+            "last_price": 299.0,
+            "target_price": null,
+            "highest_price": 299.0,
+            "list_price": null
+        },
+        "amz_B0G1HM7TNK": {
+            "url": "https://www.amazon.in/AMERICANVIBER-TST-Adjustable-Function-Working/dp/B0G1HM7TNK/ref=sr_1_4",
+            "title": "AMERICANVIBER TST Black Adjustable Free Size Lock Date Function Working Analog Watch - for Men",
+            "last_price": 465.0,
+            "target_price": null,
+            "highest_price": 465.0,
             "list_price": null
         }
     }
