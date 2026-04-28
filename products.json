@@ -570,7 +570,7 @@
         },
         "amz_B0FC5TDB9P": {
             "url": "https://www.amazon.in/iQOO-Titanium-Dimensity-Processor-Shock-Resistance/dp/B0FC5TDB9P/ref=sr_1_3",
-            "title": "iQOO Z10 Lite 5G (Titanium Blue, 8GB RAM, 256GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "title": "iQOO Z10 Lite 5G (Titanium Blue, 4GB RAM, 64GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
             "last_price": 12999.0,
             "target_price": null,
             "highest_price": 16999.0,
@@ -1411,7 +1411,7 @@
         "amz_B0FZKZTXSN": {
             "url": "https://www.amazon.in/Dell-Previously-Inspiron-Processor-Display/dp/B0FZKZTXSN/ref=sr_1_7",
             "title": "Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core 3 100U Processor, 8GB DDR4, 512 SSD, 15.6\" NT FHD 120Hz IPS AG 250 nit Display, Win 11 + Office H&S 2024, Carbon Black, Thin & Light- 1.63Kg",
-            "last_price": 57990.0,
+            "last_price": 49990.0,
             "target_price": null,
             "highest_price": 57990.0,
             "list_price": null
@@ -1470,6 +1470,22 @@
             "last_price": 799.0,
             "target_price": null,
             "highest_price": 799.0,
+            "list_price": null
+        },
+        "amz_B09R24HMNW": {
+            "url": "https://www.amazon.in/ZEBRONICS-Zeb-Bro-Earphones-Drivers-Compatible/dp/B09R24HMNW/ref=sr_1_7",
+            "title": "ZEBRONICS Bro 3.5Mm Wired in Ear Earphones, in-Line Mic, Deep Bass, 1.2M Strong and Long Lasting Cable, Light Weight, Compatible with Mobile | Tablet | Laptop (Blue)",
+            "last_price": 139.0,
+            "target_price": null,
+            "highest_price": 139.0,
+            "list_price": null
+        },
+        "amz_B0FDPZ868C": {
+            "url": "https://www.amazon.in/ZEBRONICS-Wireless-Headphone-Callling-Assistant/dp/B0FDPZ868C/ref=sr_1_9",
+            "title": "ZEBRONICS Thunder Neo (2026 Upgrade) Wireless Headphone, BT v6.0, True 50hrs Playback, 40mm Driver, ENC, Rapid Charge, Gaming Mode, Dual Pairing, 3 EQ Modes, AUX, Voice Assistant (Black)",
+            "last_price": 749.0,
+            "target_price": null,
+            "highest_price": 749.0,
             "list_price": null
         }
     }
