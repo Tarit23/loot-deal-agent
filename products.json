@@ -331,7 +331,7 @@
         "amz_B0D7PTFFZH": {
             "url": "https://www.amazon.in/Acer-Celeron-Processor-LPDDR4X-A325-45/dp/B0D7PTFFZH/ref=sr_1_7",
             "title": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6\") HD Display, Pure Silver, 1.5 KG",
-            "last_price": 37999.0,
+            "last_price": 21990.0,
             "target_price": null,
             "highest_price": 39900.0,
             "list_price": null
@@ -603,7 +603,7 @@
         "amz_B0GTTXP6WF": {
             "url": "https://www.amazon.in/vivo-Dimensity-7400-Turbo-Processor-Smartphone/dp/B0GTTXP6WF/ref=sr_1_9",
             "title": "vivo T5x 5G (Cyber Green, 6GB RAM, 128GB Storage) | 50MP AI Dual Camera | 32MP Selfie | 6.76\" FHD+ Display | 7200mAh Battery | Dimensity 7400-Turbo Processor | Fast Charging | Dual SIM Smartphone",
-            "last_price": 22749.0,
+            "last_price": 22599.0,
             "target_price": null,
             "highest_price": 22749.0,
             "list_price": null
@@ -1275,9 +1275,9 @@
         "amz_B096BFVSFG": {
             "url": "https://www.amazon.in/Bata-Mens-Lace-up-Formal-Shoes/dp/B096BFVSFG/ref=sr_1_9",
             "title": "Bata Men's Lace-up Formal Shoes",
-            "last_price": 720.0,
+            "last_price": 734.0,
             "target_price": null,
-            "highest_price": 730.0,
+            "highest_price": 734.0,
             "list_price": null
         },
         "amz_B0GR1RQ144": {
@@ -1430,6 +1430,30 @@
             "last_price": 299.0,
             "target_price": null,
             "highest_price": 299.0,
+            "list_price": null
+        },
+        "amz_B0F7M3Q8DV": {
+            "url": "https://www.amazon.in/boAt-Rockerz-Bluetooth-Headphones-Headphone/dp/B0F7M3Q8DV/ref=sr_1_9",
+            "title": "Boat Rockerz 421, 60H Battery, Low Latency(40Ms), 40Mm Drivers, ENx Tech, Stream Ad Free Music via App Support, Bluetooth Headphones, Wireless Over Ear Headphone with Mic (Black Sabre)",
+            "last_price": 1199.0,
+            "target_price": null,
+            "highest_price": 1199.0,
+            "list_price": null
+        },
+        "amz_B09B5BS6G4": {
+            "url": "https://www.amazon.in/ZEBRONICS-Wireless-Headphones-Playback-Adjustable/dp/B09B5BS6G4/ref=sr_1_10",
+            "title": "ZEBRONICS Thunder (2026 Upgrade) Wireless Headphones, BT v6.0, True 60 hrs Playback, 40mm Drivers, ENC, Gaming Mode, Dual Pairing, AUX & microSD, Rapid Charging, Call Function (Teal Green)",
+            "last_price": 799.0,
+            "target_price": null,
+            "highest_price": 799.0,
+            "list_price": null
+        },
+        "amz_B0FGV2CNN5": {
+            "url": "https://www.amazon.in/pTron-Studio-Headphones-Low-Latency-Assistant/dp/B0FGV2CNN5/ref=sr_1_5",
+            "title": "pTron Studio Evo 70hrs Playtime Wireless Over Ear Headphones with HD Mic, Low-Latency Game/Movie/Music Modes, Punchy Bass, BT5.3, Dual Device Pairing, Voice Assistant & Type-C Fast Charging (Blue)",
+            "last_price": 798.0,
+            "target_price": null,
+            "highest_price": 798.0,
             "list_price": null
         }
     }
