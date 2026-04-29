@@ -570,8 +570,8 @@
         },
         "amz_B0FC5TDB9P": {
             "url": "https://www.amazon.in/iQOO-Titanium-Dimensity-Processor-Shock-Resistance/dp/B0FC5TDB9P/ref=sr_1_3",
-            "title": "iQOO Z10 Lite 5G (Titanium Blue, 6GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-            "last_price": 14999.0,
+            "title": "iQOO Z10 Lite 5G (Titanium Blue, 4GB RAM, 64GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "last_price": 12999.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -739,7 +739,7 @@
         "amz_B00HFPIIOI": {
             "url": "https://www.amazon.in/Casio-Vintage-Digital-Black-Watch/dp/B00HFPIIOI/ref=sr_1_7",
             "title": "Casio Youth Series Digital Black Dial Unisex Watch - F-91W-1Q(D002)",
-            "last_price": 1294.0,
+            "last_price": 1295.0,
             "target_price": null,
             "highest_price": 1295.0,
             "list_price": null
@@ -1522,10 +1522,10 @@
         },
         "amz_B0DHGM4YTL": {
             "url": "https://www.amazon.in/BRUTON-Lite-Sport-Shoes-Running/dp/B0DHGM4YTL/ref=sr_1_7",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "BRUTON EVA Lite Sport Shoes Running Shoes for Men- Grey",
+            "last_price": 499.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 499.0,
             "list_price": null
         },
         "amz_B09MM58Y7Q": {
@@ -1546,10 +1546,10 @@
         },
         "amz_B0DV5FQDSF": {
             "url": "https://www.amazon.in/Radiant-Drainer-Kitchen-Utensil-Stainless/dp/B0DV5FQDSF/ref=sr_1_6",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "RADIANT Basket Drainer & Dish Drainer Basket for Kitchen/Utensil Stand for Kitchen/Dish Drying Rack with Drainer/Bartan Stand/Dish Rack (Stainless Steel)",
+            "last_price": 498.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 498.0,
             "list_price": null
         },
         "amz_B083C6XMKQ": {
@@ -1558,6 +1558,14 @@
             "last_price": 230.0,
             "target_price": null,
             "highest_price": 230.0,
+            "list_price": null
+        },
+        "amz_B0F43VZ4H1": {
+            "url": "https://www.amazon.in/Samsung-Slimmest-Enhanced-Nightography-Processor/dp/B0F43VZ4H1/ref=sr_1_4",
+            "title": "Samsung Galaxy M56 5G Mobile (Light Green,8GB RAM,128GB Storage)| Segment Slimmest | Gorilla Glass Victus+| 10 Bit HDR Video| 50MP Camera| AI | Vapour Cooling Chamber| Lag-free Gaming| Without Charger",
+            "last_price": 21999.0,
+            "target_price": null,
+            "highest_price": 21999.0,
             "list_price": null
         }
     }
