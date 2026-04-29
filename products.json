@@ -210,7 +210,7 @@
         },
         "amz_B0GFW1BJ1D": {
             "url": "https://www.amazon.in/realme-Smartphone-Comfort-Display-6300mAh/dp/B0GFW1BJ1D/ref=sr_1_5",
-            "title": "realme C71 4G Smartphone 6GB+128GB,6.745 inch Screen, 90Hz Eye Comfort Display, 6300mAh Battery, 37MP Cameras, Unisoc T7250 Chip, IP54, Sea Blue",
+            "title": "realme C71 4G Smartphone 6GB+128GB,6.745 inch Screen, 90Hz Eye Comfort Display, 6300mAh Battery, 37MP Cameras, Unisoc T7250 Chip, IP54, Obsidian Black",
             "last_price": 12499.0,
             "target_price": null,
             "highest_price": 12499.0,
@@ -1243,9 +1243,9 @@
         "amz_B0CWTYGPH8": {
             "url": "https://www.amazon.in/Acer-Premium-Windows-AL15-41-Display/dp/B0CWTYGPH8/ref=sr_1_5",
             "title": "acer Aspire Lite, AMD Ryzen 3 5300U Processor, 16 GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
-            "last_price": 44990.0,
+            "last_price": 45990.0,
             "target_price": null,
-            "highest_price": 44990.0,
+            "highest_price": 45990.0,
             "list_price": null
         },
         "amz_B0BRXZ3FYF": {
@@ -1530,10 +1530,10 @@
         },
         "amz_B09MM58Y7Q": {
             "url": "https://www.amazon.in/Lenovo-MSOffice-82R400BRIN-Integrated-Graphics/dp/B09MM58Y7Q/ref=sr_1_8",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6\" HD Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/Office Home 2024/1 Year ADP Free/Grey/1.6Kg), 82R4011MIN",
+            "last_price": 45000.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 45000.0,
             "list_price": null
         },
         "amz_B0FQFZQMG5": {
@@ -1566,6 +1566,30 @@
             "last_price": 21999.0,
             "target_price": null,
             "highest_price": 21999.0,
+            "list_price": null
+        },
+        "amz_B0FC2W8WJM": {
+            "url": "https://www.amazon.in/boAt-Bluetooth-Headphones-Wireless-Headphone/dp/B0FC2W8WJM/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GWHFCN1H": {
+            "url": "https://www.amazon.in/Dell-Anti-Glare-Graphics-Keyboard-Dedicated/dp/B0GWHFCN1H/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0BKL21P4L": {
+            "url": "https://www.amazon.in/BRUTON-Exclusive-Trendy-Shoes-Numeric_10/dp/B0BKL21P4L/ref=sr_1_9",
+            "title": "BRUTON Exclusive Trendy Sports Running Shoes | Casual Shoe | Sneakers for Men's & Boy's",
+            "last_price": 299.0,
+            "target_price": null,
+            "highest_price": 299.0,
             "list_price": null
         }
     }
