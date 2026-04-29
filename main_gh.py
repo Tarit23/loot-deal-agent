@@ -21,9 +21,6 @@ async def run_tracker():
         print("❌ TELEGRAM_BOT_TOKEN not found!")
         return
 
-    # Initialize Bot (Stateless)
-    bot = Bot(token=TELEGRAM_BOT_TOKEN)
-    
     # 1. Run Discovery
     print("🔍 Running Discovery...")
     try:
@@ -36,55 +33,65 @@ async def run_tracker():
     products = database.get_all_products()
     print(f"📊 Currently tracking {len(products)} products.")
     
-    for pid, product_data in products.items():
-        try:
-            url = product_data.get('url')
-            old_price = product_data.get('last_price')
-            target_price = product_data.get('target_price')
-            highest_price = product_data.get('highest_price', old_price)
-            list_price = product_data.get('list_price')
-            title = product_data.get('title', "Product")
-            
-            # Add delay to avoid blocking
-            await asyncio.sleep(random.uniform(2, 5))
-            
-            print(f"Checking {pid}...")
-            new_title, new_price, new_list_price = scraper.scrape_product(url)
-            
-            if new_price is None:
-                print(f"Skipping {pid} (Failed to scrape price or blocked)")
-                continue
+    # Randomly select a subset to avoid timeout and overlap in GitHub Actions
+    all_pids = list(products.keys())
+    # 30 mins * 60s / ~5.5s per product = max ~300. We'll check 50 to be safe and fast.
+    sample_size = min(50, len(all_pids))
+    sampled_pids = random.sample(all_pids, sample_size)
+    print(f"🔄 Checking a random sample of {sample_size} products this run...")
+    
+    # Initialize Bot (Stateless, but properly managed)
+    async with Bot(token=TELEGRAM_BOT_TOKEN) as bot:
+        for pid in sampled_pids:
+            product_data = products[pid]
+            try:
+                url = product_data.get('url')
+                old_price = product_data.get('last_price')
+                target_price = product_data.get('target_price')
+                highest_price = product_data.get('highest_price', old_price)
+                list_price = product_data.get('list_price')
+                title = product_data.get('title', "Product")
                 
-            # Update DB with all metadata
-            database.update_product_metadata(pid, title=new_title, new_price=new_price, new_list_price=new_list_price)
-            
-            # Determine values for post
-            post_title = new_title or title
-            current_list_price = new_list_price or list_price
-            
-            # Check if it's a deal
-            if utils.is_deal(old_price, new_price, target_price, highest_price, current_list_price):
-                print(f"✅ Deal found for {pid}! New: ₹{new_price}")
-                affiliate_link = utils.generate_affiliate_link(url)
+                # Add delay to avoid blocking
+                await asyncio.sleep(random.uniform(2, 5))
                 
-                # Baseline for AI (old price or list price)
-                baseline = old_price or current_list_price or new_price
-                message = ai_content.generate_deal_post(post_title, baseline, new_price, affiliate_link)
+                print(f"Checking {pid}...")
+                new_title, new_price, new_list_price = scraper.scrape_product(url)
                 
-                try:
-                    await bot.send_message(chat_id=TELEGRAM_CHANNEL_ID, text=message, parse_mode=ParseMode.MARKDOWN)
-                    print(f"Post successful for {pid}")
-                except Exception as e:
-                    print(f"❌ Markdown Post failed for {pid}: {e}. Retrying without markdown...")
+                if new_price is None:
+                    print(f"Skipping {pid} (Failed to scrape price or blocked)")
+                    continue
+                    
+                # Update DB with all metadata
+                database.update_product_metadata(pid, title=new_title, new_price=new_price, new_list_price=new_list_price)
+                
+                # Determine values for post
+                post_title = new_title or title
+                current_list_price = new_list_price or list_price
+                
+                # Check if it's a deal
+                if utils.is_deal(old_price, new_price, target_price, highest_price, current_list_price):
+                    print(f"✅ Deal found for {pid}! New: ₹{new_price}")
+                    affiliate_link = utils.generate_affiliate_link(url)
+                    
+                    # Baseline for AI (old price or list price)
+                    baseline = old_price or current_list_price or new_price
+                    message = ai_content.generate_deal_post(post_title, baseline, new_price, affiliate_link)
+                    
                     try:
-                        await bot.send_message(chat_id=TELEGRAM_CHANNEL_ID, text=message)
-                        print(f"Post successful (no-markdown fallback) for {pid}")
-                    except Exception as e2:
-                        print(f"❌ Critical Post failure for {pid}: {e2}")
-            else:
-                print(f"ℹ️ No deal for {pid}. Current: ₹{new_price}")
-        except Exception as e:
-            print(f"❌ Unexpected error checking {pid}: {e}")
+                        await bot.send_message(chat_id=TELEGRAM_CHANNEL_ID, text=message, parse_mode=ParseMode.MARKDOWN)
+                        print(f"Post successful for {pid}")
+                    except Exception as e:
+                        print(f"❌ Markdown Post failed for {pid}: {e}. Retrying without markdown...")
+                        try:
+                            await bot.send_message(chat_id=TELEGRAM_CHANNEL_ID, text=message)
+                            print(f"Post successful (no-markdown fallback) for {pid}")
+                        except Exception as e2:
+                            print(f"❌ Critical Post failure for {pid}: {e2}")
+                else:
+                    print(f"ℹ️ No deal for {pid}. Current: ₹{new_price}")
+            except Exception as e:
+                print(f"❌ Unexpected error checking {pid}: {e}")
 
     print("🏁 GitHub Actions Tracker run complete.")
 

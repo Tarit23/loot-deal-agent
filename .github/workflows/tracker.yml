@@ -6,6 +6,10 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch: # Allows manual trigger
 
+concurrency:
+  group: tracker-bot
+  cancel-in-progress: false
+
 jobs:
   track_and_post:
     runs-on: ubuntu-latest
@@ -38,6 +42,7 @@ jobs:
           AMAZON_AFFILIATE_TAG: ${{ secrets.AMAZON_AFFILIATE_TAG }}
           EARNKARO_USER_ID: ${{ secrets.EARNKARO_USER_ID }}
           FLIPKART_AFFILIATE_ID: ${{ secrets.FLIPKART_AFFILIATE_ID }}
+          PYTHONIOENCODING: utf-8
         run: python main_gh.py
 
       - name: Commit Updated Database
@@ -46,4 +51,5 @@ jobs:
           git config --global user.email "bot@github.actions"
           git add products.json
           git commit -m "chore: update product database [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main || echo "No remote changes to rebase"
           git push origin main
