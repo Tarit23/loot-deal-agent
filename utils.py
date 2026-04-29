@@ -89,6 +89,11 @@ def is_deal(old_price: float, new_price: float, target_price: float = None, high
     if new_price is None:
         return False
         
+    # PREVENT REPETITION: Only trigger a deal if the price has actively dropped 
+    # since the last check, or if it's a brand new product being tracked.
+    if old_price is not None and new_price >= old_price:
+        return False
+        
     # Check target price first
     if target_price is not None and new_price <= target_price:
         return True

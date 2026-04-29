@@ -8,15 +8,33 @@ import database
 import utils
 from scraper import get_headers
 
-# Categories to search for discoveries
-CATEGORIES = ["mobiles", "electronics", "laptops", "shoes", "watches", "kitchen", "home decor", "headphones"]
+# A massive list of categories to ensure all types of products appear
+ALL_CATEGORIES = [
+    "mobiles", "smartwatches", "laptops", "tablets", "monitors", "storage devices", 
+    "earbuds", "headphones", "bluetooth speakers", "power banks", "chargers",
+    "shoes", "sneakers", "sports shoes", "casual shoes", "sandals",
+    "watches", "sunglasses", "backpacks", "luggage", "wallets", "belts",
+    "t-shirts", "jeans", "jackets", "activewear", "kurti", "sarees",
+    "kitchen appliances", "cookware", "gas stoves", "water purifiers", "mixer grinders",
+    "home decor", "bedsheets", "curtains", "clocks", "lamps", "furniture",
+    "groceries", "dry fruits", "chocolates", "snacks", "detergents",
+    "beauty products", "skincare", "perfumes", "makeup", "hair care", "trimmers",
+    "fitness equipment", "dumbbells", "yoga mats", "protein powder",
+    "toys", "board games", "action figures", "baby products", "diapers",
+    "books", "stationery", "pens", "notebooks", "car accessories", "bike accessories",
+    "tools", "drills", "home improvement", "smart home devices"
+]
+
+def get_random_categories(num=8):
+    import random
+    return random.sample(ALL_CATEGORIES, min(num, len(ALL_CATEGORIES)))
 
 def discover_amazon():
     """Finds high-discount products on Amazon India using search filters."""
     print("Running Amazon Discovery...")
     discovered_urls = []
     
-    for category in CATEGORIES:
+    for category in get_random_categories():
         # Search URL with 50% or more discount filter (rh=p_8_50-)
         search_url = f"https://www.amazon.in/s?k={category}&rh=p_8_50-"
         
@@ -49,7 +67,7 @@ def discover_flipkart():
     print("Running Flipkart Discovery...")
     discovered_urls = []
     
-    for category in CATEGORIES:
+    for category in get_random_categories():
         # Search URL with 50% or more discount filter
         search_url = f"https://www.flipkart.com/search?q={category}&p[]=facets.discount_range%3D50%25%2Bor%2Bmore"
         
