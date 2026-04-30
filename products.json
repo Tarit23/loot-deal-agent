@@ -1275,7 +1275,7 @@
         "amz_B096BFVSFG": {
             "url": "https://www.amazon.in/Bata-Mens-Lace-up-Formal-Shoes/dp/B096BFVSFG/ref=sr_1_9",
             "title": "Bata Men's Lace-up Formal Shoes",
-            "last_price": 734.0,
+            "last_price": 715.0,
             "target_price": null,
             "highest_price": 734.0,
             "list_price": null
@@ -2322,10 +2322,10 @@
         },
         "amz_B09GLW2F7L": {
             "url": "https://www.amazon.in/Kinsco-Adjuster-Purifier-Dispenser-Machine/dp/B09GLW2F7L/ref=sr_1_3",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Kinsco Aqua Punch 15 Litre Copper + RO + UV + UF + TDS Adjuster Pure Copper Water Purifier Dispenser Machine, Black (With Free Pre Filter)",
+            "last_price": 4467.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 4467.0,
             "list_price": null
         },
         "amz_B0B79QLL1K": {
@@ -2446,6 +2446,86 @@
             "last_price": 892.0,
             "target_price": null,
             "highest_price": 892.0,
+            "list_price": null
+        },
+        "amz_B0BXKTM8QM": {
+            "url": "https://www.amazon.in/Lifelong-LLGS990-Stainless-Efficiency-Certified/dp/B0BXKTM8QM/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B07VSSQRMJ": {
+            "url": "https://www.amazon.in/Pigeon-Stoverkraft-Stainless-Steel-Burner/dp/B07VSSQRMJ/ref=sr_1_1",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B08VWZXTWY": {
+            "url": "https://www.amazon.in/Lifelong-LLGS10-Certified-service-warranty/dp/B08VWZXTWY/ref=sr_1_2",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B07VQYPH5Q": {
+            "url": "https://www.amazon.in/Pigeon-Stoverkraft-Glass-Aster-Burner/dp/B07VQYPH5Q/ref=sr_1_4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B07WL8K5Z9": {
+            "url": "https://www.amazon.in/Butterfly-Stainless-Steel-Smart-Burner/dp/B07WL8K5Z9/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B077X9YMCN": {
+            "url": "https://www.amazon.in/Lifelong-Burner-warranty-Doorstep-Service/dp/B077X9YMCN/ref=sr_1_6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B097PDHWY8": {
+            "url": "https://www.amazon.in/Lifelong-LLGS912-Automatic-Ignition-Toughened/dp/B097PDHWY8/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0CVQ8ST47": {
+            "url": "https://www.amazon.in/Longway-Burner-Ignition-Certified-Warranty/dp/B0CVQ8ST47/ref=sr_1_5",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0BSN61PKM": {
+            "url": "https://www.amazon.in/GREENCHEF-Glass-Burner-Manual-Ignition/dp/B0BSN61PKM/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0CRBBRHL5": {
+            "url": "https://www.amazon.in/Pigeon-Stovekraft-Stainless-Ignition-Certified/dp/B0CRBBRHL5/ref=sr_1_7",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
             "list_price": null
         }
     }
