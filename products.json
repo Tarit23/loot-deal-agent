@@ -467,7 +467,7 @@
         "amz_B0FH71SN5N": {
             "url": "https://www.amazon.in/Lenovo-IdeaPad-i5-12450H-Anti-glare-83ER00MDIN/dp/B0FH71SN5N/ref=sr_1_6",
             "title": "Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6\"(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",
-            "last_price": 60225.0,
+            "last_price": 60900.0,
             "target_price": null,
             "highest_price": 60990.0,
             "list_price": null
@@ -2250,10 +2250,10 @@
         },
         "amz_B0BJ6P3LSK": {
             "url": "https://www.amazon.in/Copper-RO-Purifier-Automatic-Controller/dp/B0BJ6P3LSK/ref=sr_1_1",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "AQUA D PURE 4 in 1 Copper RO Water Purifier with 10 Stage Purification Filtration, UV, UF, TDS Adjuster and 12 Liter Large Storage Tank, Suitable for all type of water supply.",
+            "last_price": 5248.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 5248.0,
             "list_price": null
         },
         "amz_B0F8QC2Z7C": {
@@ -2323,7 +2323,7 @@
         "amz_B09GLW2F7L": {
             "url": "https://www.amazon.in/Kinsco-Adjuster-Purifier-Dispenser-Machine/dp/B09GLW2F7L/ref=sr_1_3",
             "title": "Kinsco Aqua Punch 15 Litre Copper + RO + UV + UF + TDS Adjuster Pure Copper Water Purifier Dispenser Machine, Black (With Free Pre Filter)",
-            "last_price": 4799.0,
+            "last_price": 4753.0,
             "target_price": null,
             "highest_price": 4799.0,
             "list_price": null
@@ -7042,6 +7042,14 @@
         },
         "amz_B081LGBPT7": {
             "url": "https://www.amazon.in/Lancer-White-Sports-Running-Indus-251/dp/B081LGBPT7/ref=sr_1_6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FMF1QMKX": {
+            "url": "https://www.amazon.in/Aristocrat-Liberty-Combination-International-Warranty/dp/B0FMF1QMKX/ref=sr_1_9",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
