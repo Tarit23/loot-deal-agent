@@ -179,7 +179,7 @@
         "amz_B0G3WWMTZT": {
             "url": "https://www.amazon.in/HP-i5-1335U-Lifetime-Microsoft-Ethernet/dp/B0G3WWMTZT/ref=sr_1_9",
             "title": "HP i5 Laptop, Intel 10-Core i5-1335U with Lifetime Microsoft Office, 16GB RAM 512GB SSD, Windows 11, Fast WiFi 6E, Numeric Keypad, Long Battery Life, Ethernet Port, Laptop for Business&Student",
-            "last_price": 61650.0,
+            "last_price": 62360.0,
             "target_price": null,
             "highest_price": 63900.0,
             "list_price": null
@@ -570,8 +570,8 @@
         },
         "amz_B0FC5TDB9P": {
             "url": "https://www.amazon.in/iQOO-Titanium-Dimensity-Processor-Shock-Resistance/dp/B0FC5TDB9P/ref=sr_1_3",
-            "title": "iQOO Z10 Lite 5G (Titanium Blue, 4GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-            "last_price": 13999.0,
+            "title": "iQOO Z10 Lite 5G (Titanium Blue, 4GB RAM, 64GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "last_price": 12998.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -4611,7 +4611,7 @@
         "amz_B0DZ7C519W": {
             "url": "https://www.amazon.in/Apple-iPad-11%E2%80%B3-Display-All-Day/dp/B0DZ7C519W/ref=sr_1_1",
             "title": "Apple iPad 11\u2033: A16 chip, 27.69 cm (11\u2033) Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life \u2014 Blue",
-            "last_price": 31900.0,
+            "last_price": 33999.0,
             "target_price": null,
             "highest_price": 34400.0,
             "list_price": null
@@ -6234,10 +6234,10 @@
         },
         "amz_B07DLX1C1P": {
             "url": "https://www.amazon.in/Ajanta-Inches-Bedroom-Kitchen-Movement/dp/B07DLX1C1P/ref=sr_1_5",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Ajanta Step Movement Plastic Analog Wall Clock for Home/Office/Bedroom/Living Room/Kitchen (White, 7 Inches)",
+            "last_price": 177.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 177.0,
             "list_price": null
         },
         "amz_B00PXJWJJI": {
@@ -8346,6 +8346,14 @@
         },
         "amz_B0GMQLQGFW": {
             "url": "https://www.amazon.in/LG-24U411A-B-Smartchoice-Virtually-Borderless/dp/B0GMQLQGFW/ref=sr_1_5",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B01IHCPDJA": {
+            "url": "https://www.amazon.in/Cadbury-Nutties-Chocolate-30g/dp/B01IHCPDJA/ref=sr_1_9_in_f3_0o_fs_mod_primary_alm",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
