@@ -1843,7 +1843,7 @@
         "amz_B0DQ8BZ136": {
             "url": "https://www.amazon.in/U-S-POLO-ASSN-Mens-Sneakers/dp/B0DQ8BZ136/ref=sr_1_6",
             "title": "U.S. Polo Assn. Mens Joan Sneaker",
-            "last_price": 2358.0,
+            "last_price": 2502.0,
             "target_price": null,
             "highest_price": 2989.0,
             "list_price": null
@@ -1851,7 +1851,7 @@
         "amz_B0D7GQNL6B": {
             "url": "https://www.amazon.in/Surf-Excel-Detergent-Superfine-Dissolves/dp/B0D7GQNL6B/ref=sr_1_7_in_f3_0o_fs_mod_primary_alm",
             "title": "Surf Excel Easy Wash Detergent Powder7 kg | Superfine Washing Powder | Dissolves Easily & Removes Tough Stains | Suitable for all Washing Machines",
-            "last_price": 665.0,
+            "last_price": 725.0,
             "target_price": null,
             "highest_price": 797.0,
             "list_price": 102.43
@@ -2851,7 +2851,7 @@
         "amz_B0GDTRYXYF": {
             "url": "https://www.amazon.in/HAMMER-Playtime-Assistant-Lightweight-Dual-Tone/dp/B0GDTRYXYF/ref=sr_1_2",
             "title": "HAMMER Airflow Neo Earbuds with 80H Playtime, 13mm Titanium Driver, 40ms Gaming Mode, Fast Charging Buds, Type-C Charging, Voice Assistant, Lightweight Dual-Tone Design (Grey)",
-            "last_price": 579.0,
+            "last_price": 578.0,
             "target_price": null,
             "highest_price": 599.0,
             "list_price": null
@@ -3347,10 +3347,10 @@
         "amz_B07X34F9MF": {
             "url": "https://www.amazon.in/Mee-Caring-Baby-Wipes-Free/dp/B07X34F9MF/ref=sr_1_8_in_f3_0o_fs_mod_primary_alm",
             "title": "Mee Mee Wet Wipes for Baby Skin with Aloe Vera | 72 Wipes x Pack of 3-216 Wipes | Paraben Free, Fragrance Free, pH Balanced, Dermatologically Safe, Baby Wipes Combo | Pack Lid",
-            "last_price": 189.0,
+            "last_price": 199.0,
             "target_price": null,
             "highest_price": 199.0,
-            "list_price": 0.88
+            "list_price": 0.92
         },
         "amz_B01C9OACJS": {
             "url": "https://www.amazon.in/BRANDONN-Blanket-Premium-Embroidery-All-Weather/dp/B01C9OACJS/ref=sr_1_9",
@@ -3603,7 +3603,7 @@
         "amz_B0D5D29R1B": {
             "url": "https://www.amazon.in/Porslin-Pcs-Microfiber-Car-Duster/dp/B0D5D29R1B/ref=sr_1_3",
             "title": "Porslin 5 Pcs Microfiber Car Duster Kit - Extendable Long Handle Car Cleaning Accessories - Interior & Exterior Detailing Brush Set - Scratch & Lint Free,Perfect for Cars,SUVs,Motorcycles,Home,Grey",
-            "last_price": 449.0,
+            "last_price": 426.55,
             "target_price": null,
             "highest_price": 449.0,
             "list_price": null
@@ -8906,6 +8906,22 @@
         },
         "amz_B0CQ2VKBMH": {
             "url": "https://www.amazon.in/BenQ-GW2490-Bezel-less-Brightness-Intelligence/dp/B0CQ2VKBMH/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FBR6HGXM": {
+            "url": "https://www.amazon.in/realme-Wireless-Earbuds-Dynamic-Playback/dp/B0FBR6HGXM/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0DH2158PJ": {
+            "url": "https://www.amazon.in/Sounce-Earphone-Airdopes-Absorbing-Protective/dp/B0DH2158PJ/ref=sr_1_4",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
