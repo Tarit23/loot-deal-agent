@@ -3195,10 +3195,10 @@
         "amz_B00TS89BSW": {
             "url": "https://www.amazon.in/Surf-Excel-Easy-Detergent-Powder/dp/B00TS89BSW/ref=sr_1_8_in_f3_0o_fs_mod_primary_alm",
             "title": "Surf Excel Easy Wash Detergent Powder - 1.5 kg",
-            "last_price": 187.0,
+            "last_price": 230.0,
             "target_price": null,
-            "highest_price": 187.0,
-            "list_price": 124.67
+            "highest_price": 230.0,
+            "list_price": 153.33
         },
         "amz_B00K0LUSSS": {
             "url": "https://www.amazon.in/Aashirvaad-Superior-MP-Atta-5kg/dp/B00K0LUSSS/ref=sr_1_1_in_f3_0o_fs",
@@ -3371,10 +3371,10 @@
         "amz_B00NYZTGEO": {
             "url": "https://www.amazon.in/Fortune-Sunlite-Refined-Sunflower-Oil/dp/B00NYZTGEO/ref=sr_1_4_in_f3_0o_fs_mod_primary_alm",
             "title": "Fortune Sunlite Refined Sunflower Oil, 870gm/800gm Pouch (Weight May Vary)",
-            "last_price": 205.0,
+            "last_price": 195.0,
             "target_price": null,
             "highest_price": 205.0,
-            "list_price": 235.63
+            "list_price": 224.14
         },
         "amz_B0C28MZSNT": {
             "url": "https://www.amazon.in/Bergner-Stainless-Cookware-Heating-Induction/dp/B0C28MZSNT/ref=sr_1_8",
@@ -3419,7 +3419,7 @@
         "amz_B0FZ3JFTCN": {
             "url": "https://www.amazon.in/Premium-Fleece-Jacket-Winterwear-Beige_S/dp/B0FZ3JFTCN/ref=sr_1_9",
             "title": "Q - RIOUS Men Fleece Jacket",
-            "last_price": 529.0,
+            "last_price": 559.0,
             "target_price": null,
             "highest_price": 559.0,
             "list_price": null
@@ -8075,7 +8075,7 @@
         "amz_B09DKFPQ91": {
             "url": "https://www.amazon.in/Nutrition-Concentrate-Chocolate-Certified-absorption/dp/B09DKFPQ91/ref=sr_1_7",
             "title": "AS-IT-IS Nutrition ATOM Whey Protein 1kg | 27g protein | Isolate & Concentrate | Double Rich Chocolate | USA Labdoor Certified | With Digestive Enzymes for better absorption",
-            "last_price": 2597.0,
+            "last_price": 2467.0,
             "target_price": null,
             "highest_price": 2597.0,
             "list_price": null
@@ -10106,6 +10106,14 @@
         },
         "amz_B0GVFTWVTT": {
             "url": "https://www.amazon.in/Clive-Wireless-Bluetooth-Charging-Resistant/dp/B0GVFTWVTT/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0F5C1BYZ4": {
+            "url": "https://www.amazon.in/YOURKARTS-COM-Slayer-Anime-Character-Collectible/dp/B0F5C1BYZ4/ref=sr_1_10",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
