@@ -115,7 +115,7 @@
         "amz_B0GTYSL8KK": {
             "url": "https://www.amazon.in/HP-15-Athlon-Dual-7120U/dp/B0GTYSL8KK/ref=sr_1_4",
             "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
-            "last_price": 39390.0,
+            "last_price": 39520.0,
             "target_price": null,
             "highest_price": 41999.0,
             "list_price": 125841.3
@@ -1619,9 +1619,9 @@
         "amz_B071Z8M4KX": {
             "url": "https://www.amazon.in/boAt-BassHeads-100-Headphones-Black/dp/B071Z8M4KX/ref=sr_1_8",
             "title": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
-            "last_price": 299.0,
+            "last_price": 449.0,
             "target_price": null,
-            "highest_price": 349.0,
+            "highest_price": 449.0,
             "list_price": null
         },
         "amz_B0CY1PL36Q": {
@@ -5555,9 +5555,9 @@
         "amz_9389931843": {
             "url": "https://www.amazon.in/Self-Belief-Self-Help-Motivation-Personal-Paperback/dp/9389931843/ref=sr_1_1",
             "title": "You Can by George Matthew Adams | The Classic Guide to Self-Belief, Self-Help, Motivation & Personal Growth | A Life Changing Book on Success and Inner Strength | Premium Paperback Edition | Best Seller",
-            "last_price": 94.05,
+            "last_price": 99.0,
             "target_price": null,
-            "highest_price": 94.05,
+            "highest_price": 99.0,
             "list_price": null
         },
         "amz_0143458205": {
@@ -5603,7 +5603,7 @@
         "amz_935543135X": {
             "url": "https://www.amazon.in/Dont-Believe-Everything-You-Think/dp/935543135X/ref=sr_1_6",
             "title": "Don't Believe Everything You Think (English)",
-            "last_price": 179.0,
+            "last_price": 170.05,
             "target_price": null,
             "highest_price": 179.0,
             "list_price": null
@@ -8427,9 +8427,9 @@
         "amz_B0FPD4RHYH": {
             "url": "https://www.amazon.in/GRECIILOOKS-Lightweight-Streetwear-Winterwear-Gl-Djt-Ms6329-L-Blue/dp/B0FPD4RHYH/ref=sr_1_10",
             "title": "GRECIILOOKS Men\u2019S Denim Jacket | Classic Regular Fit Jeans Jacket For Men | Stylish Branded Jackets For Men \u2013 Timeless Casual Wear",
-            "last_price": 749.0,
+            "last_price": 799.0,
             "target_price": null,
-            "highest_price": 749.0,
+            "highest_price": 799.0,
             "list_price": null
         },
         "amz_B0F9F6YR8B": {
@@ -9867,10 +9867,10 @@
         "amz_B07VGMYM15": {
             "url": "https://www.amazon.in/Bingo-Original-Style-Chilli-Sprinkled/dp/B07VGMYM15/ref=sr_1_4_in_f3_0o_fs_mod_primary_alm",
             "title": "Bingo! Original Style Chilli Sprinkled - Flat Cut Spicy Potato Chips Pack for Snacks, 90g/85gram/90.7G(Weight may vary)",
-            "last_price": 33.0,
+            "last_price": 37.0,
             "target_price": null,
-            "highest_price": 33.0,
-            "list_price": 36.67
+            "highest_price": 37.0,
+            "list_price": 41.11
         },
         "amz_B0FQ5TV873": {
             "url": "https://www.amazon.in/Mehrang-Pockets-Stretchable-Activewear-Lavender/dp/B0FQ5TV873/ref=sr_1_10",
@@ -11178,10 +11178,10 @@
         },
         "amz_B0GVT4TYRG": {
             "url": "https://www.amazon.in/MiniExplorer-Unbreakable-Vehicles-Crawling-Children/dp/B0GVT4TYRG/ref=sr_1_7",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "MiniExplorer Unbreakable Pull Back Vehicles| Push and Go Crawling Toy for Kids & Children, Power Friction Cars for 3+ Years Old Boys|Girls - Set of 5,Multicolor",
+            "last_price": 299.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 299.0,
             "list_price": null
         },
         "amz_B0FMDKS5JN": {
@@ -11247,6 +11247,30 @@
             "target_price": null,
             "highest_price": 140.0,
             "list_price": 140.0
+        },
+        "amz_B0GYJ9WX7J": {
+            "url": "https://www.amazon.in/Tool-Tools-Spanner-Socket-Wrench/dp/B0GYJ9WX7J/ref=sr_1_4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0DWLB93BG": {
+            "url": "https://www.amazon.in/Portronics-Screwdriver-Travel-Friendly-Magnetic-Household/dp/B0DWLB93BG/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B09RP374H8": {
+            "url": "https://www.amazon.in/Spartan-BS-02-Pro-Screwdriver-Multipurpose-Application/dp/B09RP374H8/ref=sr_1_8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
         }
     }
 }
