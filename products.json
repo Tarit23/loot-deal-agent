@@ -1010,7 +1010,7 @@
         },
         "amz_B0G5NLZD53": {
             "url": "https://www.amazon.in/ASUS-3050-6GB-Windows-Office24-V3607VJ-RP134WS/dp/B0G5NLZD53/ref=sr_1_9",
-            "title": "ASUS Gaming V16 (2025), Intel Core 5 210H, RTX 3050-6GB, 16GB RAM, 512GB SSD, FHD+, 16\", 40 cm, Windows 11 Home, M365 Basic(1yr)* Office24, Matte Black, 1.95 Kg, V3607VJ-RP134WS, Gaming Laptop",
+            "title": "ASUS Gaming V16 (2025), Intel Core 5 210H (14th Gen), RTX 3050-6GB, 16GB RAM, 512GB SSD, FHD+, 16\", 40 cm, Windows 11, M365 Basic(1yr)* Office24, Matte Black, 1.95 Kg, V3607VJ-RP134WS, Gaming Laptop",
             "last_price": 79990.0,
             "target_price": null,
             "highest_price": 79990.0,
@@ -1322,8 +1322,8 @@
         },
         "amz_B0F43W6V6J": {
             "url": "https://www.amazon.in/Samsung-Slimmest-Enhanced-Nightography-Processor/dp/B0F43W6V6J/ref=sr_1_6",
-            "title": "Samsung Galaxy M56 5G Mobile (Light Green,8GB RAM,256GB Storage)| Segment Slimmest | Gorilla Glass Victus+| 10 Bit HDR Video| 50MP Camera| AI | Vapour Cooling Chamber| Lag-free Gaming| Without Charger",
-            "last_price": 26499.0,
+            "title": "Samsung Galaxy M56 5G Mobile (Light Green,8GB RAM,128GB Storage)| Segment Slimmest | Gorilla Glass Victus+| 10 Bit HDR Video| 50MP Camera| AI | Vapour Cooling Chamber| Lag-free Gaming| Without Charger",
+            "last_price": 23499.0,
             "target_price": null,
             "highest_price": 26499.0,
             "list_price": null
@@ -1547,7 +1547,7 @@
         "amz_B0DV5FQDSF": {
             "url": "https://www.amazon.in/Radiant-Drainer-Kitchen-Utensil-Stainless/dp/B0DV5FQDSF/ref=sr_1_6",
             "title": "RADIANT Basket Drainer & Dish Drainer Basket for Kitchen/Utensil Stand for Kitchen/Dish Drying Rack with Drainer/Bartan Stand/Dish Rack (Stainless Steel)",
-            "last_price": 489.0,
+            "last_price": 497.0,
             "target_price": null,
             "highest_price": 498.0,
             "list_price": null
@@ -3907,10 +3907,10 @@
         "amz_B07FHD5WNB": {
             "url": "https://www.amazon.in/Pampers-Premium-Care-Diapers-Monthly/dp/B07FHD5WNB/ref=sr_1_8_in_f3_0o_fs_mod_primary_alm",
             "title": "Pampers Premium Care Pant Style Baby Diapers | Large (L size) | 88 Count | Voted India's Softest | All-in-1 with 360 Cottony Softness Diapers| 9-14kg",
-            "last_price": 1400.0,
+            "last_price": 1415.0,
             "target_price": null,
-            "highest_price": 1400.0,
-            "list_price": 15.91
+            "highest_price": 1415.0,
+            "list_price": 16.08
         },
         "amz_B07M8HBFLK": {
             "url": "https://www.amazon.in/Huggies-Wonder-Pants-Diapers-Large/dp/B07M8HBFLK/ref=sr_1_7_in_f3_0o_fs_mod_primary_alm",
@@ -4379,7 +4379,7 @@
         "amz_B097JMCG1B": {
             "url": "https://www.amazon.in/Safari-Polycarbonate-Wheeling-Suitcase-Graphite/dp/B097JMCG1B/ref=sr_1_10",
             "title": "Safari Medium Thorium Neo 8 Wheels 55,66 and 77 Cm Small, and Large 4 Wheel Inline 3 Trolley Bags Polycarbonate 360 Degree Wheeling System Luggage,4 Wheel Inline Trolley Bags,Graphite Blue",
-            "last_price": 6589.0,
+            "last_price": 4799.0,
             "target_price": null,
             "highest_price": 6589.0,
             "list_price": null
@@ -4555,7 +4555,7 @@
         "amz_B07XTJDJHN": {
             "url": "https://www.amazon.in/Forest-Oliver-Blocking-Leather-Wallet/dp/B07XTJDJHN/ref=sr_1_5",
             "title": "URBAN FOREST Oliver Black Leather Wallet for Men with RFID Protection",
-            "last_price": 496.0,
+            "last_price": 469.0,
             "target_price": null,
             "highest_price": 497.0,
             "list_price": null
@@ -7915,7 +7915,7 @@
         "amz_B00LHZW3XY": {
             "url": "https://www.amazon.in/Luxor-Subject-Single-Ruled-Notebook/dp/B00LHZW3XY/ref=sr_1_4",
             "title": "Luxor 5 Subject Single Ruled Notebook - A5 Size, 300 Pages, 70 GSM",
-            "last_price": 146.0,
+            "last_price": 140.0,
             "target_price": null,
             "highest_price": 146.0,
             "list_price": null
@@ -8298,10 +8298,10 @@
         },
         "amz_B0GTVKNL5W": {
             "url": "https://www.amazon.in/ASUS-Zenbook-Touchscreen-Windows-UX8407AA-SN183WS/dp/B0GTVKNL5W/ref=sr_1_7",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "ASUS Zenbook Duo (2026),Smartchoice,Intel Core Ultra 7 (Series 3),32GB RAM,1TB SSD,3K OLED,Touchscreen,14\"(35.5 cm),Win 11,M365 Basic(1Y),Office 24,Moher Gray,1.65 Kg, UX8407AA-SN183WS,Copilot+ PC",
+            "last_price": 299990.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 299990.0,
             "list_price": null
         },
         "amz_B0B4W7VMRC": {
@@ -9355,7 +9355,7 @@
         "amz_B0D3DH8TSC": {
             "url": "https://www.amazon.in/boAt-Airdopes-300-Multipoint-Connection/dp/B0D3DH8TSC/ref=sr_1_6",
             "title": "Boat Airdopes 300, Cinematic Spatial Audio, 50HRS Battery, 4Mic AI ENx, Fast Charge, App Support, Low Latency, IPX4, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Gunmetal Black)",
-            "last_price": 1499.0,
+            "last_price": 1199.0,
             "target_price": null,
             "highest_price": 1499.0,
             "list_price": null
@@ -11323,7 +11323,7 @@
         "amz_B09R27BTL9": {
             "url": "https://www.amazon.in/Original-Polarized-Sunglasses-polycarbonate-Protection/dp/B09R27BTL9/ref=sr_1_8",
             "title": "Black Jones Polarized Sunglasses | Full Rim Aviator Shape | 100% UV Protected Goggles | For Men & Women | Silver & Gun-Metal (Black) | Pack of 1",
-            "last_price": 499.0,
+            "last_price": 463.0,
             "target_price": null,
             "highest_price": 499.0,
             "list_price": null
@@ -11418,10 +11418,10 @@
         },
         "amz_B0BKQ79PQ4": {
             "url": "https://www.amazon.in/Peter-England-Regular-Jeans-PJDNPCTPR80360_Navy_36/dp/B0BKQ79PQ4/ref=sr_1_7",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Peter England Men's Tapered Fit Mid Rise Classic Tape Stretchable Twill Jeans",
+            "last_price": 1049.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 1049.0,
             "list_price": null
         },
         "amz_B0F2T7JN96": {
@@ -11450,6 +11450,38 @@
         },
         "amz_B0GPQMNWTF": {
             "url": "https://www.amazon.in/JAAR-FASHION-Mens-Baggy-Jeans/dp/B0GPQMNWTF/ref=sr_1_3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GJF1MVDP": {
+            "url": "https://www.amazon.in/AUSK-Textured-Vertical-Striped-Self-Design/dp/B0GJF1MVDP/ref=sr_1_6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0G4LZJNND": {
+            "url": "https://www.amazon.in/AUSK-T-Shirt-Texture-Design-Tshirts/dp/B0G4LZJNND/ref=sr_1_5",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B09XMV4T3Q": {
+            "url": "https://www.amazon.in/Peter-England-Regular-Shirt-PCKPSRGP483904_Green/dp/B09XMV4T3Q/ref=sr_1_4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0DRFN3213": {
+            "url": "https://www.amazon.in/Lymio-T-Shirt-Polo-Shirt-POLO-52-Olivegreen-L/dp/B0DRFN3213/ref=sr_1_3",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
