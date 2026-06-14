@@ -443,9 +443,9 @@
         "amz_B0GV15KBMK": {
             "url": "https://www.amazon.in/ASUS-Chromebook-CX1405-Processor-CX1405CTA-S60622/dp/B0GV15KBMK/ref=sr_1_8",
             "title": "ASUS Chromebook CX1405 (2026), Smartchoice,Intel N50 Processor, Intel UHD iGPU, 8GB RAM, 128GB SSD, FHD, 14\" (35.5 cm), Chrome OS, Pure Grey, 1.39 Kg, CX1405CTA-S60622, 42WHrs, Thin & Light Laptop",
-            "last_price": 32990.0,
+            "last_price": 36990.0,
             "target_price": null,
-            "highest_price": 32990.0,
+            "highest_price": 36990.0,
             "list_price": 125841.3
         },
         "amz_B0CJLSF2T2": {
@@ -1595,7 +1595,7 @@
         "amz_B0GV7BGGMF": {
             "url": "https://www.amazon.in/Business-Laptop-i7-8665U-Processor-Tested/dp/B0GV7BGGMF/ref=sr_1_9",
             "title": "Model T490S Business Laptop | Core i7-8665U Processor (16GB DDR4 RAM- 256GB PCIe SSD -Win 10, 14.0\" FHD IPS Touch) (Tested & Pre Owned)",
-            "last_price": 28299.0,
+            "last_price": 28599.0,
             "target_price": null,
             "highest_price": 28599.0,
             "list_price": null
@@ -4787,7 +4787,7 @@
         "amz_B018LX0NAO": {
             "url": "https://www.amazon.in/Jaipurcrafts-Sparkle-Square-Gramophone-Showpiece/dp/B018LX0NAO/ref=sr_1_6",
             "title": "JaipurCrafts Premium Sparkle Square Gramophone Showpiece - 23 cm (Brass, Brown, Gold) (Black, Gold) (Black, Gold)",
-            "last_price": 299.0,
+            "last_price": 298.0,
             "target_price": null,
             "highest_price": 299.0,
             "list_price": null
@@ -8539,9 +8539,9 @@
         "amz_B0GKFHKDKD": {
             "url": "https://www.amazon.in/GOBOULT-Drift2-Watchfaces-Brightness-Monitoring/dp/B0GKFHKDKD/ref=sr_1_10",
             "title": "GOBOULT Newly Launched Drift2 Smart Watch 1.83'' HD Display,15 Days Battery Life, 150+Watchfaces, 500 Nits Brightness, AI Voice Assistant, SpO2 Monitoring (Carbon Black) (Storm Grey)",
-            "last_price": 1199.0,
+            "last_price": 1399.0,
             "target_price": null,
-            "highest_price": 1199.0,
+            "highest_price": 1399.0,
             "list_price": null
         },
         "amz_B0D9629NJQ": {
@@ -22538,6 +22538,94 @@
         },
         "amz_B0CV83T5L6": {
             "url": "https://www.amazon.in/Amazon-Brand-Symactive-Dumbbells-Workout/dp/B0CV83T5L6/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_6c7d937282": {
+            "url": "https://www.flipkart.com/asus-expertbook-p1-i3-14th-gen-1-yr-adp-intel-core-3-gen-100u-8-gb-512-gb-ssd-windows-11-home-p1503cva-s72562ws-thin-light-laptop/p/itm1ed622fed8f3a",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_28b598c88a": {
+            "url": "https://www.flipkart.com/pro365-double-spring-tummy-trimmer-fat-burning-weight-loss-exercises-ab-exerciser/p/itm2120068cbe810",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_a7b06fff35": {
+            "url": "https://www.flipkart.com/acer-aspire-5-intel-core-ultra-125h-16-gb-512-gb-ssd-windows-11-home-a514-54h-notebook/p/itmd237a2b9aa3ad",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_0200337247": {
+            "url": "https://www.flipkart.com/asus-vivobook-15-2026-office-2024-m365-basic-amd-ryzen-5-hexa-core-150-16-gb-512-gb-ssd-windows-11-home-m1502naq-bq118ws-thin-light-laptop/p/itm194545ff7b206",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_3eb4f42abb": {
+            "url": "https://www.flipkart.com/acer-aspire-3-intel-celeron-dual-core-8-gb-256-gb-ssd-windows-11-home-a311-45-thin-light-laptop/p/itmad38595c5a902",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_54253fbfc5": {
+            "url": "https://www.flipkart.com/loopa-men-casual-formal-evening-party-black-artificial-leather-nylon-belt/p/itmb102ea93da014",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_39ec89bd38": {
+            "url": "https://www.flipkart.com/acer-swift-neo-office-2024-m365-basic-intel-core-ultra-5-115u-16-gb-1-tb-ssd-windows-11-home-sfn14-54h-thin-light-laptop/p/itm6985fa8acc1b8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_542905ab03": {
+            "url": "https://www.flipkart.com/hp-15s-intel-core-i3-11th-gen-1125g4-8-gb-512-gb-ssd-windows-11-home-15s-fq2629tu-thin-light-laptop/p/itm6b83aa8fab029",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_9bc7a35af3": {
+            "url": "https://www.flipkart.com/zyrona-full-sleeve-colorblock-men-jacket/p/itm02e7e732ec88c",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_fe9321e94d": {
+            "url": "https://www.flipkart.com/vebnor-full-sleeve-solid-men-jacket/p/itm7ebab32078769",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_03a0f111e8": {
+            "url": "https://www.flipkart.com/awibe-full-sleeve-solid-boys-jacket/p/itm35eac8a45aa72",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
