@@ -123,7 +123,7 @@
         "amz_B0F4KTYFF7": {
             "url": "https://www.amazon.in/BRUTON-Sport-Shoes-Running-White/dp/B0F4KTYFF7/ref=sr_1_5",
             "title": "BRUTON EVA Lite Sport Shoes Running Shoes for Men- White",
-            "last_price": 549.0,
+            "last_price": 499.0,
             "target_price": null,
             "highest_price": 549.0,
             "list_price": null
@@ -2795,7 +2795,7 @@
         "amz_B0F1N5LB2J": {
             "url": "https://www.amazon.in/SPYKAR-Rover-Regular-Mid-Rise-Casual/dp/B0F1N5LB2J/ref=sr_1_6",
             "title": "Spykar Men's Rover Regular Fit Mid Rise Casual Jeans",
-            "last_price": 1259.0,
+            "last_price": 1120.0,
             "target_price": null,
             "highest_price": 1259.0,
             "list_price": null
@@ -10003,7 +10003,7 @@
         "amz_B0GGD3JMHF": {
             "url": "https://www.amazon.in/Yamaha-YH-4000-Premium-Headphones-Black/dp/B0GGD3JMHF/ref=sr_1_3",
             "title": "Yamaha YH-4000 Premium Open Back Over Ear Headphones (Black)",
-            "last_price": 449.0,
+            "last_price": 399.0,
             "target_price": null,
             "highest_price": 1092322.8,
             "list_price": null
@@ -10907,10 +10907,10 @@
         "amz_B08JR7NMH8": {
             "url": "https://www.amazon.in/Happilo-Premium-Arabian-Dates-Pouch/dp/B08JR7NMH8/ref=sr_1_9_in_f3_0o_fs",
             "title": "Happilo Premium Natural Arabian Dates 500g Pouch | Khajur, Khajoor | Dry Fruits | Dates in Fresh | Healthy Snacks | Rich in Fibre | No Added Sugar",
-            "last_price": 159.0,
+            "last_price": 120.0,
             "target_price": null,
             "highest_price": 159.0,
-            "list_price": 31.8
+            "list_price": 24.0
         },
         "amz_B0GZKKJ218": {
             "url": "https://www.amazon.in/Nature-Purify-Kishmish-Apricots-Snacking/dp/B0GZKKJ218/ref=sr_1_2",
@@ -22842,10 +22842,10 @@
         },
         "amz_B0DV5PCZNV": {
             "url": "https://www.amazon.in/FURNY-Carlo-Seater-Convertible-Upholstery-Velvet/dp/B0DV5PCZNV/ref=sr_1_6",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "FURNY Carlo 4 Seater - L Shape Convertible Sofa Set for Living Room Furniture Sets 3 Piece Small Sofa, Modular Sectional Couch for Small Space, Upholstery-Velvet Fabric (Teal)",
+            "last_price": 11899.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 11899.0,
             "list_price": null
         },
         "oth_bbfbd1bddb": {
@@ -23002,6 +23002,78 @@
         },
         "oth_cc663a3a44": {
             "url": "https://www.flipkart.com/powerteck-liquid-car-polish-bumper-dashboard-exterior-leather-metal-parts-tyres/p/itm64d17c75ba16f",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GYWXKPHK": {
+            "url": "https://www.amazon.in/Triyugo-Flexible-Cleaning-Supplies-Effective/dp/B0GYWXKPHK/ref=sr_1_7",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GV81ZVSC": {
+            "url": "https://www.amazon.in/CKPAI-Fasteners-Childrens-Clothing-Multicolor/dp/B0GV81ZVSC/ref=sr_1_6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0FH5B65YT": {
+            "url": "https://www.amazon.in/ABC-Multipurpose-Powder-Fire-Extinguisher/dp/B0FH5B65YT/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B097SVHX7L": {
+            "url": "https://www.amazon.in/Shelves-Kitchen-Bathroom-Self-Adhesive-Multipurpose/dp/B097SVHX7L/ref=sr_1_4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_e2e81bca5e": {
+            "url": "https://www.flipkart.com/vastra-women-printed-straight-kurta/p/itm187c395678ad9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_bb8ffee4a2": {
+            "url": "https://www.flipkart.com/relibba-super-sonic-football-shoes-men/p/itm4acb77ff6703f",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_a184465a18": {
+            "url": "https://www.flipkart.com/narachi-texworld-women-embellished-a-line-kurta/p/itme61d53f30b3dd",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_e7ef6d98d1": {
+            "url": "https://www.flipkart.com/free-kicks-fk-444-ultrafit-running-shoes-men/p/itm491f1e0a9973a",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_cf49773f3b": {
+            "url": "https://www.flipkart.com/aajay-ssharma-girls-floral-print-cape-top-kurta/p/itmd9cac392fdbcb",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
