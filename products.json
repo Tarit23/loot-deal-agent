@@ -291,7 +291,7 @@
         "amz_B0DX6P3RX9": {
             "url": "https://www.amazon.in/Samsung-MediaTek-Dimensity-Charging-Upgrades/dp/B0DX6P3RX9/ref=sr_1_9",
             "title": "Samsung Galaxy M06 5G Mobile (Sage Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
-            "last_price": 11999.0,
+            "last_price": 13999.0,
             "target_price": null,
             "highest_price": 13999.0,
             "list_price": null
@@ -1027,7 +1027,7 @@
         "amz_B0FM3C4L2F": {
             "url": "https://www.amazon.in/ASUS-Upgradeable-Keyboard-Graphite-FA506NCG-HN199W/dp/B0FM3C4L2F/ref=sr_1_7",
             "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
-            "last_price": 73990.0,
+            "last_price": 68990.0,
             "target_price": null,
             "highest_price": 73990.0,
             "list_price": null
@@ -4870,7 +4870,7 @@
             "last_price": 179.0,
             "target_price": null,
             "highest_price": 179.0,
-            "list_price": null
+            "list_price": 299.0
         },
         "amz_B09CGQ6FCK": {
             "url": "https://www.amazon.in/KENT-11119-Wall-Mountable-Purifier-Storage/dp/B09CGQ6FCK/ref=sr_1_10",
@@ -5915,7 +5915,7 @@
         "amz_B0CTX9HFJV": {
             "url": "https://www.amazon.in/BSB-HOME-Microfiber-Collections-Bedsheets/dp/B0CTX9HFJV/ref=sr_1_9",
             "title": "BSB HOME Microfiber 144 TC Aspire 2.O Collections Soft Breathable Wrinklefree Floral Printed Double Bedsheets with 2 Pillow Covers, Color Light Green and White",
-            "last_price": 199.0,
+            "last_price": 249.0,
             "target_price": null,
             "highest_price": 249.0,
             "list_price": null
@@ -8587,7 +8587,7 @@
         "amz_B0F2Z2TRK9": {
             "url": "https://www.amazon.in/Fire-Boltt-Bluetooth-Calling-Smartwatch-Assistance/dp/B0F2Z2TRK9/ref=sr_1_8",
             "title": "Fire-Boltt Talk Round Smart Watch 1.39\u2033 TFT Display with Bluetooth Calling, Dual Button, Voice Assistance, SPO\u2082 & Heart Rate Monitor, 120+ Sports Modes, Smartwatch for Men & Women - Green",
-            "last_price": 1299.0,
+            "last_price": 1399.0,
             "target_price": null,
             "highest_price": 1399.0,
             "list_price": null
@@ -11315,9 +11315,9 @@
         "amz_B0GQBHFDVW": {
             "url": "https://www.amazon.in/Black-Jones-Sunglasses-Travelling-Motorcycle/dp/B0GQBHFDVW/ref=sr_1_10",
             "title": "Black Jones Sports Sunglasses for men and women Cycling Mountain Travelling Cricket Trekking Baseball Fishing Cycling Running Golf Motorcycle Tac Glasses UV400",
-            "last_price": 279.0,
+            "last_price": 299.0,
             "target_price": null,
-            "highest_price": 279.0,
+            "highest_price": 299.0,
             "list_price": null
         },
         "amz_B09R27BTL9": {
@@ -21754,10 +21754,10 @@
         },
         "amz_B0G526158X": {
             "url": "https://www.amazon.in/ANNI-Designer-Viscose-Straight-RED_XXL_Red_XX-Large/dp/B0G526158X/ref=sr_1_7",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "ANNI Designer Women's Rayon Viscose Straight fit Printed Embroidered Kurta with Pant & Dupatta | Ethnic Kurta Set for Women | Daily, Office & Festive Traditional",
+            "last_price": 737.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 737.0,
             "list_price": null
         },
         "amz_B0D6W6Y5KC": {
@@ -23906,6 +23906,70 @@
         },
         "oth_890e1b6948": {
             "url": "https://www.flipkart.com/yogabar-whey-protein-isolate-concentrate-chocolate-907g-25g-protein-scoop-2lbs/p/itm6a15a3a68a39a",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_03e505bd1a": {
+            "url": "https://www.flipkart.com/sandisk-sdddc3-064g-i35-64-gb-otg-drive-compatible-desktop-computer-laptop-mobile-usb-3-2-plastic-case/p/itmc8beabe1f0aa5",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_61785f4194": {
+            "url": "https://www.flipkart.com/slovic-solid-men-black-swim-shorts/p/itm5a6bc47f4d5cf",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_64a050185d": {
+            "url": "https://www.flipkart.com/tommy-hilfiger-men-casual-brown-genuine-leather-belt/p/itme450f2a0832df",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_622752bcca": {
+            "url": "https://www.flipkart.com/the-soul-recovery/p/itm8d6cce608e1bc",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_d2abf04834": {
+            "url": "https://www.flipkart.com/flexden-printed-women-round-neck-multicolor-t-shirt/p/itm75874127a6604",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_febc22a2fe": {
+            "url": "https://www.flipkart.com/wd-my-passport-4-tb-external-hard-disk-drive-hdd-5-gb-s-usb-2-0-3-0-automatic-backup-compatible-windows/p/itm07a1c9ee6d776",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_192c16a604": {
+            "url": "https://www.flipkart.com/pw-all-one-rrb-group-d-level-1-2026-27-exam-15-pyqs-practice-sets/p/itm467160b88e5c3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4303edfcec": {
+            "url": "https://www.flipkart.com/error-pro-aman-sir-grammar-practice-book-useful-ssc-exams-bank-defence-teaching-competitive-english-best-english-exams/p/itm10df8eb23067a",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
