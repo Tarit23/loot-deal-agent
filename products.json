@@ -1339,7 +1339,7 @@
         "amz_B0G1LN4T61": {
             "url": "https://www.amazon.in/Wobble-Storage-Display-Dimensity-Processor/dp/B0G1LN4T61/ref=sr_1_3",
             "title": "Wobble One 5G (8GB+256GB) | 50MP Epic Front Camera | Dual 4K HDR | Dolby Vision AMOLED | Zero Bloatware Android 15 | Sony LYTIA 600 OIS | Dimensity 7400 | Mythic White",
-            "last_price": 27599.0,
+            "last_price": 27298.0,
             "target_price": null,
             "highest_price": 28999.0,
             "list_price": null
@@ -2035,10 +2035,10 @@
         "amz_B0B6Y3FNV7": {
             "url": "https://www.amazon.in/Paris-Moisture-Conditioner-Hyaluronic-Dehydrated/dp/B0B6Y3FNV7/ref=sr_1_9_in_f3_0o_fs_mod_primary_alm",
             "title": "L'Oreal Paris Fresh Hyaluron Moisture 72HR Moisture Sealing Conditioner Powered By Hyaluronic Acid, For Frizz-Free, Hydrated And Bouncy Hair Full Of Life For All Hair Types | 175 Millilitres",
-            "last_price": 224.0,
+            "last_price": 229.0,
             "target_price": null,
             "highest_price": 243.0,
-            "list_price": 128.0
+            "list_price": 130.86
         },
         "amz_B0B257ZYVB": {
             "url": "https://www.amazon.in/AGARO-Grand-Vegetables-Stainless-Transparent/dp/B0B257ZYVB/ref=sr_1_9",
@@ -2403,7 +2403,7 @@
         "amz_B0DPLHT75R": {
             "url": "https://www.amazon.in/Trimmer-Electric-Adjustable-Trimmers-Professional/dp/B0DPLHT75R/ref=sr_1_4",
             "title": "Hair Trimmer,Electric Shaving Machine,Adjustable Blade Clipper,trimmer for men,Body Trimmer,Trimmer Men Beard,Trimmers for man,Professional Shaver For Men T261",
-            "last_price": 114.4,
+            "last_price": 114.0,
             "target_price": null,
             "highest_price": 170.0,
             "list_price": null
@@ -5003,7 +5003,7 @@
         "amz_B0FLDQHFX5": {
             "url": "https://www.amazon.in/Hetansh-Fashion-Screwdriver-Rechargeable-Accessories/dp/B0FLDQHFX5/ref=sr_1_2",
             "title": "47 in 1 Cordless Electric Screwdriver Drill with Built-in LED Rechargeable Wireless Drill Machine Kit Power Drill Screw Gun Tool, Accessories for House,Office",
-            "last_price": 468.0,
+            "last_price": 490.0,
             "target_price": null,
             "highest_price": 579.0,
             "list_price": null
@@ -6131,7 +6131,7 @@
         "amz_B0C24NDQK4": {
             "url": "https://www.amazon.in/Longway-Sage-Grinding-Powerful-Warranty/dp/B0C24NDQK4/ref=sr_1_6",
             "title": "Longway Sage 500 Watt Juicer Mixer Grinder for Grinding, Mixing, Juicing with Powerful Motor (Gray & Black, 2 Jars)",
-            "last_price": 1199.0,
+            "last_price": 1099.0,
             "target_price": null,
             "highest_price": 1249.0,
             "list_price": null
@@ -26634,6 +26634,78 @@
         },
         "oth_2e1943a3aa": {
             "url": "https://www.flipkart.com/fur-jaden-anti-theft-number-lock-15-6-inch-laptop-backpack-usb-charging-men-women-22-l/p/itm386036b74bc2b",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_34d33a6fa4": {
+            "url": "https://www.flipkart.com/tarika-saree-blocked-printed-color-block-geometric-print-printed-bandhani-georgette/p/itm7d0bcdcf2ab79",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4d7e2b378b": {
+            "url": "https://www.flipkart.com/khowal-women-floral-print-gown-kurta/p/itm63c53d9daf4ba",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_d38321cd42": {
+            "url": "https://www.flipkart.com/teddyy-easy-diaper-pants-rash-protection-3x-faster-absorption-technology-m/p/itm83f9ea96c75e4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_6a98ec367f": {
+            "url": "https://www.flipkart.com/aristocrat-apex-hard-side-polypropylene-luggage-trolley-bag-combination-lock-cabin-suitcase-8-wheels-22-inch/p/itmb881105b43232",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_2114854d3f": {
+            "url": "https://www.flipkart.com/hno-sales-150-pieces-art-set-kids-case/p/itm7f4e189dc5d59",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_433d80e252": {
+            "url": "https://www.flipkart.com/zivini-book-cover-binding-30-pcs-3-different-sizes-10-piece-each-size/p/itmd071eeedb1e95",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_1153b290b3": {
+            "url": "https://www.flipkart.com/sa-rasa-women-printed-straight-kurta/p/itm128486e0cd757",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_438642609a": {
+            "url": "https://www.flipkart.com/triguna-men-chikan-embroidery-straight-kurta/p/itm6f72dcc0e6afb",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_c48d5f28fc": {
+            "url": "https://www.flipkart.com/chairupfashion-embroidered-embellished-bollywood-satin-saree/p/itm40dd40591a33d",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
