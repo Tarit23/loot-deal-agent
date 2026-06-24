@@ -10003,7 +10003,7 @@
         "amz_B0GGD3JMHF": {
             "url": "https://www.amazon.in/Yamaha-YH-4000-Premium-Headphones-Black/dp/B0GGD3JMHF/ref=sr_1_3",
             "title": "Yamaha YH-4000 Premium Open Back Over Ear Headphones (Black)",
-            "last_price": 399.0,
+            "last_price": 320040.0,
             "target_price": null,
             "highest_price": 1092322.8,
             "list_price": null
@@ -11427,9 +11427,9 @@
         "amz_B0F2T7JN96": {
             "url": "https://www.amazon.in/Highlander-Mid-Rise-Tailored-Minimalistic-Silhouette/dp/B0F2T7JN96/ref=sr_1_5",
             "title": "Highlander Men\u2019s Straight Fit Jeans | Mid Rise | Stretchable | Designed for Comfort & Ease of Movement| Jeans for Man",
-            "last_price": 474.0,
+            "last_price": 555.0,
             "target_price": null,
-            "highest_price": 527.0,
+            "highest_price": 555.0,
             "list_price": null
         },
         "amz_B0GN3FN11C": {
@@ -11587,10 +11587,10 @@
         "amz_B0D3CLLM5W": {
             "url": "https://www.amazon.in/Littles-Diapers-Pants-Style-15-25/dp/B0D3CLLM5W/ref=sr_1_9_in_f3_0o_fs",
             "title": "Little's Baby Diapers XXL Size | Pants Style | 15-25 kg | 48 Count - Pack of 1 | Super Jumbo Baby Diaper with Leakage Guard, Wetness Indicator & 12 Hours Absorption",
-            "last_price": 553.0,
+            "last_price": 625.0,
             "target_price": null,
-            "highest_price": 553.0,
-            "list_price": null
+            "highest_price": 625.0,
+            "list_price": 13.02
         },
         "amz_B07Q2CS1BC": {
             "url": "https://www.amazon.in/Amazon-Brand-Supples-Premium-Absorption/dp/B07Q2CS1BC/ref=sr_1_7",
@@ -26266,10 +26266,10 @@
         },
         "amz_B0FZD7ZJGD": {
             "url": "https://www.amazon.in/HAMMER-Wireless-Charging-Connectivity-Resistant/dp/B0FZD7ZJGD/ref=sr_1_9",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "HAMMER Ultra Pods True Wireless Earbuds with in-Built Mic, 100H Standby Time, 1H Charging USB Type-C, 13mm Dynamic Drivers, 50H Playtime, BT v6.0 Connectivity, IPX5 Water Resistant (Beige)",
+            "last_price": 599.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 599.0,
             "list_price": null
         },
         "amz_B0GW3JNRD9": {
@@ -27858,6 +27858,86 @@
         },
         "oth_194c5362e5": {
             "url": "https://www.flipkart.com/fizzfusion-sports-sunglasses/p/itma8ba4980d4fc3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_99efe8a7f7": {
+            "url": "https://www.flipkart.com/man-company-face-point/p/itm94e7e078f2b91",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_33adec000e": {
+            "url": "https://www.flipkart.com/asus-expertbook-p3-metal-high-performance-processor-1-yr-adp-intel-core-i7-13th-gen-13620h-32-gb-1-tb-ssd-windows-11-home-p3405cva-ly0308ws-thin-light-laptop/p/itm97eeb89e48af8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_ac2ee8a22d": {
+            "url": "https://www.flipkart.com/acer-aspire-3-amd-ryzen-quad-core-7330u-8-gb-256-gb-ssd-windows-11-home-as15-42-thin-light-laptop/p/itmdaf15e01a1d1a",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_a3e5ba4750": {
+            "url": "https://www.flipkart.com/gaur-textile-cotton-super-king-flat-400-tc-floral-1-summer-bedsheet-2-pillow-covers/p/itm0d093d0678e66",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_5419d74672": {
+            "url": "https://www.flipkart.com/everlush-cotton-king-flat-300-tc-printed-1-bedsheet/p/itm282dadeb01f43",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_395f18c1b1": {
+            "url": "https://www.flipkart.com/lenovo-chromebook-11ijl9-intel-celeron-dual-core-n4500-4-gb-64-gb-emmc-storage-chrome-os/p/itmd2a376187074e",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_26e8144366": {
+            "url": "https://www.flipkart.com/neopticon-browsebook-intel-celeron-dual-core-n4020-4-gb-256-gb-ssd-windows-11-home-bbn40425614-laptop/p/itm37acb99d8fded",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_af3340ca5b": {
+            "url": "https://www.flipkart.com/acer-aspire-infinity-neet-capsule-course-intel-celeron-dual-core-n4500-8-gb-128-gb-ssd-windows-11-home-a311-45-notebook/p/itmc26acbf29391c",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_e09e2bca63": {
+            "url": "https://www.flipkart.com/storeup-cotton-queen-fitted-elastic-240-tc-3d-printed-1-summer-bedsheet-2-pillow-covers/p/itma5fe0458abac3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_2e91deb7af": {
+            "url": "https://www.flipkart.com/cozyko-cotton-king-flat-200-tc-jaipuri-prints-1-bedsheet-2-pillow-covers/p/itmeedf7f63c2c2b",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
