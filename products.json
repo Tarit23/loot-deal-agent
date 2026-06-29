@@ -114,8 +114,8 @@
         },
         "amz_B0GTYSL8KK": {
             "url": "https://www.amazon.in/HP-15-Athlon-Dual-7120U/dp/B0GTYSL8KK/ref=sr_1_4",
-            "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
-            "last_price": 40399.0,
+            "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg/MS Office",
+            "last_price": 39999.0,
             "target_price": null,
             "highest_price": 41999.0,
             "list_price": 125841.3
@@ -7051,7 +7051,7 @@
         "amz_B0FMF1QMKX": {
             "url": "https://www.amazon.in/Aristocrat-Liberty-Combination-International-Warranty/dp/B0FMF1QMKX/ref=sr_1_9",
             "title": "Aristocrat Liberty Set of 3 (Cabin+Medium+Large) Polypropylene Hard Spinner Trolley Bag, 58+68+78Cm|Combination Lock|8 Wheels|3 Years International Warranty|New Saddle Brown",
-            "last_price": 4499.0,
+            "last_price": 5499.0,
             "target_price": null,
             "highest_price": 5849.0,
             "list_price": null
@@ -9683,7 +9683,7 @@
         "amz_B08Z6ZJCFM": {
             "url": "https://www.amazon.in/CHKOKKO-Sleeves-Regular-Sports-T-Shirt/dp/B08Z6ZJCFM/ref=sr_1_7",
             "title": "CHKOKKO Men's Round Neck Full Sleeve Regular Fit Lightweight Quick Dry Activewear Gym T Shirt for Workout Training Running and Activities",
-            "last_price": 281.0,
+            "last_price": 349.0,
             "target_price": null,
             "highest_price": 399.0,
             "list_price": null
@@ -10771,9 +10771,9 @@
         "amz_B087ZYHTBB": {
             "url": "https://www.amazon.in/Nutraj-Gold-Arabian-Dates-500g/dp/B087ZYHTBB/ref=sr_1_10",
             "title": "Nutraj Arabian Dates 1kg (500g X 2) Pouch | Khajur | Dry Fruits and Nuts | Grocery",
-            "last_price": 328.0,
+            "last_price": 350.0,
             "target_price": null,
-            "highest_price": 328.0,
+            "highest_price": 350.0,
             "list_price": null
         },
         "amz_B016D3J92M": {
@@ -30586,6 +30586,86 @@
         },
         "oth_8ac52b3f18": {
             "url": "https://www.flipkart.com/hp-14-ai-pc-intel-core-ultra-7-155h-24-gb-1-tb-ssd-windows-11-home-14-ep1181tu-thin-light-laptop/p/itmad121fa74cd07",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_2056d5dba9": {
+            "url": "https://www.flipkart.com/nobelite-premium-sports-gym-trending-stylish-running-shoes-men/p/itmd7974f00bdf1d",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_d9fbe2872f": {
+            "url": "https://www.flipkart.com/boat-chrome-endeavour-premium-metal-body-ai-coach-1-96-4-97cm-amoled-display-smartwatch/p/itm1398e594a62f5",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_19b470d937": {
+            "url": "https://www.flipkart.com/ankit-toys-games-business-15-party-fun-board-game/p/itm1ec4f06172f48",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_faddfcde62": {
+            "url": "https://www.flipkart.com/asmodee-ticket-ride-europe-party-fun-board-game/p/itmfg8a9gchkby6r",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_ccea81a1a9": {
+            "url": "https://www.flipkart.com/hetshiv-shoe-crease-protectors-sneakers-guards-hold-shape-silicone-toe-regular-insole/p/itmc2623f8ef9f8c",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_6ef7ab4b2d": {
+            "url": "https://www.flipkart.com/skyf16-travel-duffel-bag-wheels-strolley/p/itm773cb13ac4ff1",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_9ebf64dc6f": {
+            "url": "https://www.flipkart.com/veloura-beauty-comfort-height-booster-insole-extra-height-confidence-carbon-fiber-full-length-orthotic-regular-sports-shoe/p/itmf7e03f10583cf",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_cc20d4528f": {
+            "url": "https://www.flipkart.com/ankit-toys-games-sequel-board-game-junior-series-card-folding-strategy-kids-educational/p/itm188919fd51ca7",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_b5337242e9": {
+            "url": "https://www.flipkart.com/bepanthen-daily-moisturizing-cream-worlds-no-1-skincare-brand-dry-itchy-skin/p/itmd7153fc32f518",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_161e928643": {
+            "url": "https://www.flipkart.com/campus-og-22-high-tops-men/p/itmcfbd31e0c614f",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
