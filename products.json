@@ -443,7 +443,7 @@
         "amz_B0GV15KBMK": {
             "url": "https://www.amazon.in/ASUS-Chromebook-CX1405-Processor-CX1405CTA-S60622/dp/B0GV15KBMK/ref=sr_1_8",
             "title": "ASUS Chromebook CX1405 (2026), Smartchoice,Intel N50 Processor, Intel UHD iGPU, 8GB RAM, 128GB SSD, FHD, 14\" (35.5 cm), Chrome OS, Pure Grey, 1.39 Kg, CX1405CTA-S60622, 42WHrs, Thin & Light Laptop",
-            "last_price": 36990.0,
+            "last_price": 30990.0,
             "target_price": null,
             "highest_price": 36990.0,
             "list_price": 125841.3
@@ -10875,7 +10875,7 @@
         "amz_B0DQP3KJ5W": {
             "url": "https://www.amazon.in/U-S-POLO-ASSN-Hilton-Sneakers/dp/B0DQP3KJ5W/ref=sr_1_10",
             "title": "U.S. Polo ASSN. Men Hilton Sneaker Shoes",
-            "last_price": 1800.0,
+            "last_price": 2119.0,
             "target_price": null,
             "highest_price": 2319.0,
             "list_price": null
@@ -32906,6 +32906,118 @@
         },
         "oth_647bb43b26": {
             "url": "https://www.flipkart.com/triggr-trinity-2-dual-pairing-enc-fast-charge-50h-battery-rubber-finish-v5-3-bluetooth/p/itm72833fceaeef3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_127002b9d5": {
+            "url": "https://www.flipkart.com/hp-omnibook-3-2k-wuxga-snapdragon-x-16-gb-512-gb-ssd-windows-11-home-14-hz0024qu-laptop/p/itmbd5346cd09abc",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_79c7d0d577": {
+            "url": "https://www.flipkart.com/acer-aspire-14-office-2024-m365-basic-i5-14th-gen-intel-core-5-210-h-16-gb-512-gb-ssd-windows-11-home-as14h-53-notebook/p/itm11ee2353aa374",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_d2f31e4fb4": {
+            "url": "https://www.flipkart.com/vivan-fab-embroidered-bollywood-tissue-silk-blend-saree/p/itmb955a06904051",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_403e8c0288": {
+            "url": "https://www.flipkart.com/aanchalika-woven-handloom-cotton-blend-saree/p/itmf07193277f128",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_6e5bfa8c8a": {
+            "url": "https://www.flipkart.com/lg-xboom-bounce-will-i-am-30hrs-playtime-ip67-water-dust-resistant-portable-40-w-bluetooth-speaker/p/itm11a8cbc334fbc",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_f8c02c83be": {
+            "url": "https://www.flipkart.com/fire-boltt-hurricane-33-02mm-1-3-curved-glass-display-bt-calling-100-sports-modes-smartwatch/p/itm3c859e9844078",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_490f41a7f6": {
+            "url": "https://www.flipkart.com/roversole-women-formal-casual-evening-party-black-artificial-leather-belt/p/itm5ef70b3c252fc",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_732aea012a": {
+            "url": "https://www.flipkart.com/motorola-motobook-60-pro-full-metal-ai-pc-2-8k-oled-intel-core-ultra-5-225h-16-gb-512-gb-ssd-windows-11-home-83ny000din-thin-light-laptop/p/itm4668d847910ea",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4bf6f84b13": {
+            "url": "https://www.flipkart.com/hp-amd-ryzen-5-quad-core-7520u-8-gb-512-gb-ssd-windows-11-home-15-fc0805au-thin-light-laptop/p/itm044828973e180",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_b8d21266c6": {
+            "url": "https://www.flipkart.com/variyaenterprise28-14-pcs-nailcutter-clipper/p/itma12683aae5959",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4222f467d3": {
+            "url": "https://www.flipkart.com/sansui-crisp-fry-air-fryer/p/itm1cecf44bde7f0",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_d67a37d12a": {
+            "url": "https://www.flipkart.com/thomson-aerofry-air-fryer/p/itm0598436960bc9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_3c9cbd4ff6": {
+            "url": "https://www.flipkart.com/wynyc-nail-clipper-set-8-1-professional-manicure-pedicure-kit-men-women/p/itm0252e8de3a3bf",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_5278d191e7": {
+            "url": "https://www.flipkart.com/acer-aspire-15-amd-office-2024-m365-basic-ryzen-5-hexa-core-7430u-16-gb-512-gb-ssd-windows-11-home-as15-42-thin-light-laptop/p/itmdaf15e01a1d1a",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
