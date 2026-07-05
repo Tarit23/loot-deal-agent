@@ -4619,7 +4619,7 @@
         "amz_B0GPVQPMKY": {
             "url": "https://www.amazon.in/XIAOMI-Smartchoice-Flagship-Snapdragon-Graphite/dp/B0GPVQPMKY/ref=sr_1_4",
             "title": "XIAOMI Pad 8 [Smartchoice] | Flagship Snapdragon 8s Gen 4 |11.2\" 3.2K Display | 8GB, 128GB | Ultra Slim Metal Design | 9200mAh Battery | 68 Bn+ Colours HyperAI | Wi-Fi 7 | Graphite Grey",
-            "last_price": 35999.0,
+            "last_price": 33999.0,
             "target_price": null,
             "highest_price": 35999.0,
             "list_price": null
@@ -7683,9 +7683,9 @@
         "amz_B0C2HNBNNM": {
             "url": "https://www.amazon.in/Xtore-Crafted-Figurine-Decorative-Showpiece/dp/B0C2HNBNNM/ref=sr_1_6",
             "title": "Xtore Hand Crafted Swan Pair Home Decor Figurine | Decorative Showpiece (Pack of 2, Blue)",
-            "last_price": 1508.0,
+            "last_price": 1749.0,
             "target_price": null,
-            "highest_price": 1509.0,
+            "highest_price": 1749.0,
             "list_price": null
         },
         "amz_B0FPWJX447": {
@@ -10731,7 +10731,7 @@
         "amz_B0BQJ68HHC": {
             "url": "https://www.amazon.in/Dell-Previously-Inspiron-Processor-Display/dp/B0BQJ68HHC/ref=sr_1_10",
             "title": "Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core i3/Core 3 100U Processor, 8GB DDR4, 512 SSD, 15.6\" FHD 120Hz IPS 250 nit Display, Win 11 + Office H&S 2024, Carbon Black, Thin & Light 1.63Kg",
-            "last_price": 45990.0,
+            "last_price": 46300.0,
             "target_price": null,
             "highest_price": 46990.0,
             "list_price": null
@@ -25459,9 +25459,9 @@
         "amz_B0DTYKLHYC": {
             "url": "https://www.amazon.in/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ836WS/dp/B0DTYKLHYC/ref=sr_1_4",
             "title": "ASUS Vivobook 15, Smartchoice,Intel Core i5 13th Gen 13420H,16GB RAM, 512GB SSD, FHD 15.6\",Windows 11, Office Home 2024, Quiet Blue, 1.70 kg, X1502VA-BQ836WS,Intel UHD iGPU, M365 Basic (1Year)* Laptop",
-            "last_price": 60990.0,
+            "last_price": 64990.0,
             "target_price": null,
-            "highest_price": 60990.0,
+            "highest_price": 64990.0,
             "list_price": null
         },
         "amz_B00KL8DLPC": {
@@ -34362,6 +34362,70 @@
         },
         "oth_3bc0c0ab77": {
             "url": "https://www.flipkart.com/aristocrat-17-inch-compatible-laptop-backpack-2-compartments-side-bottle-pocket-25-l/p/itm1d82d59042712",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_f9f4821810": {
+            "url": "https://www.flipkart.com/blk-foods-independent-badam-giri-dry-fruits-kernels-almonds/p/itm49a48e4cdea7b",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_0afb6280f2": {
+            "url": "https://www.flipkart.com/spectaswag-shield-sports-sunglasses/p/itm705ce0d3e1048",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_f60d81fbcb": {
+            "url": "https://www.flipkart.com/always-aqua-led-display-pre-filter-12-l-ro-uv-uf-copper-alkaline-tds-control-water-purifier/p/itm8b52797c9db74",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_b7743dea86": {
+            "url": "https://www.flipkart.com/kenstar-black-pureza-8-l-ro-uv-uf-copper-alkaline-minerals-water-purifier-needs-no-service-2-years/p/itm123f0d1974f36",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_858271ff85": {
+            "url": "https://www.flipkart.com/yum-jumbo-almonds-cashews-raisins-dry-fruits-combo-badam-kaju-almonds-cashews/p/itm852e88c0c75e6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_3d0d1796ac": {
+            "url": "https://www.flipkart.com/butterfly-xeno-750-w-juicer-mixer-grinder/p/itmbea253075cb82",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_082a5f67eb": {
+            "url": "https://www.flipkart.com/atomberg-zenova-mg-unique-coarse-mode-intelligent-powerful-bldc-motor-550-w-mixer-grinder/p/itmf14ae96dd7d54",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_223a5bb997": {
+            "url": "https://www.flipkart.com/sansui-plus-500-w-juicer-mixer-grinder/p/itm7ebd2b0598881",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
