@@ -275,7 +275,7 @@
         "amz_B0CT2SBYKT": {
             "url": "https://www.amazon.in/NYRWANA-Battery-Decoration-Reading-Stepless/dp/B0CT2SBYKT/ref=sr_1_3",
             "title": "NYRWANA Table Lamp | 2000mAh Battery | Home Decor, Lamp, Lamps for Bedroom and Living Room, Stepless Dimming, 3 Colour Touch Control, USB-C Charging (Metal - Gold)",
-            "last_price": 510.0,
+            "last_price": 540.0,
             "target_price": null,
             "highest_price": 799.0,
             "list_price": null
@@ -2907,7 +2907,7 @@
         "amz_B0DS2XNXZB": {
             "url": "https://www.amazon.in/Noise-Wireless-Bluetooth-Playtime-Instacharge/dp/B0DS2XNXZB/ref=sr_1_9",
             "title": "Noise Buds VS102 Plus Wireless Earbuds, Bluetooth Earbuds with 70H Playtime, Quad Mic ENC for Clear Calls, 11mm Drivers, Deep Bass, Instacharge, Bluetooth v5.3 (Deep Wine)",
-            "last_price": 1199.0,
+            "last_price": 1499.0,
             "target_price": null,
             "highest_price": 1499.0,
             "list_price": null
@@ -4283,10 +4283,10 @@
         "amz_B07G9GDQJD": {
             "url": "https://www.amazon.in/Ferrero-Rocher-Pack-24-Pieces/dp/B07G9GDQJD/ref=sr_1_1",
             "title": "Ferrero Rocher Premium Chocolates 24 Pieces, 300 g",
-            "last_price": 714.0,
+            "last_price": 853.0,
             "target_price": null,
             "highest_price": 853.0,
-            "list_price": 244.33
+            "list_price": 284.33
         },
         "amz_B0893HZQP8": {
             "url": "https://www.amazon.in/Ferrero-Chocolate-Chocolates-Croquante-Collection/dp/B0893HZQP8/ref=sr_1_6",
@@ -7043,9 +7043,9 @@
         "amz_B081LGBPT7": {
             "url": "https://www.amazon.in/Lancer-White-Sports-Running-Indus-251/dp/B081LGBPT7/ref=sr_1_6",
             "title": "Lancer Mens Indus-251 Running Shoe",
-            "last_price": 554.0,
+            "last_price": 680.0,
             "target_price": null,
-            "highest_price": 599.0,
+            "highest_price": 680.0,
             "list_price": null
         },
         "amz_B0FMF1QMKX": {
@@ -9723,7 +9723,7 @@
         "amz_B0GGZCHMQS": {
             "url": "https://www.amazon.in/Fingerprint-Military-Protection-Octa-Core-Processor/dp/B0GGZCHMQS/ref=sr_1_4",
             "title": "Zeno 100 (3+5GB RAM, 64GB ROM) | 5000mAh Battery with Type-C | 90Hz Display | Side Fingerprint | Military Grade Protection | Octa-Core Processor | Titanium Gold",
-            "last_price": 8899.0,
+            "last_price": 8699.0,
             "target_price": null,
             "highest_price": 8899.0,
             "list_price": null
@@ -12091,7 +12091,7 @@
         "amz_B0GDPWLJMM": {
             "url": "https://www.amazon.in/Redmi-Smartchoice-12000mAh-Snapdragon-12-1-inch/dp/B0GDPWLJMM/ref=sr_1_7",
             "title": "Redmi Pad 2 Pro [Smartchoice] | 12000mAh | Snapdragon 7s Gen 4 |12.1-inch, 2.5K Display |83+ Days Standby |HyperOS 2 |120Hz| Dolby Vision Atmos | Wi-Fi 6| AI Powered | 8GB,128GB |Graphite Grey",
-            "last_price": 25999.0,
+            "last_price": 26999.0,
             "target_price": null,
             "highest_price": 26999.0,
             "list_price": null
@@ -14155,7 +14155,7 @@
         "amz_B086PXQJTR": {
             "url": "https://www.amazon.in/Classmate-Notebook-Single-Line-Pages/dp/B086PXQJTR/ref=sr_1_5",
             "title": "Classmate Notebook | 120 Pages | Single Line | 24.0cm x 18.0cm | Pack of 4 | Ruled Notebook for School Students",
-            "last_price": 100.0,
+            "last_price": 140.0,
             "target_price": null,
             "highest_price": 140.0,
             "list_price": null
@@ -38698,6 +38698,30 @@
         },
         "oth_1cbf090589": {
             "url": "https://www.flipkart.com/shri-vinayak-creations-woven-self-design-floral-print-banarasi-art-silk-georgette-saree/p/itm43337e8b235e2",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_7ecff97d4a": {
+            "url": "https://www.flipkart.com/faces-canada-strobe-cream-18ml-compact-powder-9gm-hydra-matte-foundation-glowy/p/itm5f7fd71a70657",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_a25beb68aa": {
+            "url": "https://www.flipkart.com/one-plus-op-11-cordless-professional-hair-trimmer-titanium-coated-blade-waterproof-120-min-runtime-12-length-settings/p/itm3a37aea633a7f",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_bf8498e06f": {
+            "url": "https://www.flipkart.com/westernvibe-full-sleeve-printed-men-women-jacket/p/itm26fa79f359399",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
