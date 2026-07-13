@@ -3763,7 +3763,7 @@
         "amz_B0B8CXKWVB": {
             "url": "https://www.amazon.in/Tata-Sampann-Premium-Raisins-Seedless/dp/B0B8CXKWVB/ref=sr_1_5_in_f3_0o_fs_mod_primary_alm",
             "title": "Tata Sampann Pure Raisins Seedless/Kishmish, 500g, Source Of Potassium, Premium Dry Fruits, Green Raisins",
-            "last_price": 342.0,
+            "last_price": 319.0,
             "target_price": null,
             "highest_price": 352.0,
             "list_price": 70.4
@@ -4690,8 +4690,8 @@
         },
         "amz_B098QN3Y5P": {
             "url": "https://www.amazon.in/Storite-Leather-Vertical-Credit-Holder/dp/B098QN3Y5P/ref=sr_1_10",
-            "title": "Storite PU Leather 9 Slot Vertical Credit Debit Card Holder Money Wallet Zipper Coin Purse for Men Women (Grey - 11.5 x 2 x 8 Cm)",
-            "last_price": 345.0,
+            "title": "Storite PU Leather Card Holder Money Wallet, Grey, 11.5 x 2 x 8 cm | 9 Slot Vertical, Credit Debit Card Holder, Zipper Coin Purse, For Men Women",
+            "last_price": 348.0,
             "target_price": null,
             "highest_price": 349.0,
             "list_price": null
@@ -9219,7 +9219,7 @@
         "amz_B0FVM5TTPT": {
             "url": "https://www.amazon.in/Beauty-Makeup-Radiance-Vitamin-Hyaluronic/dp/B0FVM5TTPT/ref=sr_1_6",
             "title": "Swiss Beauty Glow Up Makeup Fixer | Preps + Sets | Dewy Radiance | For Face & Body | With Vitamin C & Hyaluronic Acid | 100ml",
-            "last_price": 332.0,
+            "last_price": 351.0,
             "target_price": null,
             "highest_price": 504.0,
             "list_price": null
@@ -9362,7 +9362,7 @@
         },
         "amz_B0GV4P5NCM": {
             "url": "https://www.amazon.in/Bluetooth-Earphones-Headphones-Microphone-Connection/dp/B0GV4P5NCM/ref=sr_1_10",
-            "title": "ShreeADR Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Built-in Microphone Premium Sound Quality Ensure Fast Stable & Connection With Type C Charger",
+            "title": "ShreeADR Wireless Earbuds Bluetooth 5.3 TWS Earphones Full Touch Control Headphones Built-in Microphone Premium Sound Quality Ensure Fast Stable & Connection with Type C Charger",
             "last_price": 349.0,
             "target_price": null,
             "highest_price": 349.0,
@@ -37394,10 +37394,10 @@
         },
         "amz_B0GZKK6TF7": {
             "url": "https://www.amazon.in/Nature-Purify-Kishmish-Apricots-Snacking/dp/B0GZKK6TF7/ref=sr_1_10",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Nature Purify Premium Mix Dry Fruits 250gm | Almonds, Cashews, Kishmish, Apricots & Seeds Mix | Fresh Crunchy Nut & Fruit Combo Pack for Snacking & Gifting | Jar Pack Of 1",
+            "last_price": 160.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 160.0,
             "list_price": null
         },
         "amz_B0H4HD7W3X": {
@@ -39082,6 +39082,38 @@
         },
         "oth_dc6206009a": {
             "url": "https://www.flipkart.com/cassava-na-digital-pen/p/itmcca0d32f757b1",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_5623985a55": {
+            "url": "https://www.flipkart.com/shopbucket-80-w-supervooc-7-3-wall-charger-mobile-detachable-cable/p/itm21ba5c58faa04",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_dc98080dc8": {
+            "url": "https://www.flipkart.com/ramoli-cotton-double-flat-144-tc-jaipuri-prints-1-bedsheet/p/itmce8634467e47e",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_ee5953ccf3": {
+            "url": "https://www.flipkart.com/longway-powerful-motor-grinding-mixing-juicing-up-750-w-juicer-mixer-grinder/p/itm44e2531a6ceca",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_1d87218961": {
+            "url": "https://www.flipkart.com/jaipur-weaves-cotton-double-flat-144-tc-jaipuri-prints-1-bedsheet-2-pillow-covers/p/itmbfbf5e919c634",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
