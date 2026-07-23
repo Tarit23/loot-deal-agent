@@ -570,7 +570,7 @@
         },
         "amz_B0FC5TDB9P": {
             "url": "https://www.amazon.in/iQOO-Titanium-Dimensity-Processor-Shock-Resistance/dp/B0FC5TDB9P/ref=sr_1_3",
-            "title": "iQOO Z10 Lite 5G (Cyber Green 2026, 4GB RAM, 64GB Storage)",
+            "title": "iQOO Z10 Lite 5G (Cyber Green 2026, 4GB RAM, 64GB Storage) | Dimensity 6300 5G Processor | 50MP Sony AI Camera | 6000 mAh Battery | IP64 Rated & Military Grade Shock-Resistance*",
             "last_price": 16999.0,
             "target_price": null,
             "highest_price": 16999.0,
@@ -2363,7 +2363,7 @@
         "amz_B0GT6P6TWL": {
             "url": "https://www.amazon.in/Professional-Cordless-Grooming-Cleaning-Bluetooth/dp/B0GT6P6TWL/ref=sr_1_6",
             "title": "TYROCX Professional Buddha T-Blade Hair & Beard Trimmer for Men | Zero Gapped Cordless Clipper | Grooming Kit with 4 Combs & Cleaning Brush | FREE Bluetooth Earpiece Included (Vintage Gold)",
-            "last_price": 179.0,
+            "last_price": 119.0,
             "target_price": null,
             "highest_price": 199.0,
             "list_price": null
@@ -27658,10 +27658,10 @@
         },
         "amz_B0H5BXF1Q9": {
             "url": "https://www.amazon.in/Kryone-Collection-Tassels-Designer-Original/dp/B0H5BXF1Q9/ref=sr_1_6",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Ajrakh Modal Silk Saree for Women | Mirror Work Black Saree | Gajji Silk Red Pallu Tassels | Designer Sarees for Women Party | Ajrakh Print Saree | Modal Silk Sarees Original",
+            "last_price": 997.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 997.0,
             "list_price": null
         },
         "amz_B09SHZVL5Q": {
@@ -27787,7 +27787,7 @@
         "amz_B0GVS4HWS2": {
             "url": "https://www.amazon.in/Aristocrat-Suitcase-Business-Anti-Theft-International/dp/B0GVS4HWS2/ref=sr_1_9",
             "title": "Aristocrat Solana Check-in Trolley Bag 65cm | Medium | Hard Luggage | 8-Wheel Suitcase with Front Opening for Business Travel | TSA Lock with Anti-Theft Zipper | 3 Years International Warranty (Blue)",
-            "last_price": 3519.0,
+            "last_price": 3399.0,
             "target_price": null,
             "highest_price": 3519.0,
             "list_price": null
@@ -45282,6 +45282,78 @@
         },
         "oth_57feba6f00": {
             "url": "https://www.flipkart.com/trend-zone-sneakers-men/p/itm0fc4e18fb0032",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_6ff5f025e8": {
+            "url": "https://www.flipkart.com/autofledge-front-rear-side-led-indicator-light-universal-bike/p/itm830938e552551",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_d6b806cd91": {
+            "url": "https://www.flipkart.com/hockwood-sneakers-canvas-shoes-men/p/itmffryemuhtmfq8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_f2ae544140": {
+            "url": "https://www.flipkart.com/sewayx-canvas-shoes-men/p/itmfb22044af838a",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_45a3047ba6": {
+            "url": "https://www.flipkart.com/autofledge-bike-front-side-rear-smd-led-light-pack-4-indicator-blue-turn-signal-bikes-motorbike-12-v-10-w/p/itm268d8c04e18a7",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_3448595588": {
+            "url": "https://www.flipkart.com/yum-almond-cashew-raisin-dry-fruits-combo-offer-badam-kaju-kishmish-almonds-cashews-raisins/p/itm852e88c0c75e6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4a4a6a17dd": {
+            "url": "https://www.flipkart.com/peculiar-zone-front-rear-side-led-indicator-light-bajaj-hero-honda-tvs-suzuki-universal-bike/p/itm3cf4af59e9d16",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_eec22eed68": {
+            "url": "https://www.flipkart.com/peculiar-zone-front-rear-side-led-indicator-light-bajaj-hero-honda-tvs-suzuki-universal-bike/p/itm46132f6bdb9ff",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4e0464c86f": {
+            "url": "https://www.flipkart.com/hotstyle-fast-trendy-men/p/itm61061431a2892",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_8e8c163a0f": {
+            "url": "https://www.flipkart.com/triggr-trinity-2-dual-pairing-enc-fast-charge-50h-battery-rubber-finish-v5-3-bluetooth/p/itm03c651cfe2be4",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
