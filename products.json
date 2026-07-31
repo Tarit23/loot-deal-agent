@@ -2939,7 +2939,7 @@
         "amz_B0C5JQ68FY": {
             "url": "https://www.amazon.in/Portable-Protection-Compatible-Warranty-SDSSDE30-1T00-G26/dp/B0C5JQ68FY/ref=sr_1_10",
             "title": "SANDISK 1TB Portable SSD, 800MB/s R, USB 3.2 Gen 2, Rugged SSD with Upto 2 Meter Drop Protection, Type-C to Type-A Cable, PC & Mac Compatible, 3 Y Warranty, External SSD (SDSSDE30-1T00-G26)",
-            "last_price": 14999.0,
+            "last_price": 17252.0,
             "target_price": null,
             "highest_price": 17800.0,
             "list_price": null
@@ -3802,11 +3802,11 @@
         },
         "amz_B09MM96YC4": {
             "url": "https://www.amazon.in/Farmley-Mix-Dry-Fruit-Panchmeva/dp/B09MM96YC4/ref=sr_1_7_in_f3_0o_fs_mod_primary_alm",
-            "title": "Farmley Panchmeva Dry Fruits Mix, 405g I Fit for Fasting | Healthy Snacks Mixed Nuts Contains Almonds, Cashews, Dates, Black Raisin, Green Raisin",
-            "last_price": 389.0,
+            "title": "Farmley Panchmeva Dry Fruits Mix, 425g I Fit for Fasting | Healthy Snacks Mixed Nuts Contains Almonds, Cashews, Dates, Black Raisin, Green Raisin",
+            "last_price": 369.0,
             "target_price": null,
             "highest_price": 395.0,
-            "list_price": 96.05
+            "list_price": 86.82
         },
         "amz_B09GNSDZVW": {
             "url": "https://www.amazon.in/Tata-Sampann-Premium-Cashews-Whole/dp/B09GNSDZVW/ref=sr_1_9_in_f3_0o_fs_mod_primary_alm",
@@ -4619,9 +4619,9 @@
         "amz_B0GPVQPMKY": {
             "url": "https://www.amazon.in/XIAOMI-Smartchoice-Flagship-Snapdragon-Graphite/dp/B0GPVQPMKY/ref=sr_1_4",
             "title": "XIAOMI Pad 8 [Smartchoice] | Flagship Snapdragon 8s Gen 4 |11.2\" 3.2K Display | 8GB, 128GB | Ultra Slim Metal Design | 9200mAh Battery | 68 Bn+ Colours HyperAI | Wi-Fi 7 | Graphite Grey",
-            "last_price": 35999.0,
+            "last_price": 37999.0,
             "target_price": null,
-            "highest_price": 35999.0,
+            "highest_price": 37999.0,
             "list_price": null
         },
         "amz_B0FBRVRF4F": {
@@ -7891,9 +7891,9 @@
         "amz_B08ZNKY98R": {
             "url": "https://www.amazon.in/SPARX-SS-561-Stylish-Floaters/dp/B08ZNKY98R/ref=sr_1_5",
             "title": "SPARX mens SS 561 | Latest, Daily Use, Stylish Floaters",
-            "last_price": 818.0,
+            "last_price": 819.0,
             "target_price": null,
-            "highest_price": 818.0,
+            "highest_price": 819.0,
             "list_price": null
         },
         "amz_B0CZ9GJ14P": {
@@ -42658,10 +42658,10 @@
         },
         "amz_B0BP6MFWDR": {
             "url": "https://www.amazon.in/Adjustable-Dumbbell-Durable-Strength-Training/dp/B0BP6MFWDR/ref=sr_1_9",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Star X PRO PVC Adjustable Dumbbell Set 10Kg with 2 Dumbbell Rods 14'' Black |Durable, Home Workout Gym Weights for Full Body Strength Training (2.5kg x 4 Plates)",
+            "last_price": 275.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 275.0,
             "list_price": null
         },
         "oth_c97aafcded": {
@@ -49498,6 +49498,54 @@
         },
         "oth_9c56ccfeec": {
             "url": "https://www.flipkart.com/himalaya-total-care-pant-diapers-m/p/itmc13e3fe178157",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_5cc0b011e4": {
+            "url": "https://www.flipkart.com/hotstyle-fast-trendy-sneakers-men/p/itm1e61a03c67131",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4458f8093f": {
+            "url": "https://www.flipkart.com/cetaphil-baby-shampoo/p/itmf3xfws6nmdf8f",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_d4f3df60bf": {
+            "url": "https://www.flipkart.com/abros-assg1295-walking-shoes-men/p/itm052bcebf4f59e",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_c99645584b": {
+            "url": "https://www.flipkart.com/grand-plus-black-penther-550-w-mixer-grinder/p/itm656743c3d2cdc",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_b3a91896a7": {
+            "url": "https://www.flipkart.com/furnigully-study-table-wood-portable-laptop/p/itm053fa5d689946",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_37b13a6359": {
+            "url": "https://www.flipkart.com/mivi-duopods-k6-50hrs-pt-hd-call-fast-charging-50ms-latency-ipx4-voice-asst-5-3v-bluetooth-gaming/p/itm58a745e1ecbef",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
