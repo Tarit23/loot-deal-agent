@@ -4283,10 +4283,10 @@
         "amz_B07G9GDQJD": {
             "url": "https://www.amazon.in/Ferrero-Rocher-Pack-24-Pieces/dp/B07G9GDQJD/ref=sr_1_1",
             "title": "Ferrero Rocher Premium Chocolates 24 Pieces, 300 g",
-            "last_price": 853.0,
+            "last_price": 824.0,
             "target_price": null,
             "highest_price": 853.0,
-            "list_price": 284.33
+            "list_price": 274.67
         },
         "amz_B0893HZQP8": {
             "url": "https://www.amazon.in/Ferrero-Chocolate-Chocolates-Croquante-Collection/dp/B0893HZQP8/ref=sr_1_6",
@@ -6827,7 +6827,7 @@
         "amz_B0G488MJVG": {
             "url": "https://www.amazon.in/NEST-NATURE-HAVEN-Engineered-Contemporary/dp/B0G488MJVG/ref=sr_1_8",
             "title": "NEST NATURE HAVEN Engineered Wood Contemporary Bedside End Table with Three Open Shelves for Book Storage and a Small Nightstand Organiser Corner Stand for Office, Bedroom, Living Room Home Decor",
-            "last_price": 599.0,
+            "last_price": 644.0,
             "target_price": null,
             "highest_price": 777.0,
             "list_price": null
@@ -9075,10 +9075,10 @@
         "amz_B0BHHZBXV5": {
             "url": "https://www.amazon.in/RIN-Detergent-Brightness-Technology-Long-Lasting/dp/B0BHHZBXV5/ref=sr_1_10_in_f3_0o_fs_mod_primary_alm",
             "title": "RIN Matic Liquid Detergent, 2Kg, for Dazzling Brightness, with Bright Lock Technology, Long-Lasting Fragrance, for Top Load Washing Machines",
-            "last_price": 184.0,
+            "last_price": 210.0,
             "target_price": null,
             "highest_price": 211.0,
-            "list_price": 105.5
+            "list_price": 105.0
         },
         "amz_B0FR9658HH": {
             "url": "https://www.amazon.in/Campus-Mens-OG-36-L-Gry-Sneakers/dp/B0FR9658HH/ref=sr_1_5",
@@ -10907,10 +10907,10 @@
         "amz_B08JR7NMH8": {
             "url": "https://www.amazon.in/Happilo-Premium-Arabian-Dates-Pouch/dp/B08JR7NMH8/ref=sr_1_9_in_f3_0o_fs",
             "title": "Happilo Premium Natural Arabian Dates 500g Pouch | Khajur, Khajoor | Dry Fruits | Dates in Fresh | Healthy Snacks | Rich in Fibre | No Added Sugar",
-            "last_price": 155.0,
+            "last_price": 199.0,
             "target_price": null,
-            "highest_price": 159.0,
-            "list_price": 24.0
+            "highest_price": 199.0,
+            "list_price": 39.8
         },
         "amz_B0GZKKJ218": {
             "url": "https://www.amazon.in/Nature-Purify-Kishmish-Apricots-Snacking/dp/B0GZKKJ218/ref=sr_1_2",
@@ -51754,6 +51754,22 @@
         },
         "oth_34576f67f2": {
             "url": "https://www.flipkart.com/simsim-trendz-solid-plain-woven-temple-border-daily-wear-polyester-saree/p/itmbd1da5965a6ce",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_03bdf21ed3": {
+            "url": "https://www.flipkart.com/teddyy-easy-diaper-pants-rash-protection-3x-faster-absorption-technology-pant-diapers-l/p/itmd12944a66ca3a",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_82a39c5583": {
+            "url": "https://www.flipkart.com/ariel-front-load-wash-care-expert-detergent-powder-fresh-long-lasting-fragrance/p/itmcd62737382f04",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
