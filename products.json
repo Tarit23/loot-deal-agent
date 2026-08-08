@@ -1027,9 +1027,9 @@
         "amz_B0FM3C4L2F": {
             "url": "https://www.amazon.in/ASUS-Upgradeable-Keyboard-Graphite-FA506NCG-HN199W/dp/B0FM3C4L2F/ref=sr_1_7",
             "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
-            "last_price": 68990.0,
+            "last_price": 79285.0,
             "target_price": null,
-            "highest_price": 73990.0,
+            "highest_price": 79285.0,
             "list_price": null
         },
         "amz_B0FGJCV37Y": {
@@ -1507,7 +1507,7 @@
         "amz_B0D2Y1BLDT": {
             "url": "https://www.amazon.in/Dell-i5-1334U-Anti-Glare-Vostro-3530/dp/B0D2Y1BLDT/ref=sr_1_7",
             "title": "Dell 15, Intel Core 13th Gen i5-1334U, FHD, 15.6\"/39.62cm, Windows 11, MSO'24, Grey, 1.66kg, Vostro 3530, (16GB DDR4, 512GB SSD) Anti-Glare FHD 15.6\"/39.62cm, 12 Month McAfee, Thin & Light Laptop",
-            "last_price": 67990.0,
+            "last_price": 58990.0,
             "target_price": null,
             "highest_price": 67990.0,
             "list_price": null
@@ -5179,7 +5179,7 @@
         "amz_B0G52HG8L7": {
             "url": "https://www.amazon.in/Kratos-65W-Compatible-Smartphones-SuperVooc/dp/B0G52HG8L7/ref=sr_1_7",
             "title": "Kratos 65W Fast Charger Adapter & USB-A to Type C Cable Combo, Compatible with OnePlus, Realme, Xiaomi, Redmi, Oppo, Vivo & Other Smartphones, Type C Charger Supports Dash, Warp, Vooc,SuperVooc",
-            "last_price": 598.0,
+            "last_price": 559.0,
             "target_price": null,
             "highest_price": 599.0,
             "list_price": null
@@ -9083,7 +9083,7 @@
         "amz_B0FR9658HH": {
             "url": "https://www.amazon.in/Campus-Mens-OG-36-L-Gry-Sneakers/dp/B0FR9658HH/ref=sr_1_5",
             "title": "Campus Men's OG-36 Sneakers",
-            "last_price": 999.0,
+            "last_price": 849.0,
             "target_price": null,
             "highest_price": 1079.0,
             "list_price": null
@@ -44714,10 +44714,10 @@
         },
         "amz_B0H75YCK9Z": {
             "url": "https://www.amazon.in/DOMO-Expandable-Octa-Core-Processor-Bluetooth/dp/B0H75YCK9Z/ref=sr_1_8",
-            "title": "DOMO Slate SL40 OS10 1C 10 Inch Android Tablet 4G Dual SIM, 4GB RAM, 32GB Storage (Expandable to 1TB), Octa-Core Processor, WXGA Incell Display, 13MP Camera, GPS, WiFi, Bluetooth, Type-C (Blue)",
-            "last_price": 8449.0,
+            "title": "DOMO Slate SL40 OS10 1C 10 Inch Android Tablet 4G Dual SIM, 4GB RAM, 32GB Storage (Expandable to 1TB), Octa-Core Processor, WXGA Incell Display, 13MP Camera, GPS, WiFi, Bluetooth, Type-C (Grey)",
+            "last_price": 26499.0,
             "target_price": null,
-            "highest_price": 8449.0,
+            "highest_price": 26499.0,
             "list_price": null
         },
         "amz_B0CJ37223B": {
@@ -54538,6 +54538,70 @@
         },
         "oth_a6091a519f": {
             "url": "https://www.flipkart.com/maharaja-whiteline-mx-278-750-w-mixer-grinder/p/itm747e03aabe506",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_131bf6c0b4": {
+            "url": "https://www.flipkart.com/vaikunthcapital-anime-inspired-collection-a5-notebook-ruled-80-pages/p/itmbec3833a1c129",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_7a00b85acf": {
+            "url": "https://www.flipkart.com/keshav-collection-n-a-a5-notebook-unruled-80-pages/p/itma820f6ce7b792",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_224394e99a": {
+            "url": "https://www.flipkart.com/motorola-g37-power-pantone-impenetrable-128-gb/p/itme156c3f7d6280",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_fea8f9fedd": {
+            "url": "https://www.flipkart.com/vivo-t5x-5g-fusion-red-128-gb/p/itm7da8aa253e72b",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_f4f43ed293": {
+            "url": "https://www.flipkart.com/hp-15-i5-14th-gen-intel-core-5-120u-16-gb-512-gb-ssd-windows-11-home-15-fd0664tu-15-fd0682tu-thin-light-laptop/p/itmb9d66ca3f4e36",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_50a0a151fb": {
+            "url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-black-pink-t-shirt/p/itm784e3ee5e1aad",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_17f8f592be": {
+            "url": "https://www.flipkart.com/hp-victus-intel-core-i5-13th-gen-13420-h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-15-fa2196tx-15-fa2197tx-gaming-laptop/p/itm8143e1b0af034",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_760c2d4c96": {
+            "url": "https://www.flipkart.com/focutees-printed-women-v-neck-reversible-white-t-shirt/p/itm20a86ae6c5eec",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
