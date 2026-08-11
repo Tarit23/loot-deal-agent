@@ -5747,7 +5747,7 @@
         "amz_B0FSXYP5MM": {
             "url": "https://www.amazon.in/Kratos-20000mAh-Charging-Powerbank-Certified/dp/B0FSXYP5MM/ref=sr_1_3",
             "title": "Kratos Legend Champ Power Bank 20000mAh, Fast Charging 22.5W, Triple Output,USB Type C &Dual USB Port, PD Powerbank for iPhone, Android & Other Phones, BIS Certified,1year Warranty, Black",
-            "last_price": 1099.0,
+            "last_price": 999.0,
             "target_price": null,
             "highest_price": 1099.0,
             "list_price": null
@@ -12123,7 +12123,7 @@
         "amz_B0FHDJ1N9W": {
             "url": "https://www.amazon.in/SUPERVOOC-Charger-OnePlus-Supports-SuperVooc/dp/B0FHDJ1N9W/ref=sr_1_7",
             "title": "80W SUPERVOOC Fast Charger with Type-C Cable | 80W USB Charger for OnePlus, Realme, Oppo, Redmi, Xiaomi, Poco, iQOO, Samsung & More | Supports Dart, Dash, Warp, Vooc, SuperVooc, QC 3.0 Charge (Combo)",
-            "last_price": 599.0,
+            "last_price": 519.0,
             "target_price": null,
             "highest_price": 599.0,
             "list_price": null
@@ -17035,7 +17035,7 @@
         "amz_B0D72P8L3B": {
             "url": "https://www.amazon.in/Butterfly-Smart-Mixer-Grinder-Multipurpose/dp/B0D72P8L3B/ref=sr_1_8",
             "title": "Butterfly Smart Plus 750W Mixer Grinder with 5 Jars | Multipurpose Jars - 3 Stainless Steel,1 PC Juicer Jar & 1 Grind & Store Jar | Heavy Duty Motor | 2 Years Manufacturer Warranty | Ink Blue",
-            "last_price": 3199.0,
+            "last_price": 3099.0,
             "target_price": null,
             "highest_price": 3599.0,
             "list_price": null
@@ -48378,10 +48378,10 @@
         },
         "amz_B0DZVH6F26": {
             "url": "https://www.amazon.in/Max-Mens-Regular-Jeans-NOOSDRGLB_Light/dp/B0DZVH6F26/ref=sr_1_5",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Max Men's Mid Rise Regular Jeans",
+            "last_price": 575.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 575.0,
             "list_price": null
         },
         "amz_B0FZBZXXB1": {
@@ -57266,6 +57266,86 @@
         },
         "oth_06c34ff959": {
             "url": "https://www.flipkart.com/relook-industries-pvc-double-fitted-elastic-120-tc-printed-1-bedsheet/p/itm8cb710294ba8f",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_9868c4b30e": {
+            "url": "https://www.flipkart.com/ranpra-10mm-drill-machine-13pcs-bit-rh-437-9-kg-demolition-breaker-heavy-duty-3200-watt-hammer/p/itm7f512476d982b",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_736102aab9": {
+            "url": "https://www.flipkart.com/ranpra-drill-machine-10mm-100-copper-armature-machine-pistol-grip/p/itm164dd2e988a20",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_300727bf33": {
+            "url": "https://www.flipkart.com/wrogn-men-black-yellow-genuine-leather-wallet/p/itmf024c34b5c9f3",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_5073388660": {
+            "url": "https://www.flipkart.com/force-printed-men-zip-neck-reversible-pink-t-shirt/p/itmfc772a7d06274",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_fc04bb483f": {
+            "url": "https://www.flipkart.com/hotstyle-tpu-running-shoes-men/p/itma3dfa1af58b2f",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_36711decf3": {
+            "url": "https://www.flipkart.com/lorith-france-lemon-ice-car-freshener-diffuser-perfume-combo-best-pack-1-premium-hanging-air-lemon-ice-15ml-long-lasting-natural-essential-oil-glass-bottle-accessories/p/itm271dbb1b4bb19",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_0cb7039e60": {
+            "url": "https://www.flipkart.com/jaipur-fabric-cotton-double-flat-180-tc-printed-1-bedsheet-2-pillow-covers/p/itmc1cf4db764c48",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_a81620d7e0": {
+            "url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-dark-blue-t-shirt/p/itmecb7c7d4481a8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_948384fef0": {
+            "url": "https://www.flipkart.com/elbatross-printed-women-round-neck-white-t-shirt/p/itm1524581181402",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4171a2bd93": {
+            "url": "https://www.flipkart.com/metronaut-printed-women-round-neck-black-white-t-shirt/p/itm5264833c0fb33",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
