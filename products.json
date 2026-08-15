@@ -3227,10 +3227,10 @@
         "amz_B0BSNNT7LY": {
             "url": "https://www.amazon.in/Fortune-Arhar-Unpolished-Sortex-cleaned/dp/B0BSNNT7LY/ref=sr_1_9_in_f3_0o_fs_mod_primary_alm",
             "title": "Fortune Arhar Dal (Toor Dal), 1 kg, Unpolished and Sortex cleaned",
-            "last_price": 164.0,
+            "last_price": 147.0,
             "target_price": null,
             "highest_price": 176.0,
-            "list_price": 164.0
+            "list_price": 147.0
         },
         "amz_B00H5NMNXC": {
             "url": "https://www.amazon.in/Himalaya-Tear-free-hibiscus-nourishes-synthetic/dp/B00H5NMNXC/ref=sr_1_6_in_f3_0o_fs_mod_primary_alm",
@@ -5931,7 +5931,7 @@
         "amz_B0DW43GXSH": {
             "url": "https://www.amazon.in/Godrej-Fab-Liquid-Detergent-Machine/dp/B0DW43GXSH/ref=sr_1_9",
             "title": "Godrej Fab Liquid Detergent Refill Pouch for Machine - 4 L",
-            "last_price": 494.0,
+            "last_price": 399.0,
             "target_price": null,
             "highest_price": 499.0,
             "list_price": 99.75
@@ -6475,9 +6475,9 @@
         "amz_B095GZDPMS": {
             "url": "https://www.amazon.in/DOMS-Gifting-Strokes-Multicolour-DM7514/dp/B095GZDPMS/ref=sr_1_5",
             "title": "Doms Art Strokes Kit | Perfect Value Pack | Kit for Creative Minds | Gifting Range for Kids | Combination of 10 Stationery Items | Pack of 1",
-            "last_price": 133.0,
+            "last_price": 150.0,
             "target_price": null,
-            "highest_price": 149.0,
+            "highest_price": 150.0,
             "list_price": null
         },
         "amz_B0CFDTW992": {
@@ -59946,6 +59946,14 @@
         },
         "amz_9369522913": {
             "url": "https://www.amazon.in/Art-Thinking-Graphs-Illustrating-Decision-Making/dp/9369522913/ref=sr_1_10",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_6a39629e0f": {
+            "url": "https://www.flipkart.com/justmixx-complete-care-combo-diy-detergent-liquid-dishwash-fabric-conditioner/p/itm37aa1d6f13e60",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
