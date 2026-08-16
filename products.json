@@ -1603,7 +1603,7 @@
         "amz_B0G2R8YYXZ": {
             "url": "https://www.amazon.in/HP-i5-13420H-Windows-Office24-fa2196TX/dp/B0G2R8YYXZ/ref=sr_1_7",
             "title": "HP Victus, 13th Gen Intel Core i5-13420H, 6GB RTX 3050, 16GB DDR4, 512GB SSD, FHD, 144Hz, 300 nits, IPS, 15.6''/39.6cm, Windows 11 Home, Office24, Blue, 2.29kg, fa2196TX, Gaming Laptop",
-            "last_price": 92900.0,
+            "last_price": 89800.0,
             "target_price": null,
             "highest_price": 92900.0,
             "list_price": null
@@ -7723,7 +7723,7 @@
         "amz_B0G92H59RK": {
             "url": "https://www.amazon.in/K25-Mattress-High-Density-Lightweight-Portable/dp/B0G92H59RK/ref=sr_1_6",
             "title": "K25 Cotton Floor Bed Mattress with High-Density Foam for Extra Bedding | Lightweight Portable Rolling Mat for Travel Yoga Outdoor & Camping (Size: 72x48x0.8 Inch, Multicolor)",
-            "last_price": 1591.0,
+            "last_price": 1669.0,
             "target_price": null,
             "highest_price": 1699.0,
             "list_price": null
@@ -60906,6 +60906,22 @@
         },
         "oth_67af6297b0": {
             "url": "https://www.flipkart.com/atrocitus-atr614-80w-digital-red-mm-bit-w-fx-wk-stnd-wc-tw-80-w-temperature-controlled/p/itmee32b906dfc59",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_49f28ef6ef": {
+            "url": "https://www.flipkart.com/motorola-motobook-60-pro-full-metal-ai-pc-wuxga-oled-intel-core-ultra-5-225h-16-gb-512-gb-ssd-windows-11-home-14iah101-thin-light-laptop/p/itm9a8f7e63c313f",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_e7abca2def": {
+            "url": "https://www.flipkart.com/motorola-motobook-60-full-metal-2-8k-oled-i5-14th-gen-intel-core-5-series-2-210h-16-gb-512-gb-ssd-windows-11-home-14irh10r-thin-light-laptop/p/itm9a50f9400e0e0",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
