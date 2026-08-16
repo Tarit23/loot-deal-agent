@@ -2475,7 +2475,7 @@
         "amz_B07VQYPH5Q": {
             "url": "https://www.amazon.in/Pigeon-Stoverkraft-Glass-Aster-Burner/dp/B07VQYPH5Q/ref=sr_1_4",
             "title": "Pigeon by Stovekraft Aster 3 Burner Gas Stove with High Powered Brass Burner Gas Cooktop, Cooktop with Glass Top and Powder Coated Body, Black, Manual Ignition, Standard (14267)",
-            "last_price": 3799.0,
+            "last_price": 3399.0,
             "target_price": null,
             "highest_price": 3799.0,
             "list_price": null
@@ -4771,7 +4771,7 @@
         "amz_B00IZ965RU": {
             "url": "https://www.amazon.in/SPARX-SX0171G-N-Blue-Running-SX0171GNBOR0009/dp/B00IZ965RU/ref=sr_1_4",
             "title": "SPARX Sports Shoe SM-171 for Men",
-            "last_price": 979.0,
+            "last_price": 969.0,
             "target_price": null,
             "highest_price": 999.0,
             "list_price": null
@@ -6275,7 +6275,7 @@
         "amz_B0F2N1CFPS": {
             "url": "https://www.amazon.in/Dell-SE2725HM-Ultra-Thin-Response-Contrast/dp/B0F2N1CFPS/ref=sr_1_10",
             "title": "Dell SE2725HM 27\"/68.58 cm FHD Monitor, Ultra-Thin Bezels, 100Hz IPS Panel, 5 ms Response, Contrast 1000:1, Tilt Adjust, HDMI, VGA, Warranty 3 Years, Comfortview Plus, T\u00dcV Rheinland 3-Star Eye Comfort",
-            "last_price": 10249.0,
+            "last_price": 8799.0,
             "target_price": null,
             "highest_price": 10249.0,
             "list_price": null
@@ -6515,10 +6515,10 @@
         "amz_B006L7Q3OS": {
             "url": "https://www.amazon.in/Santoor-Sandal-Turmeric-Soap-Total/dp/B006L7Q3OS/ref=sr_1_10_in_f3_0o_fs_mod_primary_alm",
             "title": "Santoor Sandal & Turmeric Soap for Total Skin Care, 125g (Pack of 4)",
-            "last_price": 163.0,
+            "last_price": 156.0,
             "target_price": null,
             "highest_price": 163.0,
-            "list_price": 32.6
+            "list_price": 31.2
         },
         "amz_B0C8BD3MQK": {
             "url": "https://www.amazon.in/DETACHI-Protector-Transparent-Protection-Universal/dp/B0C8BD3MQK/ref=sr_1_10",
@@ -10043,9 +10043,9 @@
         "amz_B0GVYDLJJQ": {
             "url": "https://www.amazon.in/OnePlus-Segments-Dimensity-Processor-Recording/dp/B0GVYDLJJQ/ref=sr_1_10",
             "title": "OnePlus Nord CE6 Lite | 6GB+128GB | Hyper Black | Segment's Fastest Dimensity 7400 Apex Processor | 7000mAh Battery | Segment's Highest 144Hz Refresh Rate | 50MP Main Camera, 4K Video Recording",
-            "last_price": 24999.0,
+            "last_price": 28999.0,
             "target_price": null,
-            "highest_price": 25999.0,
+            "highest_price": 28999.0,
             "list_price": null
         },
         "amz_B0B6BPX5S9": {
@@ -31450,10 +31450,10 @@
         },
         "amz_B0FDB9H277": {
             "url": "https://www.amazon.in/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9H277/ref=sr_1_4",
-            "title": "Pending Title...",
-            "last_price": 18999.0,
+            "title": "Samsung Galaxy M36 5G Mobile (Serene Green, 6GB RAM, 128GB Storage) | Google Gemini| Gorilla Glass Victus+ | 7.7mm | AI Enhanced 50MP OIS Triple Camera| Nightography| Lag-free Gaming | Without Charger",
+            "last_price": 19999.0,
             "target_price": null,
-            "highest_price": 18999.0,
+            "highest_price": 19999.0,
             "list_price": null
         },
         "amz_B0H1H6KDBN": {
@@ -61250,6 +61250,30 @@
         },
         "oth_7c5cc3388e": {
             "url": "https://www.flipkart.com/toyzoy-maple-smart-baby-tricycle-parental-handle-foldable-canopy-kids-2-years-tz-532/p/itm44f734c6b518d",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GTMGV2BP": {
+            "url": "https://www.amazon.in/SUPERLAXMI-Bandhani-Bollywood-Saree-Border/dp/B0GTMGV2BP/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_478aec85da": {
+            "url": "https://www.flipkart.com/motorola-motobook-60-pro-full-metal-ai-pc-2-8k-oled-intel-core-ultra-5-225h-16-gb-512-gb-ssd-windows-11-home-14iah10-thin-light-laptop/p/itm58b168bff5710",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_da057562b4": {
+            "url": "https://www.flipkart.com/asus-vivobook-15-2026-ai-pc-npu-up-16tops-intel-core-5-320-16-gb-512-gb-ssd-windows-11-home-x1504ma-bq126ws-thin-light-laptop/p/itmb8ccc86bf8976",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
