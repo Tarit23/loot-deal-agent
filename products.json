@@ -4355,7 +4355,7 @@
         "amz_B0D2TX1S5F": {
             "url": "https://www.amazon.in/TEAKWOOD-LEATHERS-Trolley-Closure-Adjustable/dp/B0D2TX1S5F/ref=sr_1_6",
             "title": "TEAKWOOD LEATHERS Unisex 8 Wheels Trolley Bag, Hard Cabin with Zipper Closure, Adjustable Push Button & Cross Side Strap, Lock System 360 Degree (55 CM, Sky Blue)",
-            "last_price": 1249.0,
+            "last_price": 999.0,
             "target_price": null,
             "highest_price": 1249.0,
             "list_price": null
@@ -7763,7 +7763,7 @@
         "amz_B0B9X7NRFX": {
             "url": "https://www.amazon.in/Forest-Seattle-Blocking-Leather-Wallet/dp/B0B9X7NRFX/ref=sr_1_4",
             "title": "URBAN FOREST Seattle Green/Sand Leather Wallet for Men",
-            "last_price": 469.0,
+            "last_price": 498.0,
             "target_price": null,
             "highest_price": 498.0,
             "list_price": null
@@ -8131,9 +8131,9 @@
         "amz_B0DFMG5ZLF": {
             "url": "https://www.amazon.in/Lifelong-Magnetic-Screwdriver-Multipurpose-Reach/dp/B0DFMG5ZLF/ref=sr_1_9",
             "title": "Lifelong 62 in 1 Magnetic Precision Screwdriver Set, Tool Kit for Home | Multipurpose - Furniture & Electronic Repair | Extendable & Flexible Shaft for Hard-to-Reach Places | Laptops, Phones (LLETK09)",
-            "last_price": 649.0,
+            "last_price": 699.0,
             "target_price": null,
-            "highest_price": 689.0,
+            "highest_price": 699.0,
             "list_price": null
         },
         "amz_B0CL3B78XP": {
@@ -10618,8 +10618,8 @@
         },
         "amz_B0FMY9CBT5": {
             "url": "https://www.amazon.in/Aristocrat-Compatible-Backpack-Compartments-Backpanel/dp/B0FMY9CBT5/ref=sr_1_3",
-            "title": "Aristocrat Lava 17 Inch Compatible Laptop Backpack 25L | Premium Durable Fabric | 2 Compartments with Side Bottle Pocket | Padded Backpanel | Office & Travel Backpack for Men & Women",
-            "last_price": 429.0,
+            "title": "Aristocrat Lava 25L Laptop Backpack (Upto 17\"), 2 Compartments",
+            "last_price": 415.0,
             "target_price": null,
             "highest_price": 439.0,
             "list_price": null
@@ -52682,10 +52682,10 @@
         },
         "amz_B0H5BZVJ31": {
             "url": "https://www.amazon.in/ASUS-Vivobook-Windows-Office-TP3407SA-SG184WS/dp/B0H5BZVJ31/ref=sr_1_7",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "ASUS Vivobook 14 Flip (2026),Intel Core Ultra 7 256V,Intel Arc iGPU,16GB RAM,512GB SSD,OLED,14\"(35.5 cm),Windows 11,M365 Basic(1Y),Office 2024,Matte Gray,1.57 Kg,TP3407SA-SG184WS,AI Laptop",
+            "last_price": 125990.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 125990.0,
             "list_price": null
         },
         "amz_B0FPDPYW3Q": {
@@ -56658,10 +56658,10 @@
         },
         "amz_B0D9FWQQFT": {
             "url": "https://www.amazon.in/Sidhidata-Kanjivaram-Banarasi-Unstitched-Mustard_Mustard_Free/dp/B0D9FWQQFT/ref=sr_1_10",
-            "title": "Pending Title...",
-            "last_price": null,
+            "title": "Sidhidata Women's Kanjivaram Banarasi Soft Silk Saree With Unstitched Blouse Piece (Silk Box Flower)",
+            "last_price": 809.0,
             "target_price": null,
-            "highest_price": null,
+            "highest_price": 809.0,
             "list_price": null
         },
         "oth_dc2eeb04be": {
@@ -70458,6 +70458,46 @@
         },
         "oth_a9829f7575": {
             "url": "https://www.flipkart.com/b-five-kids-scooter/p/itm97c55f8a0b4af",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0GDS3B33Y": {
+            "url": "https://www.amazon.in/Rectangular-Sunglasses-Black-Lenses-Style-Men/dp/B0GDS3B33Y/ref=sr_1_4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0HBKZ8FKF": {
+            "url": "https://www.amazon.in/MARSHALL-SOREN-Protected-Rectangle-Sunglass/dp/B0HBKZ8FKF/ref=sr_1_7",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0D2XQQQ96": {
+            "url": "https://www.amazon.in/Godrej-Fab-Liquid-Detergent-Machine/dp/B0D2XQQQ96/ref=sr_1_9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B00M3U924A": {
+            "url": "https://www.amazon.in/Ray-Ban-Gradient-Aviator-Sunglasses-millimeters/dp/B00M3U924A/ref=sr_1_2",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "amz_B0D83BX89H": {
+            "url": "https://www.amazon.in/Fastrack-Brown-Gradient-Unisex-Sunglasses/dp/B0D83BX89H/ref=sr_1_8",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
