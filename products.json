@@ -539,7 +539,7 @@
         "amz_B0GWH84W5K": {
             "url": "https://www.amazon.in/Lenovo-IdeaPad-i5-13420H-Windows-83K100S0IN/dp/B0GWH84W5K/ref=sr_1_7",
             "title": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i5-13420H 15.3 inch (38.8cm) WUXGA IPS Laptop (16GB RAM/1TB SSD/Windows 11/MSO 365 Basic+Office 2024/Top Metal Cover/Backlit KB/Grey/1.6Kg), 83K100S0IN",
-            "last_price": 72990.0,
+            "last_price": 81500.0,
             "target_price": null,
             "highest_price": 84490.0,
             "list_price": null
@@ -3083,7 +3083,7 @@
         "amz_B0G2RCXTN6": {
             "url": "https://www.amazon.in/Zebronics-Monitor-1920x1080-250nits-Brightness/dp/B0G2RCXTN6/ref=sr_1_6",
             "title": "Zebronics 21.5\u201d (54.6cm) LED Monitor, FHD 1920x1080, 250nits Brightness, Dual Input - HDMI/VGA, 2000000:1 Dynamic Contrast Ratio, 16.7M Colors, 16:9 Aspect Ratio, Wall Mountable (EA 122)",
-            "last_price": 3499.0,
+            "last_price": 3999.0,
             "target_price": null,
             "highest_price": 3999.0,
             "list_price": null
@@ -9995,9 +9995,9 @@
         "amz_B0C8NT2SYN": {
             "url": "https://www.amazon.in/Ferrero-Rocher-Moments-pralines-185-6gm/dp/B0C8NT2SYN/ref=sr_1_10_in_f3_0o_fs_mod_primary_alm",
             "title": "Ferrero Rocher Moments, 32 Pcs,Hazelnut,185.6 Gm",
-            "last_price": 440.0,
+            "last_price": 501.0,
             "target_price": null,
-            "highest_price": 485.0,
+            "highest_price": 501.0,
             "list_price": 15.16
         },
         "amz_B0GGD3JMHF": {
@@ -10363,7 +10363,7 @@
         "amz_B0FMP17TF5": {
             "url": "https://www.amazon.in/NEW-TOWN-Bedsheets-Supersoft-Size-72X68/dp/B0FMP17TF5/ref=sr_1_5",
             "title": "NEW TOWN Premium Cotton Feel Glace Cotton 210 Tc Elastic Fitted Bedsheets with 2 Pillow Covers Double Bed with Corner Elastic Supersoft Floral Pattren |Size-72X68+ 6 Inches SR 4265",
-            "last_price": 324.0,
+            "last_price": 303.0,
             "target_price": null,
             "highest_price": 399.0,
             "list_price": 1299.0
@@ -11426,8 +11426,8 @@
         },
         "amz_B0F2T7JN96": {
             "url": "https://www.amazon.in/Highlander-Mid-Rise-Tailored-Minimalistic-Silhouette/dp/B0F2T7JN96/ref=sr_1_5",
-            "title": "Highlander Men\u2019s Straight Fit Jeans | Mid Rise | Stretchable | Designed for Comfort & Ease of Movement| Jeans for Man",
-            "last_price": 589.0,
+            "title": "Highlander Men Men\u2019s Straight Fit Jeans | Mid Rise | Stretchable | Designed for Comfort & Ease of Movement| Jeans for Man",
+            "last_price": 588.0,
             "target_price": null,
             "highest_price": 589.0,
             "list_price": null
@@ -70938,6 +70938,38 @@
         },
         "oth_5237cfc612": {
             "url": "https://www.flipkart.com/kemmie-km-809-a-trimmer-240-min-runtime-6-length-settings/p/itmdb72718763312",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_7efdbf002d": {
+            "url": "https://www.flipkart.com/butterfly-renz-glass-manual-gas-stove/p/itmba8cbdfce8ce7",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_e656a0acef": {
+            "url": "https://www.flipkart.com/toroka-new-waterproof-makeup-kit-combo-girls-women-all-products/p/itm4201250ff0d52",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_6903e22d97": {
+            "url": "https://www.flipkart.com/butterfly-renz-glass-manual-gas-stove/p/itmdfc439008da85",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_c1cd495d6a": {
+            "url": "https://www.flipkart.com/wings-fire-agni-ki-udaan-flight-fire-inspiring-journey-dr-apj-abdul-kalam-autobiography-book-hindi/p/itmd08d69d0c4624",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
