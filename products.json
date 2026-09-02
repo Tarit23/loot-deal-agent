@@ -8147,9 +8147,9 @@
         "amz_B008TUVUFW": {
             "url": "https://www.amazon.in/Ferrero-Rocher-4-Pieces/dp/B008TUVUFW/ref=sr_1_9_in_f3_0o_fs_mod_primary_alm",
             "title": "Ferrero Rocher, 4 Pieces - 50 g",
-            "last_price": 169.0,
+            "last_price": 179.0,
             "target_price": null,
-            "highest_price": 169.0,
+            "highest_price": 179.0,
             "list_price": 84.5
         },
         "amz_B0DFYBBTF2": {
@@ -8723,7 +8723,7 @@
         "amz_B0CDLBNZQH": {
             "url": "https://www.amazon.in/IWEGGO-Expandable-Quad-Core-Processor-Touchscreen/dp/B0CDLBNZQH/ref=sr_1_9",
             "title": "IWEGGO 15 Android Tablet, 10 18GB RAM + 128GB ROM/2TB Expandable Tablet, 2.0GHz Quad-Core Processor, 1280x800 HD Touchscreen, 5G WiFi6 BT5.0, 2-in-1 Tablets with (Navy Blue)",
-            "last_price": 10725.93,
+            "last_price": 10516.0,
             "target_price": null,
             "highest_price": 13296.0,
             "list_price": null
@@ -9219,7 +9219,7 @@
         "amz_B0FVM5TTPT": {
             "url": "https://www.amazon.in/Beauty-Makeup-Radiance-Vitamin-Hyaluronic/dp/B0FVM5TTPT/ref=sr_1_6",
             "title": "Swiss Beauty Glow Up Makeup Fixer | Preps + Sets | Dewy Radiance | For Face & Body | With Vitamin C & Hyaluronic Acid | 100ml",
-            "last_price": 235.0,
+            "last_price": 295.0,
             "target_price": null,
             "highest_price": 504.0,
             "list_price": null
@@ -49043,7 +49043,7 @@
         "amz_B0H3PWQS5M": {
             "url": "https://www.amazon.in/Waterproof-Adjustable-Pockets-Raincoat-Polyester/dp/B0H3PWQS5M/ref=sr_1_6",
             "title": "Rain Jacket for Men Waterproof for Bike Riders with Adjustable Hood Along with Inner Pockets,Waterproof Raincoat with Polyester Jacket, Zipper Pockets & Elastic Cuffs For Bike, Travel & Daily Wear",
-            "last_price": 999.0,
+            "last_price": 949.0,
             "target_price": null,
             "highest_price": 999.0,
             "list_price": null
@@ -70970,6 +70970,78 @@
         },
         "oth_c1cd495d6a": {
             "url": "https://www.flipkart.com/wings-fire-agni-ki-udaan-flight-fire-inspiring-journey-dr-apj-abdul-kalam-autobiography-book-hindi/p/itmd08d69d0c4624",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_26fa5f31d9": {
+            "url": "https://www.flipkart.com/sndart-premium-premanand-ji-maharaj-wall-hanging-living-room-bedroom-spiritual-a126-album/p/itm59e7eba8090a8",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4f06633080": {
+            "url": "https://www.flipkart.com/gns-world-g220-g54-64-64-gb-pen-drive-compatible-audio-player-desktop-computer-gaming-console-laptop-mobile-netbook-tablet-television-usb-2-0-metal-case/p/itm8dabbbd18f77a",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_a0a37d83e5": {
+            "url": "https://www.flipkart.com/drycon-steel-floor-cloth-dryer-stand-laundry-racks-mirrore-finish-3-tier/p/itm1f2e79375d5af",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_8b01e5f962": {
+            "url": "https://www.flipkart.com/npstar-n220-256-gb-pen-drive-compatible-audio-player-desktop-computer-gaming-console-laptop-mobile-usb-2-0-metal-case/p/itmc2bb4b09e7119",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_2bb5e61004": {
+            "url": "https://www.flipkart.com/fleximaa-solid-women-round-neck-black-t-shirt/p/itm66d2bfc623e14",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4a33e57971": {
+            "url": "https://www.flipkart.com/kanitex-printed-men-round-neck-black-t-shirt/p/itmebe0ea5ea5cc6",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_41030fb89c": {
+            "url": "https://www.flipkart.com/sndart-premium-premanand-ji-maharaj-wall-hanging-living-room-bedroom-spiritual-a1-album/p/itm7209b6395e35b",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_804b19583e": {
+            "url": "https://www.flipkart.com/cadbury-silk-chocolate-home-treats-bar-gift-pack/p/itmfaazzgypvhgvs",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_78ec2f0e66": {
+            "url": "https://www.flipkart.com/midiron-ch-147-bar-gift-pack/p/itmff8849c6254be",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
