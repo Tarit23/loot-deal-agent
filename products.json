@@ -723,7 +723,7 @@
         "amz_B0GNMG31LQ": {
             "url": "https://www.amazon.in/ASUS-3050-4GB-Upgradeable-Graphite-FA506NCQ-HN009WS/dp/B0GNMG31LQ/ref=sr_1_3",
             "title": "ASUS TUF A15, Smartchoice,AMD Ryzen 7 170,RTX 3050-4GB,16GB RAM (Upgradeable),1TB SSD,FHD, 15.6\"(39.6 cm),Win 11 Home, M365 Basic(1Y),Office 2024, Black, 2.3 Kg, FA506NCQ-HN009WS, Gaming Laptop",
-            "last_price": 119990.0,
+            "last_price": 112990.0,
             "target_price": null,
             "highest_price": 119990.0,
             "list_price": null
@@ -3763,9 +3763,9 @@
         "amz_B0B8CXKWVB": {
             "url": "https://www.amazon.in/Tata-Sampann-Premium-Raisins-Seedless/dp/B0B8CXKWVB/ref=sr_1_5_in_f3_0o_fs_mod_primary_alm",
             "title": "Tata Sampann Pure Raisins Seedless/Kishmish, 500g, Source Of Potassium, Premium Dry Fruits, Green Raisins",
-            "last_price": 290.0,
+            "last_price": 376.0,
             "target_price": null,
-            "highest_price": 352.0,
+            "highest_price": 376.0,
             "list_price": 70.4
         },
         "amz_B0GCFSYJP8": {
@@ -10235,9 +10235,9 @@
         "amz_B0CD4BQ4SF": {
             "url": "https://www.amazon.in/Lenovo-Ideapad-Backlit-Keyboard-82XQ008VIN/dp/B0CD4BQ4SF/ref=sr_1_10",
             "title": "Lenovo Ideapad Slim 3 AMD Ryzen 5 7520U 15.6\" (39.6cm) FHD Thin and Light Laptop (16GB/512GB SSD/Windows 11/Microsoft 365 Basic* + Office Home 2024/Backlit Keyboard/Grey/1.6Kg), 82XQ00XDIN",
-            "last_price": 61890.0,
+            "last_price": 63800.0,
             "target_price": null,
-            "highest_price": 61890.0,
+            "highest_price": 63800.0,
             "list_price": null
         },
         "amz_B0FMRSJK1L": {
@@ -10643,7 +10643,7 @@
         "amz_B0FDBFQQDC": {
             "url": "https://www.amazon.in/VGRASSP-Remote-Control-Helicopter-Function/dp/B0FDBFQQDC/ref=sr_1_4",
             "title": "VGRASSP Remote Control Helicopter Toy for Kids with Up and Down Function - Rechargeable RC Chopper with Hand Sensor Auto-Lift - Indoor and Outdoor Flying Toy - Color As Per Stock",
-            "last_price": 379.0,
+            "last_price": 389.0,
             "target_price": null,
             "highest_price": 529.0,
             "list_price": null
@@ -11002,8 +11002,8 @@
         },
         "amz_B0BPCR7K7F": {
             "url": "https://www.amazon.in/MuscleBlaze-Performance-Clinically-Absorption-Certified/dp/B0BPCR7K7F/ref=sr_1_10",
-            "title": "MuscleBlaze Biozyme Performance Whey Protein Powder, 1kg (2.2lbs) | Chocolate Hazelnut | 25g Protein Per Scoop | Clinically Tested 50% Higher Protein Absorption",
-            "last_price": 3999.0,
+            "title": "MuscleBlaze Biozyme Performance Whey Protein Powder, 1kg (2.2lbs)",
+            "last_price": 3899.0,
             "target_price": null,
             "highest_price": 3999.0,
             "list_price": null
@@ -60787,7 +60787,7 @@
         "amz_B0H8VZSNLC": {
             "url": "https://www.amazon.in/Floor-3-Tier-Storage-Shelves-Linen/dp/B0H8VZSNLC/ref=sr_1_4",
             "title": "Floor Lamp with 3-Tier Storage Shelves, Linen Shade",
-            "last_price": 999.99,
+            "last_price": 999.0,
             "target_price": null,
             "highest_price": 999.99,
             "list_price": null
@@ -73082,6 +73082,62 @@
         },
         "oth_bb738a464b": {
             "url": "https://www.flipkart.com/decomizer-153-cm-5-ft-window-polyester-room-darkening-curtain-single/p/itm4f21804d27ad9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_278a558bac": {
+            "url": "https://www.flipkart.com/punnkfunnk-beatxtra-70h-battery-dual-pairing-40mm-drivers-enc-aux-port-bluetooth/p/itmb2e2e170bd127",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_0e57188bd8": {
+            "url": "https://www.flipkart.com/aadhyaecom-como-3-hardbound-ruled-note-book-a5-size-8-5x5-5-inch-notebook-200-pages/p/itmd4e5cdd70c038",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_964e991f25": {
+            "url": "https://www.flipkart.com/saab-ji-lv-hashira-mitshuri/p/itm9b48dad98341b",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_a08ae64b3f": {
+            "url": "https://www.flipkart.com/mindora-diary-a5-notebook-ruled-192-pages/p/itmc78a91897b8f4",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_abc3fb8d00": {
+            "url": "https://www.flipkart.com/saab-ji-pickachu001/p/itmbf547183990f9",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_ff0195a22a": {
+            "url": "https://www.flipkart.com/innore-giraffe-table-lamp-cnc-cut-work-kids-bedroom-ms-base/p/itm08df46211baa1",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_3f75f5109e": {
+            "url": "https://www.flipkart.com/rising-3-colour-mode-rechargeable-8w-led-study-desk-table-lamp/p/itmacb2acc0bc915",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
