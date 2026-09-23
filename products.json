@@ -1362,8 +1362,8 @@
         },
         "amz_B0FN7RN9TH": {
             "url": "https://www.amazon.in/Samsung-Sapphire-Storage-Upgrades-Lag-Free/dp/B0FN7RN9TH/ref=sr_1_8",
-            "title": "Samsung Galaxy M17 5G Mobile (Sapphire Black, 4GB RAM, 128GB Storage) | 50MP OIS Triple Camera | Gorilla Glass Victus | IP54 | 6 Gen OS Upgrades | AI | Gemini Live | Lag-Free Gaming | Without Charger",
-            "last_price": 14499.0,
+            "title": "Samsung Galaxy M17 5G Mobile (Sapphire Black, 4GB RAM, 128GB Storage) | 50MP OIS Triple Camera | Super AMOLED Display | Gorilla Glass Victus | 6 Gen OS Upgrades | Knox Security | AI",
+            "last_price": 11999.0,
             "target_price": null,
             "highest_price": 16999.0,
             "list_price": null
@@ -2003,7 +2003,7 @@
         "amz_B07S2SKYTH": {
             "url": "https://www.amazon.in/Hair-Care-Walnut-Almond-Non-Sticky/dp/B07S2SKYTH/ref=sr_1_1",
             "title": "Hair & Care Almond, Vitamin E & B5 Non-Sticky Hair Oil - 500ml | Up to 90% Less Hair Fall | Frizz Control | Smooth & Glossy Hair",
-            "last_price": 119.0,
+            "last_price": 129.0,
             "target_price": null,
             "highest_price": 199.0,
             "list_price": null
@@ -5179,7 +5179,7 @@
         "amz_B0G52HG8L7": {
             "url": "https://www.amazon.in/Kratos-65W-Compatible-Smartphones-SuperVooc/dp/B0G52HG8L7/ref=sr_1_7",
             "title": "Kratos 65W Fast Charger Adapter & USB-A to Type C Cable Combo, Compatible with OnePlus, Realme, Xiaomi, Redmi, Oppo, Vivo & Other Smartphones, Type C Charger Supports Dash, Warp, Vooc,SuperVooc",
-            "last_price": 559.0,
+            "last_price": 549.0,
             "target_price": null,
             "highest_price": 599.0,
             "list_price": null
@@ -10267,7 +10267,7 @@
         "amz_B0FRRL399W": {
             "url": "https://www.amazon.in/acer-i5-13th-13420H-NVIDIA-GeForce/dp/B0FRRL399W/ref=sr_1_3",
             "title": "Acer Nitro V 15, Intel core i5-13th Gen 13420H,NVIDIA GeForce RTX - 5050 8GB, 16 GB/512 GB,Full HD IPS,15.6\"/39.62 cm,165 Hz, Win 11 Home, Obsidian Black, 2.113 kg, ANV15-52, Amber KB,Gaming Laptop",
-            "last_price": 88888.0,
+            "last_price": 88600.0,
             "target_price": null,
             "highest_price": 125990.0,
             "list_price": null
@@ -28635,9 +28635,9 @@
         "amz_B0H14NSF4H": {
             "url": "https://www.amazon.in/FUNFOB-Action-Height-Collectible-Multicolour/dp/B0H14NSF4H/ref=sr_1_8",
             "title": "FUNFOB Action Figure Set of 6 Height- 7.5cm Collectible for Anime Fans PVC Multicolour | DDMN- BSC",
-            "last_price": 498.0,
+            "last_price": 599.0,
             "target_price": null,
-            "highest_price": 498.0,
+            "highest_price": 599.0,
             "list_price": null
         },
         "amz_B0H2T1LVJJ": {
@@ -80122,6 +80122,70 @@
         },
         "oth_33825cf41e": {
             "url": "https://www.flipkart.com/okasta-17-piece-cr-v-steel-multipurpose-screwdriver-bit-socket-setfor-home-repair-set/p/itm3febeeff0f9ed",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_5a4a70b30c": {
+            "url": "https://www.flipkart.com/fusion-fly-beauty-makeup-kit-products-unique-itemsff/p/itm62ab59aa3c311",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_fb2d30de99": {
+            "url": "https://www.flipkart.com/birde-premium-comfortable-lightweight-regular-wear-sneakers-men/p/itmeb2d706477599",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_7901415f0c": {
+            "url": "https://www.flipkart.com/nutraj-seedless-prunes-200g-dried-pitted-plums-prunes-dry-fruits/p/itmab69cf9ed0245",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_8b9fc7c736": {
+            "url": "https://www.flipkart.com/boat-wave-fury-smartwatch/p/itm7795a986a347e",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_0c5a290a9f": {
+            "url": "https://www.flipkart.com/rmdshub-t800-ultra-smart-watch-series-8-men-women-no-sim-card-smartwatch/p/itm1cdd8d1725ff0",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_1b58ccc3f0": {
+            "url": "https://www.flipkart.com/farmley-dry-fruit-mix-panchmeva/p/itmecfa1643f1671",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_25a055ece3": {
+            "url": "https://www.flipkart.com/natural-herbal-products-turmeric-facial-wax-hair-removal-face-5-min-painless-organic-waxing/p/itm547b32ac20428",
+            "title": "Pending Title...",
+            "last_price": null,
+            "target_price": null,
+            "highest_price": null,
+            "list_price": null
+        },
+        "oth_4429f01470": {
+            "url": "https://www.flipkart.com/puma-smashic-sneakers-men/p/itm99621d83293b7",
             "title": "Pending Title...",
             "last_price": null,
             "target_price": null,
